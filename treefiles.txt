@@ -1,0 +1,683 @@
+path	name	Latin Name	Common Name
+tree_atlas_dd83/a-b/abieamab.shp	abieamab	Abies amabilis	Pacific silver fir
+tree_atlas_dd83/a-b/abiebals.shp	abiebals	Abies balsamea	balsam fir
+tree_atlas_dd83/a-b/abiebrac.shp	abiebrac	Abies bracteata	bristlecone fir
+tree_atlas_dd83/a-b/abieconc.shp	abieconc	Abies concolor	white fir
+tree_atlas_dd83/a-b/abiefras.shp	abiefras	Abies fraseri	Fraser fir
+tree_atlas_dd83/a-b/abiegran.shp	abiegran	Abies grandis	grand fir
+tree_atlas_dd83/a-b/abielasi.shp	abielasi	Abies lasiocarpa	subalpine fir
+tree_atlas_dd83/a-b/abiemagn.shp	abiemagn	Abies magnifica	California red fir
+tree_atlas_dd83/a-b/abieproc.shp	abieproc	Abies procera	noble fir
+tree_atlas_dd83/a-b/acacberl.shp	acacberl	Senegalia berlandieri	Berlandier acacia
+tree_atlas_dd83/a-b/acacchor.shp	acacchor	Vachellia choriophylla	cinnecord
+tree_atlas_dd83/a-b/acacfarn.shp	acacfarn	Vachellia farnesiana	sweet acacia
+tree_atlas_dd83/a-b/acacgreg.shp	acacgreg	Senegalia greggii	catclaw acacia
+tree_atlas_dd83/a-b/acacmacr.shp	acacmacr	Vachellia macracantha	long spine acacia
+tree_atlas_dd83/a-b/acacrigi.shp	acacrigi	Vachellia rigidula	blackbrush acacia
+tree_atlas_dd83/a-b/acacroem.shp	acacroem	Senegalia roemeriana	Roemer acacia
+tree_atlas_dd83/a-b/acactort.shp	acactort	Vachellia tortuosa	twisted acacia
+tree_atlas_dd83/a-b/acacwrig.shp	acacwrig	Senegalia wrightii	Wright acacia
+tree_atlas_dd83/a-b/acerbarb.shp	acerbarb	Acer floridanum	Florida maple
+tree_atlas_dd83/a-b/acercirc.shp	acercirc	Acer circinatum	vine maple
+tree_atlas_dd83/a-b/acerglab.shp	acerglab	Acer glabrum	Rocky Mountain maple
+tree_atlas_dd83/a-b/acergran.shp	acergran	Acer grandidentatum	bigtooth maple
+tree_atlas_dd83/a-b/acerleuc.shp	acerleuc	Acer leucoderme	chalk maple
+tree_atlas_dd83/a-b/acermacr.shp	acermacr	Acer macrophyllum	bigleaf maple
+tree_atlas_dd83/a-b/acernegu.shp	acernegu	Acer negundo	boxelder
+tree_atlas_dd83/a-b/acernigr.shp	acernigr	Acer nigrum	black maple
+tree_atlas_dd83/a-b/acerpens.shp	acerpens	Acer pensylvanicum	striped maple
+tree_atlas_dd83/a-b/acerrubr.shp	acerrubr	Acer rubrum	red maple
+tree_atlas_dd83/a-b/acersacc.shp	acersacc	Acer saccharinum	silver maple
+tree_atlas_dd83/a-b/acersacr.shp	acersacr	Acer saccharum	sugar maple
+tree_atlas_dd83/a-b/acerspic.shp	acerspic	Acer spicatum	mountain maple
+tree_atlas_dd83/a-b/acoewrig.shp	acoewrig	Acoelorrhaphe wrightii	paurotis palm
+tree_atlas_dd83/a-b/aesccali.shp	aesccali	Aesculus californica	California buckeye
+tree_atlas_dd83/a-b/aescglab.shp	aescglab	Aesculus glabra	Ohio buckeye
+tree_atlas_dd83/a-b/aescocta.shp	aescocta	Aesculus flava	yellow buckeye
+tree_atlas_dd83/a-b/aescparv.shp	aescparv	Aesculus parviflora	bottlebrush buckeye
+tree_atlas_dd83/a-b/aescpavi.shp	aescpavi	Aesculus pavia	red buckeye
+tree_atlas_dd83/a-b/aescsylv.shp	aescsylv	Aesculus sylvatica	painted buckeye
+tree_atlas_dd83/a-b/agavutah.shp	agavutah	Agave utahensis	Utah agave
+tree_atlas_dd83/a-b/alnumari.shp	alnumari	Alnus maritima	seaside alder
+tree_atlas_dd83/a-b/alnuoblo.shp	alnuoblo	Alnus oblongifolia	Arizona alder
+tree_atlas_dd83/a-b/alnurhom.shp	alnurhom	Alnus rhombifolia	white alder
+tree_atlas_dd83/a-b/alnurubr.shp	alnurubr	Alnus rubra	red alder
+tree_atlas_dd83/a-b/alnurugo.shp	alnurugo	Alnus rugosa	speckled alder
+tree_atlas_dd83/a-b/alnuserr.shp	alnuserr	Alnus serrulata	hazel alder
+tree_atlas_dd83/a-b/alnusinu.shp	alnusinu	Alnus sinuata	Sitka alder
+tree_atlas_dd83/a-b/alnutenu.shp	alnutenu	Alnus tenuifolia	thinleaf alder
+tree_atlas_dd83/a-b/alvaamor.shp	alvaamor	Alvaradoa amorphoides	Mexican alvaradoa
+tree_atlas_dd83/a-b/amelalni.shp	amelalni	Amelanchier alnifolia	western serviceberry
+tree_atlas_dd83/a-b/amelarbo.shp	amelarbo	Amelanchier arborea	downy serviceberry
+tree_atlas_dd83/a-b/amelinte.shp	amelinte	Amelanchier interior	inland serviceberry
+tree_atlas_dd83/a-b/amelsang.shp	amelsang	Amelanchier sanguinea	roundleaf serviceberry
+tree_atlas_dd83/a-b/amelutah.shp	amelutah	Amelanchier utahensis	Utah serviceberry
+tree_atlas_dd83/a-b/amphlati.shp	amphlati	Amphitecna latifolia	black calabash
+tree_atlas_dd83/a-b/amyrbals.shp	amyrbals	Amyris balsamifera	balsam torchwood
+tree_atlas_dd83/a-b/amyrelem.shp	amyrelem	Amyris elemifera	torchwood
+tree_atlas_dd83/a-b/annoglab.shp	annoglab	Annona glabra	pond apple
+tree_atlas_dd83/a-b/aralspin.shp	aralspin	Aralia spinosa	devils walkingstick
+tree_atlas_dd83/a-b/arbuariz.shp	arbuariz	Arbutus arizonica	Arizona madrone
+tree_atlas_dd83/a-b/arbumenz.shp	arbumenz	Arbutus menziesii	Pacific madrone
+tree_atlas_dd83/a-b/arbutexa.shp	arbutexa	Arbutus texana	Texas madrone
+tree_atlas_dd83/a-b/arctprin.shp	arctprin	Arctostaphylos pringlei	Pringle manzanita
+tree_atlas_dd83/a-b/ardiesca.shp	ardiesca	Ardisia escallonioides	marlberry
+tree_atlas_dd83/a-b/artetrid.shp	artetrid	Artemisia tridentata	big sagebrush
+tree_atlas_dd83/a-b/asimtril.shp	asimtril	Asimina triloba	pawpaw
+tree_atlas_dd83/a-b/avicgerm.shp	avicgerm	Avicennia germinans	black mangrove
+tree_atlas_dd83/a-b/bacchali.shp	bacchali	Baccharis halimifolia	eastern baccharis
+tree_atlas_dd83/a-b/betualle.shp	betualle	Betula alleghaniensis	yellow birch
+tree_atlas_dd83/a-b/betulent.shp	betulent	Betula lenta	sweet birch
+tree_atlas_dd83/a-b/betunana.shp	betunana	Betula nana	dwarf birch
+tree_atlas_dd83/a-b/betunigr.shp	betunigr	Betula nigra	river birch
+tree_atlas_dd83/a-b/betuocci.shp	betuocci	Betula occidentalis	water birch
+tree_atlas_dd83/a-b/betupapy.shp	betupapy	Betula papyrifera	paper birch
+tree_atlas_dd83/a-b/betupopu.shp	betupopu	Betula populifolia	gray birch
+tree_atlas_dd83/a-b/betuuber.shp	betuuber	Betula uber	Ashe birch
+tree_atlas_dd83/a-b/bourovat.shp	bourovat	Bourreria ovata	Bahama strongbark
+tree_atlas_dd83/a-b/bourradu.shp	bourradu	Bourreria radula	rough strongbark
+tree_atlas_dd83/a-b/bumecela.shp	bumecela	Sideroxylon celastrinum	saffron plum
+tree_atlas_dd83/a-b/bumelanu.shp	bumelanu	Sideroxylon lanuginosum	gum bumelia
+tree_atlas_dd83/a-b/bumelyci.shp	bumelyci	Sideroxylon lycioides	buckthorn bumelia
+tree_atlas_dd83/a-b/bumetena.shp	bumetena	Sideroxylon tenax	tough bumelia
+tree_atlas_dd83/a-b/bursfaga.shp	bursfaga	Bursera fagaroides	fragrant bursera
+tree_atlas_dd83/a-b/bursmicr.shp	bursmicr	Bursera microphylla	elephanttree
+tree_atlas_dd83/a-b/burssima.shp	burssima	Bursera simaruba	gumbo limbo
+tree_atlas_dd83/a-b/byrsluci.shp	byrsluci	Byrsonima lucida	key byrsonima
+tree_atlas_dd83/c/caesmexi.shp	caesmexi	Caesalpinia mexicana	Mexican poinciana
+tree_atlas_dd83/c/calypall.shp	calypall	Calyptranthes pallens	pale lidflower
+tree_atlas_dd83/c/calyzuzy.shp	calyzuzy	Calyptranthes zuzygium	myrtle of the river
+tree_atlas_dd83/c/canewint.shp	canewint	Canella winterana	canella
+tree_atlas_dd83/c/canoholo.shp	canoholo	Canotia holacantha	canotia
+tree_atlas_dd83/c/cappcyno.shp	cappcyno	Capparis cynophallophora	Jamaica caper
+tree_atlas_dd83/c/cappflex.shp	cappflex	Capparis flexuosa	limber caper
+tree_atlas_dd83/c/carpcaro.shp	carpcaro	Carpinus caroliniana	American hornbeam
+tree_atlas_dd83/c/caryaqua.shp	caryaqua	Carya aquatica	water hickory
+tree_atlas_dd83/c/carycord.shp	carycord	Carya cordiformis	bitternut hickory
+tree_atlas_dd83/c/caryflor.shp	caryflor	Carya floridana	scrub hickory
+tree_atlas_dd83/c/caryglab.shp	caryglab	Carya glabra	pignut hickory
+tree_atlas_dd83/c/caryilli.shp	caryilli	Carya illinoensis	pecan
+tree_atlas_dd83/c/carylaci.shp	carylaci	Carya laciniosa	shellbark hickory
+tree_atlas_dd83/c/carymyri.shp	carymyri	Carya myristiciformis	nutmeg hickory
+tree_atlas_dd83/c/caryovat.shp	caryovat	Carya ovata	shagbark hickory
+tree_atlas_dd83/c/carypall.shp	carypall	Carya pallida	sand hickory
+tree_atlas_dd83/c/carytexa.shp	carytexa	Carya texana	black hickory
+tree_atlas_dd83/c/carytome.shp	carytome	Carya tomentosa	mockernut hickory
+tree_atlas_dd83/c/castalni.shp	castalni	Castanea alnifolia	Florida chinkapin
+tree_atlas_dd83/c/castchry.shp	castchry	Chrysolepis chrysophylla	golden chinkapin
+tree_atlas_dd83/c/castdent.shp	castdent	Castanea dentata	American chestnut
+tree_atlas_dd83/c/castozar.shp	castozar	Castanea ozarkensis	Ozark chinkapin
+tree_atlas_dd83/c/castpumi.shp	castpumi	Castanea pumila	Allegheny chinkapin
+tree_atlas_dd83/c/catabign.shp	catabign	Catalpa bignonioides	southern catalpa
+tree_atlas_dd83/c/cataspec.shp	cataspec	Catalpa speciosa	northern catalpa
+tree_atlas_dd83/c/ceanarbo.shp	ceanarbo	Ceanothus arboreus	feltleaf ceanothus
+tree_atlas_dd83/c/ceanspin.shp	ceanspin	Ceanothus spinosus	spiny ceanothus
+tree_atlas_dd83/c/ceanthyr.shp	ceanthyr	Ceanothus thyrsiflorus	blueblossom
+tree_atlas_dd83/c/celtlaev.shp	celtlaev	Celtis laevigata	sugarberry
+tree_atlas_dd83/c/celtlind.shp	celtlind	Celtis lindheimeri	Lindheimer hackberry
+tree_atlas_dd83/c/celtocci.shp	celtocci	Celtis occidentalis	hackberry
+tree_atlas_dd83/c/celtreti.shp	celtreti	Celtis reticulata	netleaf hackberry
+tree_atlas_dd83/c/celttenu.shp	celttenu	Celtis tenuifolia	Georgia hackberry
+tree_atlas_dd83/c/cephocci.shp	cephocci	Cephalanthus occidentalis	common buttonbush
+tree_atlas_dd83/c/cercbetu.shp	cercbetu	Cercocarpus betuloides	birchleaf cercocarpus
+tree_atlas_dd83/c/cercbrev.shp	cercbrev	Cercocarpus breviflorus	hairy cercocarpus
+tree_atlas_dd83/c/cerccana.shp	cerccana	Cercis canadensis	eastern redbud
+tree_atlas_dd83/c/cercflor.shp	cercflor	Cercidium floridum	blue paloverde
+tree_atlas_dd83/c/cercledi.shp	cercledi	Cercocarpus ledifolius	curlleaf cercocarpus
+tree_atlas_dd83/c/cercmacr.shp	cercmacr	Cercidium macrum	border paloverde
+tree_atlas_dd83/c/cercmicr.shp	cercmicr	Cercidium microphyllum	yellow paloverde
+tree_atlas_dd83/c/cercocci.shp	cercocci	Cercis occidentalis	California redbud
+tree_atlas_dd83/c/cerctras.shp	cerctras	Cercocarpus traskiae	Catalina cercocarpus
+tree_atlas_dd83/c/ceregiga.shp	ceregiga	Cereus giganteus	saguaro
+tree_atlas_dd83/c/cererobi.shp	cererobi	Pilosocereus polygonus	key tree cactus
+tree_atlas_dd83/c/chamlaws.shp	chamlaws	Chamaecyparis lawsoniana	Port Orford cedar
+tree_atlas_dd83/c/chamnoot.shp	chamnoot	Callitropsis nootkatensis	Alaska cedar
+tree_atlas_dd83/c/chamthyo.shp	chamthyo	Chamaecyparis thyoides	Atlantic white cedar
+tree_atlas_dd83/c/chilline.shp	chilline	Chilopsis linearis	desert willow
+tree_atlas_dd83/c/chiovirg.shp	chiovirg	Chionanthus virginicus	fringetree
+tree_atlas_dd83/c/chryicac.shp	chryicac	Chrysobalanus icaco	cocoplum
+tree_atlas_dd83/c/chryoliv.shp	chryoliv	Chrysophyllum oliviforme	satinleaf
+tree_atlas_dd83/c/cithberl.shp	cithberl	Citharexylum berlandieri	Berlandier fiddlewood
+tree_atlas_dd83/c/cithfrut.shp	cithfrut	Citharexylum fruticosum	Florida fiddlewood
+tree_atlas_dd83/c/cladkent.shp	cladkent	Cladrastis kentukea	yellowwood
+tree_atlas_dd83/c/cletacum.shp	cletacum	Clethra acuminata	cinnamon clethra
+tree_atlas_dd83/c/clifmono.shp	clifmono	Cliftonia monophylla	buckwheat tree
+tree_atlas_dd83/c/clusrose.shp	clusrose	Clusia rosea	Florida clusia
+tree_atlas_dd83/c/coccarge.shp	coccarge	Coccothrinax argentata	Florida silverpalm
+tree_atlas_dd83/c/coccdive.shp	coccdive	Coccoloba diversifolia	pigeon plum
+tree_atlas_dd83/c/coccuvif.shp	coccuvif	Coccoloba uvifera	seagrape
+tree_atlas_dd83/c/coluarbo.shp	coluarbo	Colubrina arborescens	coffee colubrina
+tree_atlas_dd83/c/colucube.shp	colucube	Colubrina cubensis	Cuba colubrina
+tree_atlas_dd83/c/coluelli.shp	coluelli	Colubrina elliptica	soldierwood
+tree_atlas_dd83/c/condglob.shp	condglob	Condalia globosa	bitter condalia
+tree_atlas_dd83/c/condhook.shp	condhook	Condalia hookeri	bluewood
+tree_atlas_dd83/c/conoerec.shp	conoerec	Conocarpus erectus	button mangrove
+tree_atlas_dd83/c/cordbois.shp	cordbois	Cordia boissieri	anacahuita
+tree_atlas_dd83/c/cordsebe.shp	cordsebe	Cordia sebestena	Geiger tree
+tree_atlas_dd83/c/cornalte.shp	cornalte	Cornus alternifolia	alternate leaf dogwood
+tree_atlas_dd83/c/corndrum.shp	corndrum	Cornus drummondii	roughleaf dogwood
+tree_atlas_dd83/c/cornflor.shp	cornflor	Cornus florida	flowering dogwood
+tree_atlas_dd83/c/cornglab.shp	cornglab	Cornus glabrata	brown dogwood
+tree_atlas_dd83/c/cornnutt.shp	cornnutt	Cornus nuttallii	Pacific dogwood
+tree_atlas_dd83/c/cornocci.shp	cornocci	Cornus occidentalis	western dogwood
+tree_atlas_dd83/c/cornrace.shp	cornrace	Cornus racemosa	gray dogwood
+tree_atlas_dd83/c/cornrugo.shp	cornrugo	Cornus rugosa	roundleaf dogwood
+tree_atlas_dd83/c/cornsess.shp	cornsess	Cornus sessilis	blackfruit dogwood
+tree_atlas_dd83/c/cornstol.shp	cornstol	Cornus stolonifera	red osier dogwood
+tree_atlas_dd83/c/cornstri.shp	cornstri	Cornus stricta	stiffcornel dogwood
+tree_atlas_dd83/c/corycorn.shp	corycorn	Corylus cornuta	beaked hazel
+tree_atlas_dd83/c/cotiobov.shp	cotiobov	Cotinus obovatus	American smoketree
+tree_atlas_dd83/c/cowamexi.shp	cowamexi	Cowania mexicana	cliffrose
+tree_atlas_dd83/c/cratchry.shp	cratchry	Crataegus chrysocarpa	fireberry hawthorn
+tree_atlas_dd83/c/cratcolu.shp	cratcolu	Crataegus columbiana	Columbia hawthorn
+tree_atlas_dd83/c/cratdoug.shp	cratdoug	Crataegus douglasii	black hawthorn
+tree_atlas_dd83/c/crateryt.shp	crateryt	Crataegus erythropoda	Cerro hawthorn
+tree_atlas_dd83/c/cratsali.shp	cratsali	Crataegus saligna	willow hawthorn
+tree_atlas_dd83/c/cratsucc.shp	cratsucc	Crataegus succulenta	fleshy hawthorn
+tree_atlas_dd83/c/crattrac.shp	crattrac	Crataegus tracyi	Tracy hawthorn
+tree_atlas_dd83/c/crosrhac.shp	crosrhac	Crossopetalum rhacoma	Florida crossopetalum
+tree_atlas_dd83/c/cupaglab.shp	cupaglab	Cupania glabra	Florida cupania
+tree_atlas_dd83/c/cuprariz.shp	cuprariz	Hesperocyparis arizonica	Arizona cypress
+tree_atlas_dd83/c/cuprbake.shp	cuprbake	Hesperocyparis bakeri	Modoc cypress
+tree_atlas_dd83/c/cuprgove.shp	cuprgove	Hesperocyparis goveniana	Gowen cypress
+tree_atlas_dd83/c/cuprguad.shp	cuprguad	Cupressus guadalupensis	Tecate cypress
+tree_atlas_dd83/c/cuprmacn.shp	cuprmacn	Hesperocyparis macnabiana	MacNab cypress
+tree_atlas_dd83/c/cuprmacr.shp	cuprmacr	Hesperocyparis macrocarpa	Monterey cypress
+tree_atlas_dd83/c/cuprsarg.shp	cuprsarg	Hesperocyparis sargentii	Sargent cypress
+tree_atlas_dd83/c/cyrirace.shp	cyrirace	Cyrilla racemiflora	swamp cyrilla
+tree_atlas_dd83/d-g/dalespin.shp	dalespin	Psorothamnus spinosus	smokethorn
+tree_atlas_dd83/d-g/diostexa.shp	diostexa	Diospyros texana	Texas persimmon
+tree_atlas_dd83/d-g/diosvirg.shp	diosvirg	Diospyros virginiana	common persimmon
+tree_atlas_dd83/d-g/diphsali.shp	diphsali	Dipholis salicifolia	willow bustic
+tree_atlas_dd83/d-g/dodovisc.shp	dodovisc	Dodonaea viscosa	hopbush
+tree_atlas_dd83/d-g/drypdive.shp	drypdive	Drypetes diversifolia	milkbark
+tree_atlas_dd83/d-g/dryplate.shp	dryplate	Drypetes lateriflora	Guiana plum
+tree_atlas_dd83/d-g/ehreanac.shp	ehreanac	Ehretia anacua	anaqua
+tree_atlas_dd83/d-g/ellirace.shp	ellirace	Elliottia racemosa	elliottia
+tree_atlas_dd83/d-g/erytflab.shp	erytflab	Erythrina flabelliformis	southwestern coralbean
+tree_atlas_dd83/d-g/erytherb.shp	erytherb	Erythrina herbacea	eastern coralbean
+tree_atlas_dd83/d-g/esenberl.shp	esenberl	Esenbeckia berlandieri	Berlandier esenbeckia
+tree_atlas_dd83/d-g/eugeaxil.shp	eugeaxil	Eugenia axillaris	white stopper
+tree_atlas_dd83/d-g/eugeconf.shp	eugeconf	Eugenia confusa	redberry stopper
+tree_atlas_dd83/d-g/eugefoet.shp	eugefoet	Eugenia foetida	boxleaf stopper
+tree_atlas_dd83/d-g/eugerhom.shp	eugerhom	Eugenia rhombea	red stopper
+tree_atlas_dd83/d-g/euonatro.shp	euonatro	Euonymus atropurpureus	eastern wahoo
+tree_atlas_dd83/d-g/euonocci.shp	euonocci	Euonymus occidentalis	western wahoo
+tree_atlas_dd83/d-g/exoscari.shp	exoscari	Exostema caribaeum	princewood
+tree_atlas_dd83/d-g/exotpani.shp	exotpani	Exothea paniculata	inkwood
+tree_atlas_dd83/d-g/eysepoly.shp	eysepoly	Eysenhardtia polystachya	kidneywood
+tree_atlas_dd83/d-g/eysetexa.shp	eysetexa	Eysenhardtia texana	Texas kidneywood
+tree_atlas_dd83/d-g/fagugran.shp	fagugran	Fagus grandifolia	American beech
+tree_atlas_dd83/d-g/ficuaure.shp	ficuaure	Ficus aurea	Florida strangler fig
+tree_atlas_dd83/d-g/ficucitr.shp	ficucitr	Ficus citrifolia	shortleaf fig
+tree_atlas_dd83/d-g/foreacum.shp	foreacum	Forestiera acuminata	swamp privet
+tree_atlas_dd83/d-g/foreangu.shp	foreangu	Forestiera angustifolia	Texas forestiera
+tree_atlas_dd83/d-g/forephil.shp	forephil	Forestiera phillyreoides	desert olive forestiera
+tree_atlas_dd83/d-g/foresegr.shp	foresegr	Forestiera segregata	Florida privet
+tree_atlas_dd83/d-g/franalat.shp	franalat	Franklinia alatamaha	franklinia
+tree_atlas_dd83/d-g/fraxamer.shp	fraxamer	Fraxinus americana	white ash
+tree_atlas_dd83/d-g/fraxanom.shp	fraxanom	Fraxinus anomala	singleleaf ash
+tree_atlas_dd83/d-g/fraxberl.shp	fraxberl	Fraxinus berlandieriana	Berlandier ash
+tree_atlas_dd83/d-g/fraxcaro.shp	fraxcaro	Fraxinus caroliniana	Carolina ash
+tree_atlas_dd83/d-g/fraxcusp.shp	fraxcusp	Fraxinus cuspidata	fragrant ash
+tree_atlas_dd83/d-g/fraxdipe.shp	fraxdipe	Fraxinus dipetala	two petal ash
+tree_atlas_dd83/d-g/fraxgood.shp	fraxgood	Fraxinus gooddingii	Goodding ash
+tree_atlas_dd83/d-g/fraxgreg.shp	fraxgreg	Fraxinus greggii	Gregg ash
+tree_atlas_dd83/d-g/fraxlati.shp	fraxlati	Fraxinus latifolia	Oregon ash
+tree_atlas_dd83/d-g/fraxnigr.shp	fraxnigr	Fraxinus nigra	black ash
+tree_atlas_dd83/d-g/fraxpapi.shp	fraxpapi	Fraxinus papillosa	Chihuahua ash
+tree_atlas_dd83/d-g/fraxpenn.shp	fraxpenn	Fraxinus pennsylvanica	green ash
+tree_atlas_dd83/d-g/fraxprof.shp	fraxprof	Fraxinus profunda	pumpkin ash
+tree_atlas_dd83/d-g/fraxquad.shp	fraxquad	Fraxinus quadrangulata	blue ash
+tree_atlas_dd83/d-g/fraxtexe.shp	fraxtexe	Fraxinus texensis	Texas ash
+tree_atlas_dd83/d-g/fraxvelu.shp	fraxvelu	Fraxinus velutina	velvet ash
+tree_atlas_dd83/d-g/fremcali.shp	fremcali	Fremontodendron californicum	California fremontia
+tree_atlas_dd83/d-g/fremmexi.shp	fremmexi	Fremontodendron mexicanum	Mexican fremontia
+tree_atlas_dd83/d-g/garrelli.shp	garrelli	Garrya elliptica	wavyleaf silktassel
+tree_atlas_dd83/d-g/geniclus.shp	geniclus	Genipa clusiifolia	seven year apple
+tree_atlas_dd83/d-g/gledaqua.shp	gledaqua	Gleditsia aquatica	waterlocust
+tree_atlas_dd83/d-g/gledtria.shp	gledtria	Gleditsia triacanthos	honeylocust
+tree_atlas_dd83/d-g/gordlasi.shp	gordlasi	Gordonia lasianthus	loblolly bay
+tree_atlas_dd83/d-g/guaiangu.shp	guaiangu	Guaiacum angustifolium	Texas lignumvitae
+tree_atlas_dd83/d-g/guaisanc.shp	guaisanc	Guaiacum sanctum	roughbark lignumvitae
+tree_atlas_dd83/d-g/guapdisc.shp	guapdisc	Guapira discolor	blolly
+tree_atlas_dd83/d-g/guetelli.shp	guetelli	Guettarda elliptica	elliptic leaf velvetseed
+tree_atlas_dd83/d-g/guetscab.shp	guetscab	Guettarda scabra	roughleaf velvetseed
+tree_atlas_dd83/d-g/gymilati.shp	gymilati	Gyminda latifolia	falsebox
+tree_atlas_dd83/d-g/gymndioi.shp	gymndioi	Gymnocladus dioicus	Kentucky coffeetree
+tree_atlas_dd83/d-g/gymnluci.shp	gymnluci	Gymnanthes lucida	oysterwood
+tree_atlas_dd83/h-k/halecaro.shp	halecaro	Halesia carolina	Carolina silverbell
+tree_atlas_dd83/h-k/haledipt.shp	haledipt	Halesia diptera	two wing silverbell
+tree_atlas_dd83/h-k/haleparv.shp	haleparv	Halesia parviflora	little silverbell
+tree_atlas_dd83/h-k/hamavirg.shp	hamavirg	Hamamelis virginiana	witch hazel
+tree_atlas_dd83/h-k/hamepate.shp	hamepate	Hamelia patens	scarletbush
+tree_atlas_dd83/h-k/heliparv.shp	heliparv	Helietta parvifolia	barreta
+tree_atlas_dd83/h-k/hippmanc.shp	hippmanc	Hippomane mancinella	manchineel
+tree_atlas_dd83/h-k/holaemor.shp	holaemor	Holacantha emoryi	holacantha
+tree_atlas_dd83/h-k/hypetrif.shp	hypetrif	Hypelate trifoliata	hypelate
+tree_atlas_dd83/h-k/ilexambi.shp	ilexambi	Ilex ambigua	Carolina holly
+tree_atlas_dd83/h-k/ilexamel.shp	ilexamel	Ilex amelanchier	sarvis holly
+tree_atlas_dd83/h-k/ilexcass.shp	ilexcass	Ilex cassine	dahoon
+tree_atlas_dd83/h-k/ilexcori.shp	ilexcori	Ilex coriacea	large gallberry
+tree_atlas_dd83/h-k/ilexdeci.shp	ilexdeci	Ilex decidua	possumhaw
+tree_atlas_dd83/h-k/ilexkrug.shp	ilexkrug	Ilex krugiana	tawnyberry holly
+tree_atlas_dd83/h-k/ilexlaev.shp	ilexlaev	Ilex laevigata	smooth winterberry
+tree_atlas_dd83/h-k/ilexlong.shp	ilexlong	Ilex longipes	Georgia holly
+tree_atlas_dd83/h-k/ilexmont.shp	ilexmont	Ilex montana	mountain winterberry
+tree_atlas_dd83/h-k/ilexmyrt.shp	ilexmyrt	Ilex myrtifolia	myrtle dahoon
+tree_atlas_dd83/h-k/ilexopac.shp	ilexopac	Ilex opaca	American holly
+tree_atlas_dd83/h-k/ilexvert.shp	ilexvert	Ilex verticillata	common winterberry
+tree_atlas_dd83/h-k/ilexvomi.shp	ilexvomi	Ilex vomitoria	yaupon
+tree_atlas_dd83/h-k/illiflor.shp	illiflor	Illicium floridanum	Florida anise tree
+tree_atlas_dd83/h-k/illiparv.shp	illiparv	Illicium parviflorum	yellow anise tree
+tree_atlas_dd83/h-k/jacqkeye.shp	jacqkeye	Jacquinia keyensis	joewood
+tree_atlas_dd83/h-k/juglcali.shp	juglcali	Juglans californica	California walnut
+tree_atlas_dd83/h-k/juglcine.shp	juglcine	Juglans cinerea	butternut
+tree_atlas_dd83/h-k/juglhind.shp	juglhind	Juglans hindsii	Hinds walnut
+tree_atlas_dd83/h-k/juglmajo.shp	juglmajo	Juglans major	Arizona walnut
+tree_atlas_dd83/h-k/juglmicr.shp	juglmicr	Juglans microcarpa	little walnut
+tree_atlas_dd83/h-k/juglnigr.shp	juglnigr	Juglans nigra	black walnut
+tree_atlas_dd83/h-k/juniashe.shp	juniashe	Juniperus ashei	Ashe juniper
+tree_atlas_dd83/h-k/junicali.shp	junicali	Juniperus californica	California juniper
+tree_atlas_dd83/h-k/junicomm.shp	junicomm	Juniperus communis	common juniper
+tree_atlas_dd83/h-k/junidepp.shp	junidepp	Juniperus deppeana	alligator juniper
+tree_atlas_dd83/h-k/junieryt.shp	junieryt	Juniperus erythrocarpa	redberry juniper
+tree_atlas_dd83/h-k/juniflac.shp	juniflac	Juniperus flaccida	drooping juniper
+tree_atlas_dd83/h-k/junihori.shp	junihori	Juniperus horizontalis	creeping juniper
+tree_atlas_dd83/h-k/junimono.shp	junimono	Juniperus monosperma	one seed juniper
+tree_atlas_dd83/h-k/juniocci.shp	juniocci	Juniperus occidentalis	western juniper
+tree_atlas_dd83/h-k/junioste.shp	junioste	Juniperus osteosperma	Utah juniper
+tree_atlas_dd83/h-k/junipinc.shp	junipinc	Juniperus pinchotii	Pinchot juniper
+tree_atlas_dd83/h-k/juniscop.shp	juniscop	Juniperus scopulorum	Rocky Mountain juniper
+tree_atlas_dd83/h-k/junisili.shp	junisili	Juniperus silicicola	southern redcedar
+tree_atlas_dd83/h-k/junivirg.shp	junivirg	Juniperus virginiana	eastern redcedar
+tree_atlas_dd83/h-k/kalmlati.shp	kalmlati	Kalmia latifolia	mountain laurel
+tree_atlas_dd83/h-k/koebspin.shp	koebspin	Koeberlinia spinosa	allthorn
+tree_atlas_dd83/h-k/krugferr.shp	krugferr	Krugiodendron ferreum	leadwood
+tree_atlas_dd83/l-o/lagurace.shp	lagurace	Laguncularia racemosa	white mangrove
+tree_atlas_dd83/l-o/larilari.shp	larilari	Larix laricina	tamarack
+tree_atlas_dd83/l-o/larilyal.shp	larilyal	Larix lyallii	subalpine larch
+tree_atlas_dd83/l-o/lariocci.shp	lariocci	Larix occidentalis	western larch
+tree_atlas_dd83/l-o/larrdiva.shp	larrdiva	Larrea divaricata	creosote bush
+tree_atlas_dd83/l-o/leitflor.shp	leitflor	Leitneria floridana	corkwood
+tree_atlas_dd83/l-o/leucpulv.shp	leucpulv	Leucaena pulverulenta	great leadtree
+tree_atlas_dd83/l-o/leucretu.shp	leucretu	Leucaena retusa	littleleaf leadtree
+tree_atlas_dd83/l-o/libodecu.shp	libodecu	Calocedrus decurrens	incense cedar
+tree_atlas_dd83/l-o/licatria.shp	licatria	Licaria triandra	Florida licaria
+tree_atlas_dd83/l-o/liqustyr.shp	liqustyr	Liquidambar styraciflua	sweetgum
+tree_atlas_dd83/l-o/lirituli.shp	lirituli	Liriodendron tulipifera	yellow poplar
+tree_atlas_dd83/l-o/lithdens.shp	lithdens	Notholithocarpus densiflorus	tanoak
+tree_atlas_dd83/l-o/lyonferr.shp	lyonferr	Lyonia ferruginea	tree lyonia
+tree_atlas_dd83/l-o/lyonflor.shp	lyonflor	Lyonothamnus floribundus	Lyontree
+tree_atlas_dd83/l-o/lysilati.shp	lysilati	Lysiloma latisiliquum	Bahama lysiloma
+tree_atlas_dd83/l-o/lysimicr.shp	lysimicr	Lysiloma microphylla	littleleaf lysiloma
+tree_atlas_dd83/l-o/maclpomi.shp	maclpomi	Maclura pomifera	Osage orange
+tree_atlas_dd83/l-o/magnacum.shp	magnacum	Magnolia acuminata	cucumbertree
+tree_atlas_dd83/l-o/magnashe.shp	magnashe	Magnolia ashei	Ashe magnolia
+tree_atlas_dd83/l-o/magnfras.shp	magnfras	Magnolia fraseri	Fraser magnolia
+tree_atlas_dd83/l-o/magngran.shp	magngran	Magnolia grandiflora	southern magnolia
+tree_atlas_dd83/l-o/magnmacr.shp	magnmacr	Magnolia macrophylla	bigleaf magnolia
+tree_atlas_dd83/l-o/magnpyra.shp	magnpyra	Magnolia pyramidata	pyramid magnolia
+tree_atlas_dd83/l-o/magntrip.shp	magntrip	Magnolia tripetala	umbrella magnolia
+tree_atlas_dd83/l-o/magnvirg.shp	magnvirg	Magnolia virginiana	sweetbay
+tree_atlas_dd83/l-o/maluangu.shp	maluangu	Malus angustifolia	southern crab apple
+tree_atlas_dd83/l-o/malucoro.shp	malucoro	Malus coronaria	sweet crab apple
+tree_atlas_dd83/l-o/maludive.shp	maludive	Malus diversifolia	Oregon crab apple
+tree_atlas_dd83/l-o/maluioen.shp	maluioen	Malus ioensis	prairie crab apple
+tree_atlas_dd83/l-o/manibaha.shp	manibaha	Manilkara bahamensis	wild dilly
+tree_atlas_dd83/l-o/mastfoet.shp	mastfoet	Mastichodendron foetidissimum	false mastic
+tree_atlas_dd83/l-o/maytphyl.shp	maytphyl	Maytenus phyllanthoides	Florida mayten
+tree_atlas_dd83/l-o/metotoxi.shp	metotoxi	Metopium toxiferum	Florida poisontree
+tree_atlas_dd83/l-o/morumicr.shp	morumicr	Morus microphylla	Texas mulberry
+tree_atlas_dd83/l-o/morurubr.shp	morurubr	Morus rubra	red mulberry
+tree_atlas_dd83/l-o/myrcfrag.shp	myrcfrag	Myrcianthes fragrans	twinberry stopper
+tree_atlas_dd83/l-o/myricali.shp	myricali	Morella californica	Pacific bayberry
+tree_atlas_dd83/l-o/myriceri.shp	myriceri	Morella cerifera	southern bayberry
+tree_atlas_dd83/l-o/myrihete.shp	myrihete	Morella caroliniensis	evergreen bayberry
+tree_atlas_dd83/l-o/myriinod.shp	myriinod	Morella inodora	odorless bayberry
+tree_atlas_dd83/l-o/myripens.shp	myripens	Morella pensylvanica	northern bayberry
+tree_atlas_dd83/l-o/nectcori.shp	nectcori	Nectandra coriacea	Florida nectandra
+tree_atlas_dd83/l-o/nemocoll.shp	nemocoll	Ilex collina	mountain holly
+tree_atlas_dd83/l-o/nolibige.shp	nolibige	Nolina bigelovii	Bigelow nolina
+tree_atlas_dd83/l-o/nyssaqua.shp	nyssaqua	Nyssa aquatica	water tupelo
+tree_atlas_dd83/l-o/nyssbifl.shp	nyssbifl	Nyssa biflora	swamp tupelo
+tree_atlas_dd83/l-o/nyssogec.shp	nyssogec	Nyssa ogeche	Ogeechee tupelo
+tree_atlas_dd83/l-o/nysssylv.shp	nysssylv	Nyssa sylvatica	black tupelo, blackgum
+tree_atlas_dd83/l-o/olneteso.shp	olneteso	Olneya tesota	tesota
+tree_atlas_dd83/l-o/opunfulg.shp	opunfulg	Opuntia fulgida	jumping cholla
+tree_atlas_dd83/l-o/osmaamer.shp	osmaamer	Osmanthus americanus	devilwood
+tree_atlas_dd83/l-o/ostrchis.shp	ostrchis	Ostrya chisosensis	Chisos hophornbean
+tree_atlas_dd83/l-o/ostrknow.shp	ostrknow	Ostrya knowltonii	Knowlton hophornbeam
+tree_atlas_dd83/l-o/ostrvirg.shp	ostrvirg	Ostrya virginiana	eastern hophornbeam
+tree_atlas_dd83/l-o/oxydarbo.shp	oxydarbo	Oxydendrum arboreum	sourwood
+tree_atlas_dd83/p/parkacul.shp	parkacul	Parkinsonia aculeata	Jerusalem thorn
+tree_atlas_dd83/p/persborb.shp	persborb	Persea borbonia	redbay
+tree_atlas_dd83/p/photarbu.shp	photarbu	Photinia arbutifolia	Christmas berry
+tree_atlas_dd83/p/picebrew.shp	picebrew	Picea breweriana	Brewer spruce
+tree_atlas_dd83/p/picechih.shp	picechih	Picea chihuahuana	chihuahua spruce
+tree_atlas_dd83/p/piceenge.shp	piceenge	Picea engelmannii	Engelmann spruce
+tree_atlas_dd83/p/piceglau.shp	piceglau	Picea glauca	white spruce
+tree_atlas_dd83/p/picemari.shp	picemari	Picea mariana	black spruce
+tree_atlas_dd83/p/picepung.shp	picepung	Picea pungens	blue spruce
+tree_atlas_dd83/p/picerube.shp	picerube	Picea rubens	red spruce
+tree_atlas_dd83/p/picesitc.shp	picesitc	Picea sitchensis	Sitka spruce
+tree_atlas_dd83/p/picrpent.shp	picrpent	Picramnia pentandra	bitterbush
+tree_atlas_dd83/p/pincpube.shp	pincpube	Pinckneya pubens	pinckneya
+tree_atlas_dd83/pinus/pinualbi.shp	pinualbi	Pinus albicaulis	whitebark pine
+tree_atlas_dd83/pinus/pinuaris.shp	pinuaris	Pinus aristata	bristlecone pine
+tree_atlas_dd83/pinus/pinuatte.shp	pinuatte	Pinus attenuata	knobcone pine
+tree_atlas_dd83/pinus/pinuayac.shp	pinuayac	Pinus ayacahuite	Mexican white pine
+tree_atlas_dd83/pinus/pinubalf.shp	pinubalf	Pinus balfouriana	foxtail pine
+tree_atlas_dd83/pinus/pinubank.shp	pinubank	Pinus banksiana	jack pine
+tree_atlas_dd83/pinus/pinucari.shp	pinucari	Pinus caribaea	Caribbean pine
+tree_atlas_dd83/pinus/pinucemb.shp	pinucemb	Pinus cembroides	Mexican pinyon
+tree_atlas_dd83/pinus/pinuclau.shp	pinuclau	Pinus clausa	sand pine
+tree_atlas_dd83/pinus/pinucont.shp	pinucont	Pinus contorta	lodgepole pine
+tree_atlas_dd83/pinus/pinucoop.shp	pinucoop	Pinus cooperi	Cooper pine
+tree_atlas_dd83/pinus/pinucoul.shp	pinucoul	Pinus coulteri	Coulter pine
+tree_atlas_dd83/pinus/pinucube.shp	pinucube	Pinus cubensis	Cuban pine
+tree_atlas_dd83/pinus/pinuculm.shp	pinuculm	Pinus culminicola	Potosi pinyon
+tree_atlas_dd83/pinus/pinudoug.shp	pinudoug	Pinus douglasiana	Douglas pine
+tree_atlas_dd83/pinus/pinudura.shp	pinudura	Pinus durangensis	Durango pine
+tree_atlas_dd83/pinus/pinuechi.shp	pinuechi	Pinus echinata	shortleaf pine
+tree_atlas_dd83/pinus/pinuedul.shp	pinuedul	Pinus edulis	pinyon
+tree_atlas_dd83/pinus/pinuelli.shp	pinuelli	Pinus elliottii	slash pine
+tree_atlas_dd83/pinus/pinuenge.shp	pinuenge	Pinus engelmannii	Apache pine
+tree_atlas_dd83/pinus/pinuflex.shp	pinuflex	Pinus flexilis	limber pine
+tree_atlas_dd83/pinus/pinuglab.shp	pinuglab	Pinus glabra	spruce pine
+tree_atlas_dd83/pinus/pinugreg.shp	pinugreg	Pinus greggii	Gregg pine
+tree_atlas_dd83/pinus/pinuhart.shp	pinuhart	Pinus hartwegii	Hartweg pine
+tree_atlas_dd83/pinus/pinujeff.shp	pinujeff	Pinus jeffreyi	Jeffrey pine
+tree_atlas_dd83/pinus/pinulamb.shp	pinulamb	Pinus lambertiana	sugar pine
+tree_atlas_dd83/pinus/pinulaws.shp	pinulaws	Pinus lawsonii	Lawson pine
+tree_atlas_dd83/pinus/pinuleio.shp	pinuleio	Pinus leiophylla	Chihuahua pine
+tree_atlas_dd83/pinus/pinulong.shp	pinulong	Pinus longaeva	Intermountain bristlecone pine
+tree_atlas_dd83/pinus/pinulumh.shp	pinulumh	Pinus lumholtzii	Lumholtz pine
+tree_atlas_dd83/pinus/pinumaxi.shp	pinumaxi	Pinus maximartinezii	Martinez pinyon
+tree_atlas_dd83/pinus/pinumich.shp	pinumich	Pinus michoacana	Michoacan pine
+tree_atlas_dd83/pinus/pinumono.shp	pinumono	Pinus monophylla	singleleaf pinyon
+tree_atlas_dd83/pinus/pinumont.shp	pinumont	Pinus monticola	western white pine
+tree_atlas_dd83/pinus/pinumtez.shp	pinumtez	Pinus montezumae	Montezuma pine
+tree_atlas_dd83/pinus/pinumuri.shp	pinumuri	Pinus muricata	bishop pine
+tree_atlas_dd83/pinus/pinunels.shp	pinunels	Pinus nelsonii	Nelson pinyon
+tree_atlas_dd83/pinus/pinuocci.shp	pinuocci	Pinus occidentalis	West Indian pine
+tree_atlas_dd83/pinus/pinuooca.shp	pinuooca	Pinus oocarpa	Nicaraguan pitch pine; ocote pine
+tree_atlas_dd83/pinus/pinupalu.shp	pinupalu	Pinus palustris	longleaf pine
+tree_atlas_dd83/pinus/pinupatu.shp	pinupatu	Pinus patula	Mexican weeping pine
+tree_atlas_dd83/pinus/pinupinc.shp	pinupinc	Pinus pinceana	Pince pinyon
+tree_atlas_dd83/pinus/pinupond.shp	pinupond	Pinus ponderosa	ponderosa pine
+tree_atlas_dd83/pinus/pinuprin.shp	pinuprin	Pinus pringlei	Pringle pine
+tree_atlas_dd83/pinus/pinupseu.shp	pinupseu	Pinus pseudostrobus	False Weymouth pine
+tree_atlas_dd83/pinus/pinupung.shp	pinupung	Pinus pungens	Table Mountain pine
+tree_atlas_dd83/pinus/pinuquad.shp	pinuquad	Pinus quadrifolia	Parry pinyon
+tree_atlas_dd83/pinus/pinuradi.shp	pinuradi	Pinus radiata	Monterey pine
+tree_atlas_dd83/pinus/pinuresi.shp	pinuresi	Pinus resinosa	red pine
+tree_atlas_dd83/pinus/pinurigi.shp	pinurigi	Pinus rigida	pitch pine
+tree_atlas_dd83/pinus/pinusabi.shp	pinusabi	Pinus sabiniana	Digger pine
+tree_atlas_dd83/pinus/pinusero.shp	pinusero	Pinus serotina	pond pine
+tree_atlas_dd83/pinus/pinustrb.shp	pinustrb	Pinus strobus	eastern white pine
+tree_atlas_dd83/pinus/pinustro.shp	pinustro	Pinus strobiformis	southwestern white pine
+tree_atlas_dd83/pinus/pinutaed.shp	pinutaed	Pinus taeda	loblolly pine
+tree_atlas_dd83/pinus/pinuteoc.shp	pinuteoc	Pinus teocote	Twisted leaves pine; Aztec pine
+tree_atlas_dd83/pinus/pinutorr.shp	pinutorr	Pinus torreyana	Torrey pine
+tree_atlas_dd83/pinus/pinutrop.shp	pinutrop	Pinus tropicalis	tropical pine
+tree_atlas_dd83/pinus/pinuvirg.shp	pinuvirg	Pinus virginiana	Virginia pine
+tree_atlas_dd83/pinus/pinuwash.shp	pinuwash	Pinus washoensis	Washoe pine
+tree_atlas_dd83/p/piscpisc.shp	piscpisc	Piscidia piscipula	Florida fishpoison tree
+tree_atlas_dd83/p/pisorotu.shp	pisorotu	Pisonia rotundata	pisonia
+tree_atlas_dd83/p/pisttexa.shp	pisttexa	Pistacia texana	Texas pistache
+tree_atlas_dd83/p/pithflex.shp	pithflex	Pithecellobium flexicaule	ebony blackbead
+tree_atlas_dd83/p/pithguad.shp	pithguad	Pithecellobium guadalupense	Guadeloupe blackbead
+tree_atlas_dd83/p/pithpall.shp	pithpall	Pithecellobium pallens	huajillo
+tree_atlas_dd83/p/pithungu.shp	pithungu	Pithecellobium unguis-cati	catclaw blackbead
+tree_atlas_dd83/p/planaqua.shp	planaqua	Planera aquatica	planertree
+tree_atlas_dd83/p/platocci.shp	platocci	Platanus occidentalis	American sycamore
+tree_atlas_dd83/p/platrace.shp	platrace	Platanus racemosa	California sycamore
+tree_atlas_dd83/p/platwrig.shp	platwrig	Platanus wrightii	Arizona sycamore
+tree_atlas_dd83/p/popuangu.shp	popuangu	Populus angustifolia	narrowleaf cottonwood
+tree_atlas_dd83/p/popuariz.shp	popuariz	Populus arizonica	Arizona cottonwood
+tree_atlas_dd83/p/popubals.shp	popubals	Populus balsamifera	balsam poplar
+tree_atlas_dd83/p/popudelt.shp	popudelt	Populus deltoides	eastern cottonwood
+tree_atlas_dd83/p/popufrem.shp	popufrem	Populus fremontii	Fremont cottonwood
+tree_atlas_dd83/p/popugran.shp	popugran	Populus grandidentata	bigtooth aspen
+tree_atlas_dd83/p/popuhete.shp	popuhete	Populus heterophylla	swamp cottonwood
+tree_atlas_dd83/p/popuhinc.shp	popuhinc	Populus hinckleyana	Hinckley cottonwood
+tree_atlas_dd83/p/poputrem.shp	poputrem	Populus tremuloides	quaking aspen
+tree_atlas_dd83/p/poputric.shp	poputric	Populus trichocarpa	black cottonwood
+tree_atlas_dd83/p/prosjuli.shp	prosjuli	Prosopis juliflora	mesquite
+tree_atlas_dd83/p/prospube.shp	prospube	Prosopis pubescens	screwbean mesquite
+tree_atlas_dd83/p/prunalle.shp	prunalle	Prunus alleghaniensis	Allegheny plum
+tree_atlas_dd83/p/prunamer.shp	prunamer	Prunus americana	American plum
+tree_atlas_dd83/p/prunangu.shp	prunangu	Prunus angustifolia	Chickasaw plum
+tree_atlas_dd83/p/pruncaro.shp	pruncaro	Prunus caroliniana	Carolina laurelcherry
+tree_atlas_dd83/p/prunemar.shp	prunemar	Prunus emarginata	bitter cherry
+tree_atlas_dd83/p/prunfrem.shp	prunfrem	Prunus fremontii	desert apricot
+tree_atlas_dd83/p/prunhort.shp	prunhort	Prunus hortulana	hortulan plum
+tree_atlas_dd83/p/prunilic.shp	prunilic	Prunus ilicifolia	hollyleaf cherry
+tree_atlas_dd83/p/prunlyon.shp	prunlyon	Prunus lyonii	Catalina cherry
+tree_atlas_dd83/p/prunmexi.shp	prunmexi	Prunus mexicana	Mexican plum
+tree_atlas_dd83/p/prunmuns.shp	prunmuns	Prunus munsoniana	wildgoose plum
+tree_atlas_dd83/p/prunmyrt.shp	prunmyrt	Prunus myrtifolia	West Indies cherry
+tree_atlas_dd83/p/prunnigr.shp	prunnigr	Prunus nigra	Canada plum
+tree_atlas_dd83/p/prunpens.shp	prunpens	Prunus pensylvanica	pin cherry
+tree_atlas_dd83/p/prunsero.shp	prunsero	Prunus serotina	black cherry
+tree_atlas_dd83/p/prunsubc.shp	prunsubc	Prunus subcordata	Klamath plum
+tree_atlas_dd83/p/prunumbe.shp	prunumbe	Prunus umbellata	flatwoods plum
+tree_atlas_dd83/p/prunvirg.shp	prunvirg	Prunus virginiana	common chokecherry
+tree_atlas_dd83/p/pseumacr.shp	pseumacr	Pseudotsuga macrocarpa	bigcone Douglas fir
+tree_atlas_dd83/p/pseumenz.shp	pseumenz	Pseudotsuga menziesii	Douglas fir
+tree_atlas_dd83/p/pseusarg.shp	pseusarg	Pseudophoenix sargentii	buccaneer palm
+tree_atlas_dd83/p/psidlong.shp	psidlong	Psidium longipes	long stalk stopper
+tree_atlas_dd83/p/ptelcren.shp	ptelcren	Ptelea crenulata	California hoptree
+tree_atlas_dd83/p/pteltrif.shp	pteltrif	Ptelea trifoliata	common hoptree
+tree_atlas_dd83/q/queragri.shp	queragri	Quercus agrifolia	California live oak
+tree_atlas_dd83/q/querajoe.shp	querajoe	Quercus ajoensis	Ajo oak
+tree_atlas_dd83/q/queralba.shp	queralba	Quercus alba	white oak
+tree_atlas_dd83/q/querariz.shp	querariz	Quercus arizonica	Arizona white oak
+tree_atlas_dd83/q/querarka.shp	querarka	Quercus arkansana	Arkansas oak
+tree_atlas_dd83/q/querbico.shp	querbico	Quercus bicolor	swamp white oak
+tree_atlas_dd83/q/querchap.shp	querchap	Quercus chapmanii	Chapman oak
+tree_atlas_dd83/q/querchry.shp	querchry	Quercus chrysolepis	canyon live oak
+tree_atlas_dd83/q/quercocc.shp	quercocc	Quercus coccinea	scarlet oak
+tree_atlas_dd83/q/querdoug.shp	querdoug	Quercus douglasii	blue oak
+tree_atlas_dd83/q/querdunn.shp	querdunn	Quercus dunnii	Dunn oak
+tree_atlas_dd83/q/querdura.shp	querdura	Quercus durandii	Durand oak
+tree_atlas_dd83/q/querelli.shp	querelli	Quercus ellipsoidalis	northern pin oak
+tree_atlas_dd83/q/queremor.shp	queremor	Quercus emoryi	Emory oak
+tree_atlas_dd83/q/querenge.shp	querenge	Quercus engelmannii	Engelmann oak
+tree_atlas_dd83/q/querfalc.shp	querfalc	Quercus falcata	southern red oak
+tree_atlas_dd83/q/quergamb.shp	quergamb	Quercus gambelii	Gambel oak
+tree_atlas_dd83/q/quergarr.shp	quergarr	Quercus garryana	Oregon white oak
+tree_atlas_dd83/q/quergeor.shp	quergeor	Quercus georgiana	Georgia oak
+tree_atlas_dd83/q/querglau.shp	querglau	Quercus glaucoides	Lacey oak
+tree_atlas_dd83/q/quergrac.shp	quergrac	Quercus graciliformis	Chisos oak
+tree_atlas_dd83/q/quergrav.shp	quergrav	Quercus gravesii	Graves oak incl. Q. tardifolia (Muller) lateleaf oak
+tree_atlas_dd83/q/quergris.shp	quergris	Quercus grisea	gray oak
+tree_atlas_dd83/q/querhava.shp	querhava	Quercus havardii	Havard oak
+tree_atlas_dd83/q/querhypo.shp	querhypo	Quercus hypoleucoides	silverleaf oak
+tree_atlas_dd83/q/querilic.shp	querilic	Quercus ilicifolia	bear oak
+tree_atlas_dd83/q/querimbr.shp	querimbr	Quercus imbricaria	shingle oak
+tree_atlas_dd83/q/querinca.shp	querinca	Quercus incana	bluejack oak
+tree_atlas_dd83/q/querkell.shp	querkell	Quercus kelloggii	California black oak
+tree_atlas_dd83/q/querlaev.shp	querlaev	Quercus laevis	turkey oak
+tree_atlas_dd83/q/querlaur.shp	querlaur	Quercus laurifolia	laurel oak
+tree_atlas_dd83/q/querloba.shp	querloba	Quercus lobata	California white oak
+tree_atlas_dd83/q/querlyra.shp	querlyra	Quercus lyrata	overcup oak
+tree_atlas_dd83/q/quermacd.shp	quermacd	Quercus macdonaldii	McDonald oak
+tree_atlas_dd83/q/quermacr.shp	quermacr	Quercus macrocarpa	bur oak
+tree_atlas_dd83/q/quermarg.shp	quermarg	Quercus margarettae	sand post oak
+tree_atlas_dd83/q/quermari.shp	quermari	Quercus marilandica	blackjack oak
+tree_atlas_dd83/q/quermich.shp	quermich	Quercus michauxii	swamp chestnut oak
+tree_atlas_dd83/q/quermohr.shp	quermohr	Quercus mohriana	Mohrs oak
+tree_atlas_dd83/q/quermueh.shp	quermueh	Quercus muehlenbergii	chinkapin oak
+tree_atlas_dd83/q/quermyrt.shp	quermyrt	Quercus myrtifolia	myrtle oak
+tree_atlas_dd83/q/quernigr.shp	quernigr	Quercus nigra	water oak
+tree_atlas_dd83/q/quernutt.shp	quernutt	Quercus nuttallii	Nuttall oak
+tree_atlas_dd83/q/queroblo.shp	queroblo	Quercus oblongifolia	Mexican blue oak
+tree_atlas_dd83/q/querogle.shp	querogle	Quercus oglethorpensis	Oglethorpe oak
+tree_atlas_dd83/q/querpago.shp	querpago	Quercus pagoda	cherry-bark oak
+tree_atlas_dd83/q/querpalu.shp	querpalu	Quercus palustris	pin oak
+tree_atlas_dd83/q/querphel.shp	querphel	Quercus phellos	willow oak
+tree_atlas_dd83/q/querprin.shp	querprin	Quercus prinus	chestnut oak
+tree_atlas_dd83/q/querpung.shp	querpung	Quercus pungens	sandpaper oak
+tree_atlas_dd83/q/querrubr.shp	querrubr	Quercus rubra	northern red oak
+tree_atlas_dd83/q/querrugo.shp	querrugo	Quercus rugosa	netleaf oak
+tree_atlas_dd83/q/quershum.shp	quershum	Quercus shumardii	Shumard oak
+tree_atlas_dd83/q/querstel.shp	querstel	Quercus stellata	post oak
+tree_atlas_dd83/q/quertome.shp	quertome	Quercus tomentella	island live oak
+tree_atlas_dd83/q/quertoum.shp	quertoum	Quercus toumeyi	Toumey oak
+tree_atlas_dd83/q/querturb.shp	querturb	Quercus turbinella	shrub live oak
+tree_atlas_dd83/q/quervelu.shp	quervelu	Quercus velutina	black oak
+tree_atlas_dd83/q/quervirg.shp	quervirg	Quercus virginiana	live oak
+tree_atlas_dd83/q/querwisl.shp	querwisl	Quercus wislizeni	interior live oak
+tree_atlas_dd83/r-s/rapapunc.shp	rapapunc	Rapanea punctata	Florida rapanea
+tree_atlas_dd83/r-s/reynsept.shp	reynsept	Reynosia septentrionalis	darling plum
+tree_atlas_dd83/r-s/rhambetu.shp	rhambetu	Rhamnus betulaefolia	birchleaf buckthorn
+tree_atlas_dd83/r-s/rhamcali.shp	rhamcali	Rhamnus californica	California buckthorn
+tree_atlas_dd83/r-s/rhamcaro.shp	rhamcaro	Rhamnus caroliniana	Carolina buckthorn
+tree_atlas_dd83/r-s/rhamcroc.shp	rhamcroc	Rhamnus crocea	hollyleaf buckthorn
+tree_atlas_dd83/r-s/rhampurs.shp	rhampurs	Rhamnus purshiana	cascara buckthorn
+tree_atlas_dd83/r-s/rhizmang.shp	rhizmang	Rhizophora mangle	mangrove
+tree_atlas_dd83/r-s/rhodcata.shp	rhodcata	Rhododendron catawbiense	Catawba rhododendron
+tree_atlas_dd83/r-s/rhodmacr.shp	rhodmacr	Rhododendron macrophyllum	Pacific rhododendron
+tree_atlas_dd83/r-s/rhodmaxi.shp	rhodmaxi	Rhododendron maximum	rosebay rhododendron
+tree_atlas_dd83/r-s/rhuschor.shp	rhuschor	Rhus choriophylla	Mearns sumac
+tree_atlas_dd83/r-s/rhuscopa.shp	rhuscopa	Rhus copallina	shining sumac
+tree_atlas_dd83/r-s/rhusglab.shp	rhusglab	Rhus glabra	smooth sumac
+tree_atlas_dd83/r-s/rhusinte.shp	rhusinte	Rhus integrifolia	lemonade sumac
+tree_atlas_dd83/r-s/rhuskear.shp	rhuskear	Rhus kearneyi	Kearney sumac
+tree_atlas_dd83/r-s/rhuslanc.shp	rhuslanc	Rhus lanceolata	prairie sumac
+tree_atlas_dd83/r-s/rhuslaur.shp	rhuslaur	Rhus laurina	laurel sumac
+tree_atlas_dd83/r-s/rhusmicr.shp	rhusmicr	Rhus microphylla	littleleaf sumac
+tree_atlas_dd83/r-s/rhusovat.shp	rhusovat	Rhus ovata	sugar sumac
+tree_atlas_dd83/r-s/rhustyph.shp	rhustyph	Rhus typhina	staghorn sumac
+tree_atlas_dd83/r-s/robikels.shp	robikels	Robinia kelseyi	Kelsey locust
+tree_atlas_dd83/r-s/robineom.shp	robineom	Robinia neomexicana	New Mexican locust
+tree_atlas_dd83/r-s/robipseu.shp	robipseu	Robinia pseudoacacia	black locust
+tree_atlas_dd83/r-s/robivisc.shp	robivisc	Robinia viscosa	clammy locust
+tree_atlas_dd83/r-s/royselat.shp	royselat	Roystonea elata	Florida royalpalm
+tree_atlas_dd83/r-s/sabamexi.shp	sabamexi	Sabal mexicana	Mexican palmetto
+tree_atlas_dd83/r-s/sabamino.shp	sabamino	Sabal minor	dwarf palmetto
+tree_atlas_dd83/r-s/sabapalm.shp	sabapalm	Sabal palmetto	cabbage palmetto
+tree_atlas_dd83/r-s/salialax.shp	salialax	Salix alaxensis	feltleaf willow
+tree_atlas_dd83/r-s/saliamyg.shp	saliamyg	Salix amygdaloides	peachleaf willow
+tree_atlas_dd83/r-s/saliarbu.shp	saliarbu	Salix arbusculoides	peachleaf willow
+tree_atlas_dd83/r-s/salibebb.shp	salibebb	Salix bebbiana	Bebb willow
+tree_atlas_dd83/r-s/salibonp.shp	salibonp	Salix bonplandiana	Bonpland willow
+tree_atlas_dd83/r-s/salicaro.shp	salicaro	Salix caroliniana	Coastal Plain willow
+tree_atlas_dd83/r-s/salidisc.shp	salidisc	Salix discolor	pussy willow
+tree_atlas_dd83/r-s/saliexig.shp	saliexig	Salix exigua	coyote willow
+tree_atlas_dd83/r-s/saliflor.shp	saliflor	Salix floridana	Florida willow
+tree_atlas_dd83/r-s/salifluv.shp	salifluv	Salix fluviatilis	river willow
+tree_atlas_dd83/r-s/saligeye.shp	saligeye	Salix geyeriana	Geyer willow
+tree_atlas_dd83/r-s/salihind.shp	salihind	Salix hindsiana	Hinds willow
+tree_atlas_dd83/r-s/salihook.shp	salihook	Salix hookeriana	Hooker willow
+tree_atlas_dd83/r-s/salilaev.shp	salilaev	Salix laevigata	red willow
+tree_atlas_dd83/r-s/salilasi.shp	salilasi	Salix lasiandra	Pacific willow
+tree_atlas_dd83/r-s/salilaso.shp	salilaso	Salix lasiolepis	arroyo willow
+tree_atlas_dd83/r-s/saliluci.shp	saliluci	Salix lucida	shining willow
+tree_atlas_dd83/r-s/salimack.shp	salimack	Salix mackenzieana	Mackenzie willow
+tree_atlas_dd83/r-s/salinigr.shp	salinigr	Salix nigra	black willow
+tree_atlas_dd83/r-s/salipell.shp	salipell	Salix pellita	satiny willow
+tree_atlas_dd83/r-s/salipeti.shp	salipeti	Salix petiolaris	meadow willow
+tree_atlas_dd83/r-s/salipyri.shp	salipyri	Salix pyrifolia	balsam willow
+tree_atlas_dd83/r-s/saliscou.shp	saliscou	Salix scouleriana	Scouler willow
+tree_atlas_dd83/r-s/saliseri.shp	saliseri	Salix sericea	silky willow
+tree_atlas_dd83/r-s/salisess.shp	salisess	Salix sessilifolia	northwest willow
+tree_atlas_dd83/r-s/salisitc.shp	salisitc	Salix sitchensis	Sitka willow
+tree_atlas_dd83/r-s/salitaxi.shp	salitaxi	Salix taxifolia	yewleaf willow
+tree_atlas_dd83/r-s/salitrac.shp	salitrac	Salix tracyi	Tracy willow
+tree_atlas_dd83/r-s/sambcall.shp	sambcall	Sambucus callicarpa	Pacific red elder
+tree_atlas_dd83/r-s/sambcana.shp	sambcana	Sambucus canadensis	American elder
+tree_atlas_dd83/r-s/sambglau.shp	sambglau	Sambucus glauca	blueberry elder
+tree_atlas_dd83/r-s/sambmela.shp	sambmela	Sambucus melanocarpa	blackbead elder
+tree_atlas_dd83/r-s/sambmexi.shp	sambmexi	Sambucus mexicana	Mexican elder
+tree_atlas_dd83/r-s/sambvelu.shp	sambvelu	Sambucus velutina	velvet elder
+tree_atlas_dd83/r-s/sapibilo.shp	sapibilo	Sapium biloculare	jumping bean sapium
+tree_atlas_dd83/r-s/sapidrum.shp	sapidrum	Sapindus drummondii	western soapberry
+tree_atlas_dd83/r-s/sapisapo.shp	sapisapo	Sapindus saponaria	wingleaf soapberry
+tree_atlas_dd83/r-s/sassalbi.shp	sassalbi	Sassafras albidum	sassafras
+tree_atlas_dd83/r-s/savibaha.shp	savibaha	Savia bahamensis	maidenbush
+tree_atlas_dd83/r-s/schafrut.shp	schafrut	Schaefferia frutescens	Florida boxwood
+tree_atlas_dd83/r-s/schochry.shp	schochry	Schoepfia chrysophylloides	graytwig
+tree_atlas_dd83/r-s/sequgiga.shp	sequgiga	Sequoiadendron giganteum	giant sequoia
+tree_atlas_dd83/r-s/sequsemp.shp	sequsemp	Sequoia sempervirens	redwood
+tree_atlas_dd83/r-s/sererepe.shp	sererepe	Serenoa repens	saw palmetto
+tree_atlas_dd83/r-s/sheparge.shp	sheparge	Shepherdia argentea	silver buffaloberry
+tree_atlas_dd83/r-s/simaglau.shp	simaglau	Simarouba glauca	paradise tree
+tree_atlas_dd83/r-s/solaeria.shp	solaeria	Solanum erianthum	mullein nightshade
+tree_atlas_dd83/r-s/sophaffi.shp	sophaffi	Sophora affinis	Texas sophora
+tree_atlas_dd83/r-s/sophsecu.shp	sophsecu	Sophora secundiflora	mescalbean
+tree_atlas_dd83/r-s/sorbamer.shp	sorbamer	Sorbus americana	American mountain ash
+tree_atlas_dd83/r-s/sorbdeco.shp	sorbdeco	Sorbus decora	showy mountain ash
+tree_atlas_dd83/r-s/sorbscop.shp	sorbscop	Sorbus scopulina	Greene mountain ash
+tree_atlas_dd83/r-s/sorbsitc.shp	sorbsitc	Sorbus sitchensis	Sitka mountain ash
+tree_atlas_dd83/r-s/stapbola.shp	stapbola	Staphylea bolanderi	Sierra bladdernut
+tree_atlas_dd83/r-s/staptrif.shp	staptrif	Staphylea trifolia	American bladdernut
+tree_atlas_dd83/r-s/stewmala.shp	stewmala	Stewartia malacodendron	Virginia stewartia
+tree_atlas_dd83/r-s/stewovat.shp	stewovat	Stewartia ovata	mountain stewartia
+tree_atlas_dd83/r-s/styramer.shp	styramer	Styrax americana	American snowbell
+tree_atlas_dd83/r-s/styrgran.shp	styrgran	Styrax grandifolia	bigleaf snowbell
+tree_atlas_dd83/r-s/styrplat.shp	styrplat	Styrax platanifolia	sycamore leaf snowbell
+tree_atlas_dd83/r-s/surimari.shp	surimari	Suriana maritima	baycedar
+tree_atlas_dd83/r-s/swiemaha.shp	swiemaha	Swietenia mahagoni	West Indies mahogany
+tree_atlas_dd83/r-s/symptinc.shp	symptinc	Symplocos tinctoria	common sweetleaf
+tree_atlas_dd83/t-z/taxodist.shp	taxodist	Taxodium distichum	baldcypress
+tree_atlas_dd83/t-z/taxomucr.shp	taxomucr	Taxodium mucronatum	Montezuma baldcypress
+tree_atlas_dd83/t-z/taxonuta.shp	taxonuta	Taxodium nutans	Pond cypress
+tree_atlas_dd83/t-z/taxubrev.shp	taxubrev	Taxus brevifolia	Pacific yew
+tree_atlas_dd83/t-z/taxucana.shp	taxucana	Taxus canadensis	Canada yew
+tree_atlas_dd83/t-z/taxuflor.shp	taxuflor	Taxus floridana	Florida yew
+tree_atlas_dd83/t-z/tetrbico.shp	tetrbico	Tetrazygia bicolor	Florida tetrazygia
+tree_atlas_dd83/t-z/thrimorr.shp	thrimorr	Thrinax morrisii	key thatchpalm
+tree_atlas_dd83/t-z/thriradi.shp	thriradi	Thrinax radiata	Florida thatchpalm
+tree_atlas_dd83/t-z/thujocci.shp	thujocci	Thuja occidentalis	northern white cedar
+tree_atlas_dd83/t-z/thujplic.shp	thujplic	Thuja plicata	western redcedar
+tree_atlas_dd83/t-z/tiliamer.shp	tiliamer	Tilia americana	American basswood
+tree_atlas_dd83/t-z/tilicaro.shp	tilicaro	Tilia caroliniana	Carolina basswood
+tree_atlas_dd83/t-z/tilihete.shp	tilihete	Tilia heterophylla	white basswood
+tree_atlas_dd83/t-z/torrcali.shp	torrcali	Torreya californica	California torreya
+tree_atlas_dd83/t-z/torrtaxi.shp	torrtaxi	Torreya taxifolia	Florida torreya
+tree_atlas_dd83/t-z/toxivern.shp	toxivern	Toxicodendron vernix	poison sumac
+tree_atlas_dd83/t-z/tremlama.shp	tremlama	Trema lamarckiana	West Indies trema
+tree_atlas_dd83/t-z/tremmicr.shp	tremmicr	Trema micrantha	Florida trema
+tree_atlas_dd83/t-z/tsugcana.shp	tsugcana	Tsuga canadensis	eastern hemlock
+tree_atlas_dd83/t-z/tsugcaro.shp	tsugcaro	Tsuga caroliniana	Carolina hemlock
+tree_atlas_dd83/t-z/tsughete.shp	tsughete	Tsuga heterophylla	western hemlock
+tree_atlas_dd83/t-z/tsugmert.shp	tsugmert	Tsuga mertensiana	mountain hemlock
+tree_atlas_dd83/t-z/ulmualat.shp	ulmualat	Ulmus alata	winged elm
+tree_atlas_dd83/t-z/ulmuamer.shp	ulmuamer	Ulmus americana	American elm
+tree_atlas_dd83/t-z/ulmucras.shp	ulmucras	Ulmus crassifolia	cedar elm
+tree_atlas_dd83/t-z/ulmurubr.shp	ulmurubr	Ulmus rubra	slippery elm
+tree_atlas_dd83/t-z/ulmusero.shp	ulmusero	Ulmus serotina	September elm
+tree_atlas_dd83/t-z/ulmuthom.shp	ulmuthom	Ulmus thomasii	rock elm
+tree_atlas_dd83/t-z/umbecali.shp	umbecali	Umbellularia californica	California laurel
+tree_atlas_dd83/t-z/ungnspec.shp	ungnspec	Ungnadia speciosa	Mexican buckeye
+tree_atlas_dd83/t-z/vaccarbo.shp	vaccarbo	Vaccinium arboreum	tree sparkleberry
+tree_atlas_dd83/t-z/vauqcali.shp	vauqcali	Vauquelinia californica	Torrey vauquelinia
+tree_atlas_dd83/t-z/vauqpauc.shp	vauqpauc	Vauquelinia pauciflora	fewflower vauquelinia
+tree_atlas_dd83/t-z/vibulent.shp	vibulent	Viburnum lentago	nannyberry
+tree_atlas_dd83/t-z/vibunudu.shp	vibunudu	Viburnum nudum	possumhaw viburnum
+tree_atlas_dd83/t-z/vibuobov.shp	vibuobov	Viburnum obovatum	Walter viburnum
+tree_atlas_dd83/t-z/vibuprun.shp	vibuprun	Viburnum prunifolium	blackhaw
+tree_atlas_dd83/t-z/viburufi.shp	viburufi	Viburnum rufidulum	rusty blackhaw
+tree_atlas_dd83/t-z/vibutril.shp	vibutril	Viburnum trilobum	American cranberrybush
+tree_atlas_dd83/t-z/washfili.shp	washfili	Washingtonia filifera	California washingtonia
+tree_atlas_dd83/t-z/ximeamer.shp	ximeamer	Ximenia americana	tallowwood
+tree_atlas_dd83/t-z/yuccaloi.shp	yuccaloi	Yucca aloifolia	aloe yucca
+tree_atlas_dd83/t-z/yuccbrev.shp	yuccbrev	Yucca brevifolia	Joshua tree
+tree_atlas_dd83/t-z/yucccarn.shp	yucccarn	Yucca carnerosana	Carneros yucca
+tree_atlas_dd83/t-z/yuccelat.shp	yuccelat	Yucca elata	soaptree yucca
+tree_atlas_dd83/t-z/yuccfaxo.shp	yuccfaxo	Yucca faxoniana	Faxon yucca
+tree_atlas_dd83/t-z/yuccglor.shp	yuccglor	Yucca gloriosa	moundlily yucca
+tree_atlas_dd83/t-z/yuccmoha.shp	yuccmoha	Yucca mohavensis	Mohave yucca
+tree_atlas_dd83/t-z/yuccrost.shp	yuccrost	Yucca rostrata	beaked yucca
+tree_atlas_dd83/t-z/yuccscho.shp	yuccscho	Yucca schottii	Schotts yucca
+tree_atlas_dd83/t-z/yucctorr.shp	yucctorr	Yucca torreyi	Torrey yucca
+tree_atlas_dd83/t-z/yucctrec.shp	yucctrec	Yucca treculeana	Trecul yucca
+tree_atlas_dd83/t-z/zantamer.shp	zantamer	Zanthoxylum americanum	common prickly ash
+tree_atlas_dd83/t-z/zantclav.shp	zantclav	Zanthoxylum clava-herculis	Hercules club
+tree_atlas_dd83/t-z/zantcori.shp	zantcori	Zanthoxylum coriaceum	Biscayne prickly ash
+tree_atlas_dd83/t-z/zantfaga.shp	zantfaga	Zanthoxylum fagara	lime prickly ash
+tree_atlas_dd83/t-z/zantflav.shp	zantflav	Zanthoxylum flavum	West Indies satinwood
+tree_atlas_dd83/t-z/zanthirs.shp	zanthirs	Zanthoxylum hirsutum	Texas Hercules club

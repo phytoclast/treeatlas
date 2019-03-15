@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en"><Esri><MetaID>{6A4F5666-DF37-4CF0-99EF-634FAA61C65C}</MetaID><CreaDate>20090707</CreaDate><CreaTime>11582800</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection" Date="20090707" Time="115828">DefineProjection C:\a\Geography\tree_atlas_dd83\t-z\yuccbrev.shp GEOGCS['GCS_North_American_1983',DATUM['D_North_American_1983',SPHEROID['GRS_1980',6378137.0,298.257222101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] C:\a\Geography\tree_atlas_dd83\t-z\yuccbrev.shp</Process></lineage></DataProperties></Esri></metadata>
