@@ -34,6 +34,7 @@ sand <- raster('nam/sand.tif')
 SoilpH <- raster('nam/SoilpH.tif')
 hydric <- raster('nam/hydric.tif')
 salids <- raster('nam/salids.tif')
+Cindex <- min(Tclx+15, Tc)
 
 M <- MAP/(Deficit + MAP - Surplus)
 vTclx <- velox(Tclx)
@@ -48,7 +49,9 @@ vsand <- velox(sand)
 vSoilpH<- velox(SoilpH)
 vhydric<- velox(hydric)
 vsalids<- velox(salids)
-line <- cbind(file = 'name',taxon = 'name',name = 'name', Tclx_max=0, Tclx_min=0, Tgs_max=0, Tgs_min=0)
+vCindex<- velox(Cindex)
+
+line <- cbind(file = 'name',taxon = 'name',name = 'name', Tclx_max=0, Tclx_min=0, Tgs_max=0, Tgs_min=0, Cindex_max = 0, Cindex_min=0)
 
 top = 0.98
 bot = 0.02
@@ -81,8 +84,16 @@ e <- e[!is.na(e[,2]),]
 Tgs_max <- quantile(e[,2], top)
 Tgs_min <- quantile(e[,2], bot)
 
+#Cindex----
+
+e <- vCindex$extract(spp2, df=T, small = T)
+e <- e[!is.na(e[,2]),]
+#densityplot(e[,2], plot.points=FALSE, bw=2, lwd=2, col='RoyalBlue', xlab='Tgs', ylab='Density', main='')
+Cindex_max <- quantile(e[,2], top)
+Cindex_min <- quantile(e[,2], bot)
+
 line2 <- cbind(file = as.character(treelist[n,2]), taxon = as.character(treelist[n,3]),
-               name = as.character(treelist[n,4]), Tclx_max, Tclx_min, Tgs_max, Tgs_min)
+               name = as.character(treelist[n,4]), Tclx_max, Tclx_min, Tgs_max, Tgs_min, Cindex_max, Cindex_min)
 line <- rbind(line, line2)
 
 }
@@ -199,10 +210,13 @@ TreeClim$Tclx_min <- as.numeric(as.character(TreeClim$Tclx_min))
 TreeClim$Tclx_max <- as.numeric(as.character(TreeClim$Tclx_max))
 TreeClim$Tgs_min <- as.numeric(as.character(TreeClim$Tgs_min))
 TreeClim$Tgs_max <- as.numeric(as.character(TreeClim$Tgs_max))
-#saveRDS(TreeClim, 'data/TreeClim.RDS')
-#TreeClim <- readRDS('data/TreeClim.RDS')
+TreeClim$Cindex_max <- as.numeric(as.character(TreeClim$Cindex_max))
+TreeClim$Cindex_min <- as.numeric(as.character(TreeClim$Cindex_min))
 TreeClim <- unique(TreeClim[2:nrow(TreeClim),])
 rownames(TreeClim) <- TreeClim$file
+#saveRDS(TreeClim, 'data/TreeClim.RDS')
+#TreeClim <- readRDS('data/TreeClim.RDS')
+
 BroadEvergreens <- unique(TreeClim[TreeClim$file %in% BE,])
 Monocot <- unique(TreeClim[TreeClim$file %in% PALM,])
 Succulent <- unique(TreeClim[TreeClim$file %in% SU,])
@@ -212,18 +226,18 @@ TreeClim$file <- as.character(TreeClim$file)
 densityplot(Needle$Tclx_min)
 densityplot(BroadDeciduous$Tclx_min, add=T)
 densityplot(BroadEvergreens$Tclx_min, add=T)
-
+TreeClim$diff <- TreeClim$Cindex_min - TreeClim$Tclx_min
 ggplot() + 
   geom_density(data = BroadEvergreens, 
-               mapping = aes(x = Tclx_min, fill='Broadleaf Evergreen', color='Broadleaf Evergreen'),size=1, alpha=0.1)+
+               mapping = aes(x = Cindex_min, fill='Broadleaf Evergreen', color='Broadleaf Evergreen'),size=1, alpha=0.1)+
   geom_density(data = BroadDeciduous, 
-               mapping = aes(x = Tclx_min, fill='Broadleaf Deciduous', color='Broadleaf Deciduous'), size=1, alpha=0.1)+
+               mapping = aes(x = Cindex_min, fill='Broadleaf Deciduous', color='Broadleaf Deciduous'), size=1, alpha=0.1)+
   geom_density(data = Monocot, 
-               mapping = aes(x = Tclx_min, fill='Monocot', color='Monocot'), size=1, alpha=0.1)+
+               mapping = aes(x = Cindex_min, fill='Monocot', color='Monocot'), size=1, alpha=0.1)+
   geom_density(data = Succulent, 
-               mapping = aes(x = Tclx_min, fill='Succulent', color='Succulent'), size=1, alpha=0.1)+
+               mapping = aes(x = Cindex_min, fill='Succulent', color='Succulent'), size=1, alpha=0.1)+
   geom_density(data = Needle, 
-               mapping = aes(x = Tclx_min, fill='Needleleaf', color='Needleleaf'), size=1, alpha=0.1)+
+               mapping = aes(x = Cindex_min, fill='Needleleaf', color='Needleleaf'), size=1, alpha=0.1)+
   scale_fill_manual("Legend", values = c("Broadleaf Evergreen" = "red",
                                          "Broadleaf Deciduous" = "green",
                                          "Monocot" = "yellow",
@@ -234,8 +248,42 @@ ggplot() +
                                           "Monocot" = "orange",
                                           "Succulent" = "purple",
                                           "Needleleaf" = "blue"))+
-  scale_x_continuous(name= "Minnimum Annual Extreme Low", breaks=seq(-65, 5, by = 5))+
+  scale_x_continuous(name= "Minnimum Annual Extreme Low", breaks=seq(-65+15, 5+15, by = 5))+
   scale_y_continuous(name= "Tree Species Density")
+
+ggplot() + 
+  geom_smooth(data = BroadEvergreens, 
+               mapping = aes(x = Cindex_min, y = Tgs_min, fill='Broadleaf Evergreen', color='Broadleaf Evergreen'),size=1, alpha=0.1)+
+  geom_smooth(data = BroadDeciduous, 
+               mapping = aes(x = Cindex_min, y = Tgs_min, fill='Broadleaf Deciduous', color='Broadleaf Deciduous'), size=1, alpha=0.1)+
+  geom_smooth(data = Monocot, 
+               mapping = aes(x = Cindex_min, y = Tgs_min, fill='Monocot', color='Monocot'), size=1, alpha=0.1)+
+  geom_smooth(data = Succulent, 
+               mapping = aes(x = Cindex_min, y = Tgs_min, fill='Succulent', color='Succulent'), size=1, alpha=0.1)+
+  geom_smooth(data = Needle, 
+               mapping = aes(x = Cindex_min, y = Tgs_min, fill='Needleleaf', color='Needleleaf'), size=1, alpha=0.1)+
+  geom_point(data = BroadEvergreens, 
+               mapping = aes(x = Cindex_min, y = Tgs_min, fill='Broadleaf Evergreen', color='Broadleaf Evergreen'),size=1, alpha=0.1)+
+  geom_point(data = BroadDeciduous, 
+               mapping = aes(x = Cindex_min, y = Tgs_min, fill='Broadleaf Deciduous', color='Broadleaf Deciduous'), size=1, alpha=0.1)+
+  geom_point(data = Monocot, 
+               mapping = aes(x = Cindex_min, y = Tgs_min, fill='Monocot', color='Monocot'), size=1, alpha=0.1)+
+  geom_point(data = Succulent, 
+               mapping = aes(x = Cindex_min, y = Tgs_min, fill='Succulent', color='Succulent'), size=1, alpha=0.1)+
+  geom_point(data = Needle, 
+               mapping = aes(x = Cindex_min, y = Tgs_min, fill='Needleleaf', color='Needleleaf'), size=1, alpha=0.1)+
+  scale_fill_manual("Legend", values = c("Broadleaf Evergreen" = "red",
+                                         "Broadleaf Deciduous" = "green",
+                                         "Monocot" = "yellow",
+                                         "Succulent" = "purple",
+                                         "Needleleaf" = "blue"))+
+  scale_color_manual("Legend", values = c("Broadleaf Evergreen" = "red",
+                                          "Broadleaf Deciduous" = "dark green",
+                                          "Monocot" = "orange",
+                                          "Succulent" = "purple",
+                                          "Needleleaf" = "blue"))+
+  scale_x_continuous(name= "Minnimum Annual Extreme Low", breaks=seq(-65+15, 5+15, by = 5))+
+  scale_y_continuous(name= "Maximum Growing Season Temperature", breaks=seq(0, 36, by = 2))
 
 ggplot() + 
   geom_density(data = BroadEvergreens, 
@@ -318,7 +366,7 @@ library(cluster)
 dist <- vegdist(TreeClim[,4:7], method = 'gower')
 clust <- hclust(dist)
 plot(clust, cex = 0.1)
-cuttree <- as.data.frame(cutree(clust,5))
+cuttree <- as.data.frame(cutree(clust,8))
 cuttree$file <- rownames(cuttree)
 colnames(cuttree) <- c('cluster', 'file')
 TreeClimcut <- merge(TreeClim, cuttree, by='file')
@@ -333,15 +381,17 @@ ggplot() +
                                          "3" = "blue",
                                          "4" = "orange",
                                          "5" = "yellow",
-                                         "6" = "purple",
-                                         "7" = "pink"))+
+                                         "6" = "cyan",
+                                         "7" = "purple",
+                                         "8" = "pink"))+
   scale_color_manual("Legend", values = c("1" = "red",
                                           "2" = "green",
                                           "3" = "blue",
                                           "4" = "orange",
                                           "5" = "yellow",
-                                          "6" = "purple",
-                                          "7" = "pink"))+
+                                          "6" = "cyan",
+                                          "7" = "purple",
+                                          "8" = "pink"))+
   scale_x_continuous(name= "Minimum Growing Season Temperature", breaks=seq(0, 36, by = 2))+
   scale_y_continuous(name= "Minnimum Annual Extreme Low", breaks=seq(-65, 5, by = 5))
 
@@ -354,15 +404,17 @@ ggplot() +
                                          "3" = "blue",
                                          "4" = "orange",
                                          "5" = "yellow",
-                                         "6" = "purple",
-                                         "7" = "pink"))+
+                                         "6" = "cyan",
+                                         "7" = "purple",
+                                         "8" = "pink"))+
   scale_color_manual("Legend", values = c("1" = "red",
                                           "2" = "green",
                                           "3" = "blue",
                                           "4" = "orange",
                                           "5" = "yellow",
-                                          "6" = "purple",
-                                          "7" = "pink"))+
+                                          "6" = "cyan",
+                                          "7" = "purple",
+                                          "8" = "pink"))+
   scale_y_continuous(name= "Minimum Growing Season Temperature", breaks=seq(0, 36, by = 2))
 #scale_y_continuous(name= "Minnimum Annual Extreme Low", breaks=seq(-65, 5, by = 5))
 ggplot() + 
@@ -375,15 +427,17 @@ ggplot() +
                                          "3" = "blue",
                                          "4" = "orange",
                                          "5" = "yellow",
-                                         "6" = "purple",
-                                         "7" = "pink"))+
+                                         "6" = "cyan",
+                                         "7" = "purple",
+                                         "8" = "pink"))+
   scale_color_manual("Legend", values = c("1" = "red",
                                           "2" = "green",
                                           "3" = "blue",
                                           "4" = "orange",
                                           "5" = "yellow",
-                                          "6" = "purple",
-                                          "7" = "pink"))+
+                                          "6" = "cyan",
+                                          "7" = "purple",
+                                          "8" = "pink"))+
   scale_y_continuous(name= "Maximum Growing Season Temperature", breaks=seq(0, 36, by = 2))
 #scale_y_continuous(name= "Minnimum Annual Extreme Low", breaks=seq(-65, 5, by = 5))
 
@@ -395,15 +449,17 @@ ggplot() +
                                          "3" = "blue",
                                          "4" = "orange",
                                          "5" = "yellow",
-                                         "6" = "purple",
-                                         "7" = "pink"))+
+                                         "6" = "cyan",
+                                         "7" = "purple",
+                                         "8" = "pink"))+
   scale_color_manual("Legend", values = c("1" = "red",
                                           "2" = "green",
                                           "3" = "blue",
                                           "4" = "orange",
                                           "5" = "yellow",
-                                          "6" = "purple",
-                                          "7" = "pink"))+
+                                          "6" = "cyan",
+                                          "7" = "purple",
+                                          "8" = "pink"))+
   #scale_y_continuous(name= "Minimum Growing Season Temperature", breaks=seq(0, 36, by = 2))
 scale_y_continuous(name= "Minnimum Annual Extreme Low", breaks=seq(-65, 5, by = 5))
 aggregate(TreeClimcut[,c('Tclx_max','Tclx_min','Tgs_max','Tgs_min')], by=list(TreeClimcut$cluster), FUN='median')
