@@ -6,7 +6,7 @@ library(lattice)
 library(dplyr)
 library(ggplot2)
 treelist <- read.delim('treefiles.txt')
-bt_frost <- read.delim('bt_frost.txt')
+bt_frost <- read.delim('bt_frost2.txt')
 forms <- read.delim('data/NorthAmericaGrowthHabits20180924.txt', encoding="Latin1")
 syns <- read.delim('data/BONAPGRIN_NAMES.txt', encoding="UTF-8")
 colnames(syns) <- c("Binomial","Taxon","B_Taxon","B_Binomial","G_Taxon","G_Binomial") 
@@ -472,10 +472,65 @@ library(rpart.plot)
 model <- rpart(cluster~ Tclx_min +Tclx_max +Tgs_min +Tgs_max, data= TreeClimcut, method = "class", maxdepth = 4)
 rpart.plot(model, extra=108)
 
-cor(bt_frost[,6:10])
-model <- glm(Frost50  ~ bt0510+tmin+t01, data=bt_frost)
+bt_frost$b01 <- 0
+bt_frost$b02 <- 0
+bt_frost$b03 <- 0
+bt_frost$b04 <- 0
+bt_frost$b05 <- 0
+bt_frost$b06 <- 0
+bt_frost$b07 <- 0
+bt_frost$b08 <- 0
+bt_frost$b09 <- 0
+bt_frost$b10 <- 0
+bt_frost$b11 <- 0
+bt_frost$b12 <- 0
+for (i in 0:11){
+  bt_frost[,which(colnames(bt_frost)=='b01')+i]  <- bt_frost[,which(colnames(bt_frost)=='t01')+i]*
+    (bt_frost[,which(colnames(bt_frost)=='t01')+i]>0)*1
+}
+
+bt_frost$bl01 <- 0
+bt_frost$bl02 <- 0
+bt_frost$bl03 <- 0
+bt_frost$bl04 <- 0
+bt_frost$bl05 <- 0
+bt_frost$bl06 <- 0
+bt_frost$bl07 <- 0
+bt_frost$bl08 <- 0
+bt_frost$bl09 <- 0
+bt_frost$bl10 <- 0
+bt_frost$bl11 <- 0
+bt_frost$bl12 <- 0
+for (i in 0:11){
+  bt_frost[,which(colnames(bt_frost)=='bl01')+i]  <- bt_frost[,which(colnames(bt_frost)=='tl01')+i]*
+    (bt_frost[,which(colnames(bt_frost)=='tl01')+i]>0)*1
+}
+bt_frost$gl01 <- 0
+bt_frost$gl02 <- 0
+bt_frost$gl03 <- 0
+bt_frost$gl04 <- 0
+bt_frost$gl05 <- 0
+bt_frost$gl06 <- 0
+bt_frost$gl07 <- 0
+bt_frost$gl08 <- 0
+bt_frost$gl09 <- 0
+bt_frost$gl10 <- 0
+bt_frost$gl11 <- 0
+bt_frost$gl12 <- 0
+for (i in 0:11){
+  bt_frost[,which(colnames(bt_frost)=='gl01')+i]  <-( bt_frost[,which(colnames(bt_frost)=='tl01')+i]-10)*
+    (bt_frost[,which(colnames(bt_frost)=='tl01')+i]>10)*1
+}
+colnames(bt_frost)
+bt_frost$bt <- apply(bt_frost[,c('b01', 'b02', 'b04', 'b04', 'b05', 'b06', 'b07', 'b08', 'b09', 'b10', 'b11', 'b12')], 1, FUN = mean)
+bt_frost$btl <- apply(bt_frost[,c('bl01', 'bl02', 'bl04', 'bl04', 'bl05', 'bl06', 'bl07', 'bl08', 'bl09', 'bl10', 'bl11', 'bl12')], 1, FUN = mean)
+bt_frost$gtl <- apply(bt_frost[,c('gl01', 'gl02', 'gl04', 'gl04', 'gl05', 'gl06', 'gl07', 'gl08', 'gl09', 'gl10', 'gl11', 'gl12')], 1, FUN = mean)
+bt_frost$gdif <- bt_frost$btl - bt_frost$gtl 
+cor(bt_frost[,c('Frost50', 'bt0510','tmin','t01','bt','btl','gtl','gdif')])
+model <- glm(Frost50  ~ bt0510+bt+gdif+Elevation, data=bt_frost)
 summary(model)
 bt_frost$fit <- predict(model, bt_frost)
-model2 <- lm(Frost50  ~ bt0510+tmin+t01, data=bt_frost)
-summary(model)
+model2 <- glm(Frost50  ~ bt0510+tmin+t01+bt+btl+gdif, data=bt_frost)
+summary(model2)
 bt_frost$fit2 <- predict(model2, bt_frost)
+bt_frostx <- subset(bt_frost, select= c("Station_Name","State","Elevation","bt0510","tmin","Frost50","Freeze50","t01","fit","fit2"))
