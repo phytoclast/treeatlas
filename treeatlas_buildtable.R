@@ -7,6 +7,7 @@ library(dplyr)
 library(ggplot2)
 treelist <- read.delim('treefiles.txt')
 bt_frost <- read.delim('bt_frost2.txt')
+kuchlermap <-read_sf('data/kuchler.shp')
 forms <- read.delim('data/NorthAmericaGrowthHabits20180924.txt', encoding="Latin1")
 syns <- read.delim('data/BONAPGRIN_NAMES.txt', encoding="UTF-8")
 colnames(syns) <- c("Binomial","Taxon","B_Taxon","B_Binomial","G_Taxon","G_Binomial") 
@@ -22,7 +23,8 @@ NE <- as.character(unique(treelistforms[grepl('NE', treelistforms$HabitSymbol)|g
 SU <- as.character(unique(treelistforms[grepl('U', treelistforms$HabitSymbol),'name']))
 
 unique(treelistforms$HabitSymbol)
-
+bigTgs <- raster('C:/a/Ecological_Sites/GIS/model/global/Tgs.tif')
+bigTclx <- raster('C:/a/Ecological_Sites/GIS/model/global/Tclx.tif')
 Tclx <- raster('nam/Tclx.tif')
 Tgs <- raster('nam/Tgs.tif')
 Tc <- raster('nam/Tc.tif')
@@ -51,6 +53,9 @@ vSoilpH<- velox(SoilpH)
 vhydric<- velox(hydric)
 vsalids<- velox(salids)
 vCindex<- velox(Cindex)
+
+vbigTgs <- velox(bigTgs)
+vbigTclx <- velox(bigTclx)
 
 line <- cbind(file = 'name',taxon = 'name',name = 'name', Tclx_max=0, Tclx_min=0, Tgs_max=0, Tgs_min=0, Cindex_max = 0, Cindex_min=0)
 
@@ -534,3 +539,55 @@ model2 <- glm(Frost50  ~ bt0510+tmin+t01+bt+btl+gdif, data=bt_frost)
 summary(model2)
 bt_frost$fit2 <- predict(model2, bt_frost)
 bt_frostx <- subset(bt_frost, select= c("Station_Name","State","Elevation","bt0510","tmin","Frost50","Freeze50","t01","fit","fit2"))
+
+
+
+#kuchler----
+top = 0.98
+bot = 0.02
+
+kuchlertab <- unique(subset(as.data.frame(kuchlermap[,c('TYPE', 'CODE')]), select= -c(geometry)))
+rownames(kuchlertab) <- kuchlertab$CODE
+for(i in 1:nrow(kuchlertab)){
+  #i <-4
+  #n <- kuchlertab[grepl('Southeastn spruce-fir forest', kuchlertab$TYPE),'CODE']
+  n <- kuchlertab[i,'CODE']
+  veg <- kuchlermap[kuchlermap$CODE %in% n,]
+  plot(veg)
+  veg2 <- 	st_transform(veg, st_crs(Tgs))
+  
+  
+  #plot(Tclx, main=treelist[n,4])
+  #plot(st_geometry(spp2), add=T)
+  
+  
+  #Tclx----
+  
+  e <- vTclx$extract(veg2, df=T, small = T)
+  e <- e[!is.na(e[,2]),]
+  #densityplot(e[,2], plot.points=FALSE, bw=2, lwd=2, col='RoyalBlue', xlab='Tclx', ylab='Density', main='')
+  Tclx_max <- quantile(e[,2], top)
+  Tclx_min <- quantile(e[,2], bot)
+  
+  #Tgs----
+  
+  e <- vTgs$extract(veg2, df=T, small = T)
+  e <- e[!is.na(e[,2]),]
+  #densityplot(e[,2], plot.points=FALSE, bw=2, lwd=2, col='RoyalBlue', xlab='Tgs', ylab='Density', main='')
+  Tgs_max <- quantile(e[,2], 1)
+  Tgs_min <- quantile(e[,2], 0)
+  
+  #Cindex----
+  
+  e <- vCindex$extract(spp2, df=T, small = T)
+  e <- e[!is.na(e[,2]),]
+  #densityplot(e[,2], plot.points=FALSE, bw=2, lwd=2, col='RoyalBlue', xlab='Tgs', ylab='Density', main='')
+  Cindex_max <- quantile(e[,2], top)
+  Cindex_min <- quantile(e[,2], bot)
+  
+  line2 <- cbind(file = as.character(treelist[n,2]), taxon = as.character(treelist[n,3]),
+                 name = as.character(treelist[n,4]), Tclx_max, Tclx_min, Tgs_max, Tgs_min, Cindex_max, Cindex_min)
+  line <- rbind(line, line2)
+  
+}
+
