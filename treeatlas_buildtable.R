@@ -542,8 +542,8 @@ bt_frostx <- subset(bt_frost, select= c("Station_Name","State","Elevation","bt05
 
 
 #kuchler----
-top = 0.95
-bot = 0.05
+top = 0.90
+bot = 0.10
 top2 = 0.97
 bot2 = 0.01
 top3 = 0.99
@@ -553,7 +553,7 @@ bot4 = 0.02
 
 kuchlertab <- unique(subset(as.data.frame(kuchlermap[,c('TYPE', 'CODE')]), select= -c(geometry)))
 rownames(kuchlertab) <- kuchlertab$CODE
-line <- cbind(TYPE = 'TYPE',CODE = 'CODE', Tgs_max=0, Tgs_min=0, Tc_max=0, Tclx_max=0, Tclx_min=0, Tc_min=0, M_max=0, M_min=0, Surplus_max=0, Surplus_min=0, Deficit_max=0, Deficit_min=0, pAET_max=0, pAET_min=0, slope_max=0, slope_min=0, sand_max=0, sand_min=0, SoilpH_max=0, SoilpH_min=0, hydric_max=0, hydric_min=0, salids_max=0, salids_min=0)
+line <- cbind(TYPE = 'TYPE',CODE = 'CODE', Tgs_max=0, Tgs_min=0, Tc_max=0, Tc_min=0, Tclx_max=0, Tclx_min=0, M_max=0, M_min=0, Surplus_max=0, Surplus_min=0, Deficit_max=0, Deficit_min=0, pAET_max=0, pAET_min=0, slope_max=0, slope_min=0, sand_max=0, sand_min=0, SoilpH_max=0, SoilpH_min=0, hydric_max=0, hydric_min=0, salids_max=0, salids_min=0)
 
 for(i in 1:nrow(kuchlertab)){
   #i <-4
@@ -572,56 +572,56 @@ for(i in 1:nrow(kuchlertab)){
   e <- vTclx$extract(veg2, df=T, small = T)
   e <- e[!is.na(e[,2]),]
   #densityplot(e[,2], plot.points=FALSE, bw=2, lwd=2, col='RoyalBlue', xlab='Tclx', ylab='Density', main='')
-  Tclx_max <- quantile(e[,2], top2)
-  Tclx_min <- quantile(e[,2], bot2)
+  Tclx_max <- quantile(e[,2], top)
+  Tclx_min <- quantile(e[,2], bot)
   
   #Tgs----
   
   e <- vTgs$extract(veg2, df=T, small = T)
   e <- e[!is.na(e[,2]),]
   #densityplot(e[,2], plot.points=FALSE, bw=2, lwd=2, col='RoyalBlue', xlab='Tgs', ylab='Density', main='')
-  Tgs_max <- quantile(e[,2], top2)
-  Tgs_min <- quantile(e[,2], bot2)
+  Tgs_max <- quantile(e[,2], top)
+  Tgs_min <- quantile(e[,2], bot)
   
   #Tc----
   
   e <- vTc$extract(veg2, df=T, small = T)
   e <- e[!is.na(e[,2]),]
   #densityplot(e[,2], plot.points=FALSE, bw=2, lwd=2, col='RoyalBlue', xlab='Tgs', ylab='Density', main='')
-  Tc_max <- quantile(e[,2], top2)
-  Tc_min <- quantile(e[,2], bot2)
+  Tc_max <- quantile(e[,2], top)
+  Tc_min <- quantile(e[,2], bot)
   
   #M----
   
   e <- vM$extract(veg2, df=T, small = T)
   e <- e[!is.na(e[,2]),]
   #densityplot(e[,2], plot.points=FALSE, bw=2, lwd=2, col='RoyalBlue', xlab='Tgs', ylab='Density', main='')
-  M_max <- quantile(e[,2], top3)
-  M_min <- quantile(e[,2], bot3)
+  M_max <- quantile(e[,2], top)
+  M_min <- quantile(e[,2], bot)
   
   #Surplus----
   
   e <- vSurplus$extract(veg2, df=T, small = T)
   e <- e[!is.na(e[,2]),]
   #densityplot(e[,2], plot.points=FALSE, bw=2, lwd=2, col='RoyalBlue', xlab='Tgs', ylab='Density', main='')
-  Surplus_max <- quantile(e[,2], top3)
-  Surplus_min <- quantile(e[,2], bot3)
+  Surplus_max <- quantile(e[,2], top)
+  Surplus_min <- quantile(e[,2], bot)
   
   #Deficit----
   
   e <- vDeficit$extract(veg2, df=T, small = T)
   e <- e[!is.na(e[,2]),]
   #densityplot(e[,2], plot.points=FALSE, bw=2, lwd=2, col='RoyalBlue', xlab='Tgs', ylab='Density', main='')
-  Deficit_max <- quantile(e[,2], top2)
-  Deficit_min <- quantile(e[,2], bot2)  
+  Deficit_max <- quantile(e[,2], top)
+  Deficit_min <- quantile(e[,2], bot)  
   
   #pAET----
   
   e <- vpAET$extract(veg2, df=T, small = T)
   e <- e[!is.na(e[,2]),]
   #densityplot(e[,2], plot.points=FALSE, bw=2, lwd=2, col='RoyalBlue', xlab='Tgs', ylab='Density', main='')
-  pAET_max <- quantile(e[,2], top4)
-  pAET_min <- quantile(e[,2], bot4)
+  pAET_max <- quantile(e[,2], top)
+  pAET_min <- quantile(e[,2], bot)
   
   
   #slope----
@@ -629,8 +629,8 @@ for(i in 1:nrow(kuchlertab)){
   e <- vslope$extract(veg2, df=T, small = T)
   e <- e[!is.na(e[,2]),]
   #densityplot(e[,2], plot.points=FALSE, bw=2, lwd=2, col='RoyalBlue', xlab='Tgs', ylab='Density', main='')
-  slope_max <- quantile(e[,2], top3)
-  slope_min <- quantile(e[,2], bot3)
+  slope_max <- quantile(e[,2], top)
+  slope_min <- quantile(e[,2], bot)
   
   
   #sand----
@@ -668,7 +668,7 @@ for(i in 1:nrow(kuchlertab)){
   salids_min <- quantile(e[,2], bot)
   
   line2 <- cbind(TYPE = as.character(kuchlertab[kuchlertab$CODE %in% n,1]), CODE = as.character(n),
-                   Tgs_max, Tgs_min, Tc_max, Tclx_max, Tclx_min, Tc_min, M_max, M_min, Surplus_max, Surplus_min, Deficit_max, Deficit_min, pAET_max, pAET_min,
+                   Tgs_max, Tgs_min, Tc_max, Tc_min, Tclx_max, Tclx_min,  M_max, M_min, Surplus_max, Surplus_min, Deficit_max, Deficit_min, pAET_max, pAET_min,
                  slope_max, slope_min, sand_max, sand_min, SoilpH_max, SoilpH_min, hydric_max, hydric_min, salids_max, salids_min)
   line <- rbind(line, line2)
   
@@ -679,7 +679,9 @@ for(x in 3:ncol(KuchlerClim)){
 KuchlerClim[,x] <- as.numeric(as.character(KuchlerClim[,x]))
 }
 rownames(KuchlerClim) <- KuchlerClim$CODE
-#saveRDS(KuchlerClim, 'output/KuchlerClim.RDS')
+KuchlerClim$CODE <- as.numeric(as.character(KuchlerClim$CODE))
+#saveRDS(KuchlerClim, 'output/KuchlerClim2.RDS')
+#KuchlerClim <- readRDS('output/KuchlerClim2.RDS')
 KuchlerClimtrans <- KuchlerClim
 KuchlerClimtrans$M_max <- KuchlerClimtrans$M_max/(KuchlerClimtrans$M_max +1)
 KuchlerClimtrans$M_min <- KuchlerClimtrans$M_min/(KuchlerClimtrans$M_min +1)
@@ -687,38 +689,99 @@ KuchlerClimtrans$Surplus_max <- KuchlerClimtrans$Surplus_max/(KuchlerClimtrans$S
 KuchlerClimtrans$Surplus_min <- KuchlerClimtrans$Surplus_min/(KuchlerClimtrans$Surplus_min +25)
 KuchlerClimtrans$Deficit_max <- KuchlerClimtrans$Deficit_max/(KuchlerClimtrans$Deficit_max +150)
 KuchlerClimtrans$Deficit_min <- KuchlerClimtrans$Deficit_min/(KuchlerClimtrans$Deficit_min +150)
+KuchlerClimtrans$slope_max <- KuchlerClimtrans$slope_max/(KuchlerClimtrans$slope_max +5)
+KuchlerClimtrans$slope_min <- KuchlerClimtrans$slope_min/(KuchlerClimtrans$slope_min +5)
+KuchlerClimtrans$Tgs_max[KuchlerClimtrans$CODE %in% '88'] <-  15
+KuchlerClimtrans$Tgs_min[KuchlerClimtrans$CODE %in% '88'] <-  12
 rownames(KuchlerClimtrans) <- paste(KuchlerClimtrans$CODE, KuchlerClimtrans$TYPE)
 library(BiodiversityR)
 library(ape)
 library(cluster)
 library(RColorBrewer)
 library(colorspace)
-nclas <- 9
-mapvar <- -1*(KuchlerClimtrans$Tgs_max+KuchlerClimtrans$Tgs_min)
+nclas <- 5
+mapvar <- 1*(KuchlerClimtrans$Tgs_max/2+KuchlerClimtrans$Tgs_min/2)
 groups = floor((mapvar-min(mapvar))/(max(mapvar)-min(mapvar))*nclas*0.999)+1
+groups = floor((mapvar)/(30)*nclas)+1
 
 pal <- colorRampPalette(c("darkred","red","orange","yellow","greenyellow","darkgreen", "cyan","blue","purple"))
 #pal <- colorRampPalette(c("red","yellow","cyan","blue"))
 
-cols <- (pal(nclas))
-dist <- vegdist(KuchlerClimtrans[,3:ncol(KuchlerClimtrans)], method = 'gower')
+cols <- rev(pal(nclas))
 
-clust <- agnes(dist, method = 'ward')
-clust <- diana(dist, diss=T)
+dist <- vegdist(KuchlerClimtrans[,3:ncol(KuchlerClimtrans)], method = 'gower')# 16], method = 'gower')
+
+clust1 <- agnes(dist, method = 'ward')
+clust2 <- diana(dist, diss=T)
 #groups <- groups[rev(clust$order)]
-clust <- hclust(dist, method = "mcquitty")
-png(filename="output/kuchlerdendro.png",width = 10, height = 40, units = 'in', res = 300)
+clust3 <- hclust(dist, method = "complete")
+clust4 <- hclust(dist, method = "average")
+png(filename="output/kuchlerdendro1.png",width = 10, height = 40, units = 'in', res = 300)
 
-plot(as.phylo(as.hclust(clust)), main='Kuchler Vegetation',label.offset=0.02, direction='right', font=1, cex=0.85)
+plot(as.phylo(as.hclust(clust1)), main='Kuchler Vegetation - Ward',label.offset=0.02, direction='right', font=1, cex=0.85)
+tiplabels(pch=15, col=cols[groups])
+
+dev.off()
+png(filename="output/kuchlerdendro2.png",width = 10, height = 40, units = 'in', res = 300)
+
+plot(as.phylo(as.hclust(clust2)), main='Kuchler Vegetation - Divisive',label.offset=0.02, direction='right', font=1, cex=0.85)
+tiplabels(pch=15, col=cols[groups])
+
+dev.off()
+png(filename="output/kuchlerdendro3.png",width = 10, height = 40, units = 'in', res = 300)
+
+plot(as.phylo(as.hclust(clust3)), main='Kuchler Vegetation - Complete',label.offset=0.02, direction='right', font=1, cex=0.85)
+tiplabels(pch=15, col=cols[groups])
+
+dev.off()
+png(filename="output/kuchlerdendro4.png",width = 10, height = 40, units = 'in', res = 300)
+
+plot(as.phylo(as.hclust(clust4)), main='Kuchler Vegetation - Average',label.offset=0.02, direction='right', font=1, cex=0.85)
 tiplabels(pch=15, col=cols[groups])
 
 dev.off()
 
-cuttree <- as.data.frame(cutree(clust,8))
-cuttree$file <- rownames(cuttree)
-colnames(cuttree) <- c('cluster', 'file')
-TreeClimcut <- merge(TreeClim, cuttree, by='file')
-TreeClimcut$cluster <- as.character(TreeClimcut$cluster)
-rownames(KuchlerClimtrans)<-NULL
-which(KuchlerClimtrans$CODE %in% '64')
-row(KuchlerClimtrans[,c('TYPE','CODE')])
+
+
+Biomeclimate <- readRDS('C:/workspace2/modelmap/data/bigRadBiomeclimate.RDS')
+Biomeclimate <-  subset(Biomeclimate, Norm %in% '1990')
+Biomeclimate$MAP <- apply(Biomeclimate[,c('p01','p02','p03','p04','p05','p06','p07','p08','p09','p10','p11','p12')], MARGIN = 1, FUN='sum')
+Biomeclimate$M <- Biomeclimate$MAP / (Biomeclimate$Deficit + Biomeclimate$MAP - Biomeclimate$Surplus)+0.0001
+Biomeclimate$y <- Biomeclimate$Latitude
+Biomeclimate$x <- Biomeclimate$Longitude
+Biome_sf <- st_as_sf(Biomeclimate, coords = c("x", "y"), crs = st_crs(kuchlermap))
+
+Biome_sf <- st_join(Biome_sf,kuchlermap[,c('TYPE','CODE')])
+
+Biome_sftrans <- st_transform(Biome_sf, st_crs(SoilpH))
+Biome_sftrans <- subset(Biome_sftrans, !is.na(CODE))
+
+xslope <- raster::extract(slope, Biome_sftrans)
+Biome_extract <- cbind(Biome_sftrans, xslope)
+xSoilpH <- raster::extract(SoilpH, Biome_sftrans)
+Biome_extract <- cbind(Biome_extract, xSoilpH)
+xhydric <- raster::extract(hydric, Biome_sftrans)
+Biome_extract <- cbind(Biome_extract, xhydric)
+xsalids <- raster::extract(salids, Biome_sftrans)
+Biome_extract <- cbind(Biome_extract, xsalids)
+Biome_extract$Cindex <- pmin(Biome_extract$Tc, Biome_extract$Tclx+15)
+library(rpart)
+library(rpart.plot)
+select <- subset(Biome_extract, CODE %in% c(10,11,12,13,14,34, 45,49, 50))
+select <- Biome_extract
+select <- st_set_geometry(select, NULL) 
+selectcount <- aggregate(select[,c("TYPE")], by=list(select$TYPE),FUN=length)
+colnames(selectcount)<-c("TYPE","x")
+selectcount$wt <- 100/(selectcount$x+100)
+#selectBiome <- subset(selectBiome, select = -c(wt) )
+select<-merge(select,selectcount, by=c("TYPE"))
+model <- rpart(TYPE ~ Tg + Tc + Tclx + Cindex + M + Surplus + Deficit + pAET + xslope +xSoilpH +xhydric +xsalids, data= select, weights = select$wt, method = "class",
+               maxdepth = 6)
+#Tg + Tc + Tclx + M + Surplus + Deficit + pAET + xslope +xSoilpH +xhydric +xsalids
+png(filename="output/kuchlerclass.png",width = 10, height = 3, units = 'in', res = 600)
+
+rpart.plot(model, extra=108) # Make plot
+
+dev.off()
+
+
