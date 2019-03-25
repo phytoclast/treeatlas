@@ -741,12 +741,40 @@ tiplabels(pch=15, col=cols[groups])
 
 dev.off()
 
+#----
+library(rpart)
+library(rpart.plot)
 
-
+Biomeclimate <- readRDS('C:/workspace2/PrepareClimateData/data/bigRadBiomeclimate.RDS')
 Biomeclimate <- readRDS('C:/workspace2/modelmap/data/bigRadBiomeclimate.RDS')
 Biomeclimate <-  subset(Biomeclimate, Norm %in% '1990')
 Biomeclimate$MAP <- apply(Biomeclimate[,c('p01','p02','p03','p04','p05','p06','p07','p08','p09','p10','p11','p12')], MARGIN = 1, FUN='sum')
+Biomeclimate$MAAT <- apply(Biomeclimate[,c('t01','t02','t03','t04','t05','t06','t07','t08','t09','t10','t11','t12')], MARGIN = 1, FUN='mean')
 Biomeclimate$M <- Biomeclimate$MAP / (Biomeclimate$Deficit + Biomeclimate$MAP - Biomeclimate$Surplus)+0.0001
+
+Biomeclimate$Cindex <- pmin(Biomeclimate$Tc , Biomeclimate$Tclx + 15)
+Biomeclimate$alpine <- ifelse(Biomeclimate$BIOME %in% c('11'), 1, 
+                              ifelse(Biomeclimate$BIOME %in% c('6'),2,0 ))
+
+cor(Biomeclimate[Biomeclimate$alpine > 0 & !is.na(Biomeclimate$alpine),c(
+  'alpine', 'Tw', 'Twh', 'Tg', 'MAAT', 'Tc', 'Tcl', 'Tclx', 'Cindex'
+  )])
+
+
+Biomeclimate$boreal <- ifelse(Biomeclimate$BIOME %in% c('6'), 1, 
+                              ifelse(Biomeclimate$BIOME %in% c('4')&Biomeclimate$Latitude >= 45,2,0 ))
+cor(Biomeclimate[Biomeclimate$boreal > 0 & !is.na(Biomeclimate$boreal),c(
+  'boreal', 'Tw', 'Twh', 'Tg', 'MAAT', 'Tc', 'Tcl', 'Tclx', 'Cindex'
+)])
+
+Biomeclimate$temperate <- ifelse(Biomeclimate$BIOME %in% c('4') & !grepl('evergreen',Biomeclimate$ECO_NAME) & Biomeclimate$Latitude < 45 & Biomeclimate$BIOME > -45, 1, 
+                                 ifelse(Biomeclimate$BIOME %in% c('1')&!grepl('subtropical',Biomeclimate$ECO_NAME),2,0 ))
+
+cor(Biomeclimate[Biomeclimate$temperate > 0 & !is.na(Biomeclimate$temperate),c(
+  'temperate', 'Tw', 'Twh', 'Tg', 'MAAT', 'Tc', 'Tcl', 'Tclx', 'Cindex'
+)])
+
+
 Biomeclimate$y <- Biomeclimate$Latitude
 Biomeclimate$x <- Biomeclimate$Longitude
 Biome_sf <- st_as_sf(Biomeclimate, coords = c("x", "y"), crs = st_crs(kuchlermap))
@@ -765,8 +793,6 @@ Biome_extract <- cbind(Biome_extract, xhydric)
 xsalids <- raster::extract(salids, Biome_sftrans)
 Biome_extract <- cbind(Biome_extract, xsalids)
 Biome_extract$Cindex <- pmin(Biome_extract$Tc, Biome_extract$Tclx+15)
-library(rpart)
-library(rpart.plot)
 select <- subset(Biome_extract, CODE %in% c(10,11,12,13,14,34, 45,49, 50))
 select <- Biome_extract
 select <- st_set_geometry(select, NULL) 
@@ -775,13 +801,19 @@ colnames(selectcount)<-c("TYPE","x")
 selectcount$wt <- 100/(selectcount$x+100)
 #selectBiome <- subset(selectBiome, select = -c(wt) )
 select<-merge(select,selectcount, by=c("TYPE"))
-model <- rpart(TYPE ~ Tg + Tc + Tclx + Cindex + M + Surplus + Deficit + pAET + xslope +xSoilpH +xhydric +xsalids, data= select, weights = select$wt, method = "class",
+model <- rpart(TYPE ~ Tg + Tc + Tclx + Cindex + M + Surplus + Deficit + pAET + xslope +xhydric +xsalids, data= select, weights = select$wt, method = "class",
                maxdepth = 6)
 #Tg + Tc + Tclx + M + Surplus + Deficit + pAET + xslope +xSoilpH +xhydric +xsalids
-png(filename="output/kuchlerclass.png",width = 10, height = 3, units = 'in', res = 600)
+png(filename="output/kuchlerclass-nopH.png",width = 10, height = 3, units = 'in', res = 600)
 
 rpart.plot(model, extra=108) # Make plot
 
 dev.off()
+library(randomForest)
+
+rf <- randomForest(as.factor(TYPE) ~ MAP + MAAT + Twh + Tw + Tcl + Tg + Tc + Tclx + Cindex + M + Surplus + Deficit + pAET + xslope +xhydric +xsalids, data=select , weights = select$wt, method = "class", importance=TRUE, ntree=200, na.action=na.omit )
+# Make plot
+rf#statistical summary
+varImpPlot(rf)
 
 
