@@ -113,7 +113,8 @@ library(rpart.plot)
 library(MASS)           
 #LDA___________________________________________________________________________
 selectBiome<-Biome_extract
-
+selectBiome$synbiome <- as.character(selectBiome$synbiome)
+selectBiome[selectBiome$synbiome %in% c('Cool Wetland','Warm Wetland'),]$synbiome <- 'Wetland'
 Spwts<-aggregate(x=selectBiome$synbiome, by=list(selectBiome$synbiome), FUN=length)
 names(Spwts)<-c("synbiome","x")
 Spwts$myweights<- (10000/(Spwts$x/1+10000))/10
@@ -121,8 +122,8 @@ Spwts$effective<-Spwts$myweights*Spwts$x
 Spwtsum<-sum(Spwts$effective)
 Spwts$prior<-Spwts$effective/Spwtsum
 Spwtsum<-sum(Spwts$prior)
-selectBiome2<-subset(selectBiome, (grepl('Warm Desert',selectBiome$synbiome)))
-vegmodel<-lda(synbiome ~   Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+hydric+salids+sealevel, data=selectBiome, prior=Spwts$prior)
+#selectBiome2<-subset(selectBiome, (grepl('Warm Desert',selectBiome$synbiome)))
+vegmodel<-qda(synbiome ~   Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+hydric+salids+sealevel, data=selectBiome, prior=Spwts$prior)
 
 
 
@@ -130,7 +131,7 @@ vegmodel<-lda(synbiome ~   Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+
 #predict(rasters,biomeclass,progress="window",overwrite=TRUE,filename="kuchlermodel.tif") 
 #vegmap2<-predict(rasters,biomeclass,progress="window",filename="kuchlermodel.tif") 
 
-vegmap<-predict(rasters,vegmodel,progress="window",overwrite=TRUE, filename="output/kuchlermodel1.tif") 
+vegmap<-predict(rasters,vegmodel,progress="window",overwrite=TRUE, filename="output/kuchlermodelqda.tif") 
 
 plot(vegmap)      
                
