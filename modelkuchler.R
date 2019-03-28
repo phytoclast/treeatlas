@@ -143,12 +143,12 @@ Spwts<-aggregate(x=selectBiome$synbiome, by=list(selectBiome$synbiome), FUN=leng
 names(Spwts)<-c("synbiome","x")
 Spwts$myweights<- (10000/(Spwts$x/1+1000))/10
 selectBiome<-merge(selectBiome,Spwts,by='synbiome')
-rf <- randomForest(as.factor(synbiome) ~  Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+hydric+salids+sealevel, data=selectBiome, classwt=selectBiome$wt, importance=TRUE, ntree=500, maxnodes=128, na.action=na.omit )
+rf <- randomForest(as.factor(synbiome) ~  Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+hydric+salids+sealevel, data=selectBiome, classwt=selectBiome$wt, importance=TRUE, ntree=500, na.action=na.omit )
 # Make plot  other params to try: maxnodes=64,mtry=10,
 rf#statistical summary
 varImpPlot(rf)
 
-vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="output/kuchlermodelrfmaxnode128.tif") 
+vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="output/kuchlermodelrf.tif") 
 
 plot(vegmaprf)   
 #rpart

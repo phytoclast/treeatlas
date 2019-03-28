@@ -110,8 +110,12 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 8,"Temperate Grasslands, Savannas, and Shrublands",Northern tall grasslands,89,Northern floodplain forest,15,Cool Swamp,Northern floodplain forest
 4,Temperate Broadleaf and Mixed Forests,Upper Midwest forest-savanna transition,89,Northern floodplain forest,16,Cool Swamp,Northern floodplain forest
 8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,89,Northern floodplain forest,16,Cool Swamp,Northern floodplain forest
-5,Temperate Coniferous Forests,Atlantic coastal pine barrens,65,Northern cordgrass prairie,2,Cool Wetland,Northern cordgrass prairie
-4,Temperate Broadleaf and Mixed Forests,Southeastern mixed forests,65,Northern cordgrass prairie,1,Cool Wetland,Northern cordgrass prairie
+9,Wetlands,Cuban wetlands,0,unk,12,Freshwater Marsh,Cuban wetlands
+9,Wetlands,Enriquillo wetlands,0,unk,5,Freshwater Marsh,Enriquillo wetlands
+9,Wetlands,Everglades,83,Everglades,19,Freshwater Marsh,Everglades
+9,Wetlands,Everglades,0,unk,2,Freshwater Marsh,Everglades
+1,Tropical and Subtropical Moist Broadleaf Forests,South Florida rocklands,83,Everglades,3,Freshwater Marsh,Everglades
+9,Wetlands,Orinoco wetlands,0,unk,12,Freshwater Marsh,Orinoco wetlands
 14,Mangroves,Amazon-Orinoco-Southern Caribbean mangroves,0,unk,13,Mangroves,Amazon-Orinoco-Southern Caribbean mangroves
 14,Mangroves,Bahamian-Antillean mangroves,0,unk,17,Mangroves,Bahamian-Antillean mangroves
 9,Wetlands,Everglades,96,Mangrove,6,Mangroves,Bahamian-Antillean mangroves
@@ -156,7 +160,24 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 13,Deserts and Xeric Shrublands,Sonoran desert,34,Saltbush-greasewood,4,Salt Desert,Saltbush-greasewood
 5,Temperate Coniferous Forests,Wasatch and Uinta montane forests,34,Saltbush-greasewood,2,Salt Desert,Saltbush-greasewood
 13,Deserts and Xeric Shrublands,Wyoming Basin shrub steppe,34,Saltbush-greasewood,16,Salt Desert,Saltbush-greasewood
+5,Temperate Coniferous Forests,Atlantic coastal pine barrens,65,Northern cordgrass prairie,2,Salt Marsh,Northern cordgrass prairie
+4,Temperate Broadleaf and Mixed Forests,Southeastern mixed forests,65,Northern cordgrass prairie,1,Salt Marsh,Northern cordgrass prairie
+4,Temperate Broadleaf and Mixed Forests,Mississippi lowland forests,70,Southern cordgrass prairie,1,Salt Marsh,Southern cordgrass prairie
+7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,70,Southern cordgrass prairie,21,Salt Marsh,Southern cordgrass prairie
+8,"Temperate Grasslands, Savannas, and Shrublands",California Central Valley grasslands,42,Tule marshes,8,Salt Marsh,Tule marshes
+13,Deserts and Xeric Shrublands,Great Basin shrub steppe,42,Tule marshes,3,Salt Marsh,Tule marshes
+3,Tropical and Subtropical Coniferous Forests,Central American pine-oak forests,0,unk,65,Subtropical Mixed Forest,Central American pine-oak forests
 5,Temperate Coniferous Forests,Middle Atlantic coastal forests,81,Live oak-sea oats,7,Subtropical Mixed Forest,Live oak-sea oats
+3,Tropical and Subtropical Coniferous Forests,Sierra de la Laguna pine-oak forests,0,unk,9,Subtropical Mixed Forest,Sierra de la Laguna pine-oak forests
+3,Tropical and Subtropical Coniferous Forests,Sierra Madre de Oaxaca pine-oak forests,0,unk,17,Subtropical Mixed Forest,Sierra Madre de Oaxaca pine-oak forests
+3,Tropical and Subtropical Coniferous Forests,Sierra Madre del Sur pine-oak forests,0,unk,40,Subtropical Mixed Forest,Sierra Madre del Sur pine-oak forests
+5,Temperate Coniferous Forests,Arizona Mountains forests,27,Oak-juniper woodland,1,Subtropical Mixed Forest,Sierra Madre Occidental pine-oak forests
+3,Tropical and Subtropical Coniferous Forests,Sierra Madre Occidental pine-oak forests,0,unk,118,Subtropical Mixed Forest,Sierra Madre Occidental pine-oak forests
+3,Tropical and Subtropical Coniferous Forests,Sierra Madre Occidental pine-oak forests,27,Oak-juniper woodland,5,Subtropical Mixed Forest,Sierra Madre Occidental pine-oak forests
+13,Deserts and Xeric Shrublands,Sonoran desert,27,Oak-juniper woodland,1,Subtropical Mixed Forest,Sierra Madre Occidental pine-oak forests
+13,Deserts and Xeric Shrublands,Chihuahuan desert,27,Oak-juniper woodland,13,Subtropical Mixed Forest,Sierra Madre Oriental pine-oak forests
+3,Tropical and Subtropical Coniferous Forests,Sierra Madre Oriental pine-oak forests,0,unk,41,Subtropical Mixed Forest,Sierra Madre Oriental pine-oak forests
+3,Tropical and Subtropical Coniferous Forests,Sierra Madre Oriental pine-oak forests,27,Oak-juniper woodland,2,Subtropical Mixed Forest,Sierra Madre Oriental pine-oak forests
 4,Temperate Broadleaf and Mixed Forests,Appalachian mixed mesophytic forests,102,Southern mixed forest,1,Subtropical Mixed Forest,Southern mixed forest
 9,Wetlands,Everglades,102,Southern mixed forest,9,Subtropical Mixed Forest,Southern mixed forest
 5,Temperate Coniferous Forests,Florida sand pine scrub,102,Southern mixed forest,9,Subtropical Mixed Forest,Southern mixed forest
@@ -166,6 +187,7 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 5,Temperate Coniferous Forests,Southeastern conifer forests,102,Southern mixed forest,278,Subtropical Mixed Forest,Southern mixed forest
 4,Temperate Broadleaf and Mixed Forests,Southeastern mixed forests,102,Southern mixed forest,1,Subtropical Mixed Forest,Southern mixed forest
 7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,102,Southern mixed forest,3,Subtropical Mixed Forest,Southern mixed forest
+3,Tropical and Subtropical Coniferous Forests,Trans-Mexican Volcanic Belt pine-oak forests,0,unk,56,Subtropical Mixed Forest,Trans-Mexican Volcanic Belt pine-oak forests
 5,Temperate Coniferous Forests,Alberta Mountain forests,0,unk,29,Temperate Coniferous Forest,Alberta Mountain forests
 5,Temperate Coniferous Forests,Alberta-British Columbia foothills forests,0,unk,70,Temperate Coniferous Forest,Alberta-British Columbia foothills forests
 12,"Mediterranean Forests, Woodlands, and Scrub",California interior chaparral and woodlands,25,California mixed evergreen forest,18,Temperate Coniferous Forest,California mixed evergreen forest
@@ -254,15 +276,12 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,91,Oak-hickory forest,204,Temperate Deciduous Forest,Oak-hickory forest
 8,"Temperate Grasslands, Savannas, and Shrublands",Central tall grasslands,91,Oak-hickory forest,75,Temperate Deciduous Forest,Oak-hickory forest
 4,Temperate Broadleaf and Mixed Forests,Central U.S. hardwood forests,91,Oak-hickory forest,361,Temperate Deciduous Forest,Oak-hickory forest
-4,Temperate Broadleaf and Mixed Forests,Central U.S. hardwood forests,73,Mosaic of numbers 66 and 91,14,Temperate Deciduous Forest,Oak-hickory forest
 4,Temperate Broadleaf and Mixed Forests,East Central Texas forests,91,Oak-hickory forest,32,Temperate Deciduous Forest,Oak-hickory forest
 8,"Temperate Grasslands, Savannas, and Shrublands",Flint Hills tall grasslands,91,Oak-hickory forest,1,Temperate Deciduous Forest,Oak-hickory forest
 4,Temperate Broadleaf and Mixed Forests,Mississippi lowland forests,91,Oak-hickory forest,13,Temperate Deciduous Forest,Oak-hickory forest
 4,Temperate Broadleaf and Mixed Forests,Ozark Mountain forests,91,Oak-hickory forest,26,Temperate Deciduous Forest,Oak-hickory forest
-4,Temperate Broadleaf and Mixed Forests,Ozark Mountain forests,73,Mosaic of numbers 66 and 91,1,Temperate Deciduous Forest,Oak-hickory forest
 4,Temperate Broadleaf and Mixed Forests,Southeastern mixed forests,91,Oak-hickory forest,9,Temperate Deciduous Forest,Oak-hickory forest
 4,Temperate Broadleaf and Mixed Forests,Southern Great Lakes forests,91,Oak-hickory forest,112,Temperate Deciduous Forest,Oak-hickory forest
-4,Temperate Broadleaf and Mixed Forests,Southern Great Lakes forests,73,Mosaic of numbers 66 and 91,13,Temperate Deciduous Forest,Oak-hickory forest
 8,"Temperate Grasslands, Savannas, and Shrublands",Texas blackland prairies,91,Oak-hickory forest,15,Temperate Deciduous Forest,Oak-hickory forest
 5,Temperate Coniferous Forests,Klamath-Siskiyou forests,22,Oregon oakwoods,9,Temperate Deciduous Forest,Oregon oakwoods
 5,Temperate Coniferous Forests,Klamath-Siskiyou forests,24,Mosaic of numbers 2 and 22,2,Temperate Deciduous Forest,Oregon oakwoods
@@ -274,6 +293,9 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,68,Blackland prairie,25,Temperate Grassland,Blackland prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Edwards Plateau savanna,68,Blackland prairie,1,Temperate Grassland,Blackland prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Texas blackland prairies,68,Blackland prairie,52,Temperate Grassland,Blackland prairie
+4,Temperate Broadleaf and Mixed Forests,Central U.S. hardwood forests,73,Mosaic of numbers 66 and 91,14,Temperate Grassland,Bluestem prairie
+4,Temperate Broadleaf and Mixed Forests,Ozark Mountain forests,73,Mosaic of numbers 66 and 91,1,Temperate Grassland,Bluestem prairie
+4,Temperate Broadleaf and Mixed Forests,Southern Great Lakes forests,73,Mosaic of numbers 66 and 91,13,Temperate Grassland,Bluestem prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,66,Bluestem prairie,45,Temperate Grassland,Bluestem prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,73,Mosaic of numbers 66 and 91,255,Temperate Grassland,Bluestem prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,66,Bluestem prairie,8,Temperate Grassland,Bluestem prairie
@@ -488,24 +510,12 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 1,Tropical and Subtropical Moist Broadleaf Forests,Veracruz montane forests,0,unk,12,Tropical Montane Forest,Veracruz montane forests
 3,Tropical and Subtropical Coniferous Forests,Bahamian pine mosaic,0,unk,13,Tropical Pine Forest,Bahamian pine mosaic
 3,Tropical and Subtropical Coniferous Forests,Belizian pine forests,0,unk,11,Tropical Pine Forest,Belizian pine forests
-3,Tropical and Subtropical Coniferous Forests,Central American pine-oak forests,0,unk,65,Tropical Pine Forest,Central American pine-oak forests
 3,Tropical and Subtropical Coniferous Forests,Cuban pine forests,0,unk,13,Tropical Pine Forest,Cuban pine forests
 3,Tropical and Subtropical Coniferous Forests,Hispaniolan pine forests,0,unk,15,Tropical Pine Forest,Hispaniolan pine forests
 3,Tropical and Subtropical Coniferous Forests,Miskito pine forests,0,unk,19,Tropical Pine Forest,Miskito pine forests
-3,Tropical and Subtropical Coniferous Forests,Sierra de la Laguna pine-oak forests,0,unk,9,Tropical Pine Forest,Sierra de la Laguna pine-oak forests
-3,Tropical and Subtropical Coniferous Forests,Sierra Madre de Oaxaca pine-oak forests,0,unk,17,Tropical Pine Forest,Sierra Madre de Oaxaca pine-oak forests
-3,Tropical and Subtropical Coniferous Forests,Sierra Madre del Sur pine-oak forests,0,unk,40,Tropical Pine Forest,Sierra Madre del Sur pine-oak forests
-5,Temperate Coniferous Forests,Arizona Mountains forests,27,Oak-juniper woodland,1,Tropical Pine Forest,Sierra Madre Occidental pine-oak forests
-3,Tropical and Subtropical Coniferous Forests,Sierra Madre Occidental pine-oak forests,0,unk,118,Tropical Pine Forest,Sierra Madre Occidental pine-oak forests
-3,Tropical and Subtropical Coniferous Forests,Sierra Madre Occidental pine-oak forests,27,Oak-juniper woodland,5,Tropical Pine Forest,Sierra Madre Occidental pine-oak forests
-13,Deserts and Xeric Shrublands,Sonoran desert,27,Oak-juniper woodland,1,Tropical Pine Forest,Sierra Madre Occidental pine-oak forests
-13,Deserts and Xeric Shrublands,Chihuahuan desert,27,Oak-juniper woodland,13,Tropical Pine Forest,Sierra Madre Oriental pine-oak forests
-3,Tropical and Subtropical Coniferous Forests,Sierra Madre Oriental pine-oak forests,0,unk,41,Tropical Pine Forest,Sierra Madre Oriental pine-oak forests
-3,Tropical and Subtropical Coniferous Forests,Sierra Madre Oriental pine-oak forests,27,Oak-juniper woodland,2,Tropical Pine Forest,Sierra Madre Oriental pine-oak forests
 9,Wetlands,Everglades,106,Sub-tropical pine forest,4,Tropical Pine Forest,South Florida rocklands
 1,Tropical and Subtropical Moist Broadleaf Forests,South Florida rocklands,106,Sub-tropical pine forest,15,Tropical Pine Forest,South Florida rocklands
 1,Tropical and Subtropical Moist Broadleaf Forests,South Florida rocklands,0,unk,10,Tropical Pine Forest,South Florida rocklands
-3,Tropical and Subtropical Coniferous Forests,Trans-Mexican Volcanic Belt pine-oak forests,0,unk,56,Tropical Pine Forest,Trans-Mexican Volcanic Belt pine-oak forests
 7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,69,Bluestem-sacahuista prairie,63,Tropical/Subtropical Savanna,Bluestem-sacahuista prairie
 7,"Tropical and subtropical grasslands, savannas, and shrublands",Guianan savanna,0,unk,14,Tropical/Subtropical Savanna,Guianan savanna
 7,"Tropical and subtropical grasslands, savannas, and shrublands",Hawaii tropical low shrublands,0,unk,22,Tropical/Subtropical Savanna,Hawaii tropical low shrublands
@@ -616,13 +626,3 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 5,Temperate Coniferous Forests,Southeastern conifer forests,103,Southern floodplain forest,20,Warm Swamp,Southern floodplain forest
 4,Temperate Broadleaf and Mixed Forests,Southeastern mixed forests,103,Southern floodplain forest,8,Warm Swamp,Southern floodplain forest
 7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,103,Southern floodplain forest,7,Warm Swamp,Southern floodplain forest
-9,Wetlands,Cuban wetlands,0,unk,12,Warm Wetland,Cuban wetlands
-9,Wetlands,Enriquillo wetlands,0,unk,5,Warm Wetland,Enriquillo wetlands
-9,Wetlands,Everglades,83,Everglades,19,Warm Wetland,Everglades
-9,Wetlands,Everglades,0,unk,2,Warm Wetland,Everglades
-1,Tropical and Subtropical Moist Broadleaf Forests,South Florida rocklands,83,Everglades,3,Warm Wetland,Everglades
-9,Wetlands,Orinoco wetlands,0,unk,12,Warm Wetland,Orinoco wetlands
-4,Temperate Broadleaf and Mixed Forests,Mississippi lowland forests,70,Southern cordgrass prairie,1,Warm Wetland,Southern cordgrass prairie
-7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,70,Southern cordgrass prairie,21,Warm Wetland,Southern cordgrass prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",California Central Valley grasslands,42,Tule marshes,8,Warm Wetland,Tule marshes
-13,Deserts and Xeric Shrublands,Great Basin shrub steppe,42,Tule marshes,3,Warm Wetland,Tule marshes
