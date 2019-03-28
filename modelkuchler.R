@@ -26,9 +26,13 @@ SoilpH <- raster(paste0(path, 'SoilpH.tif'))
 hydric <- raster(paste0(path, 'hydric.tif'))
 salids <- raster(paste0(path, 'salids.tif'))
 water100k <- raster(paste0(path, 'water100k.tif'))
+sealevel <- raster(paste0(path, 'sealevel.tif'))
+gdem <- raster(paste0(path, 'gdem.tif'))
+#sealevel <- (gdem*(gdem > 0)/(gdem+5)-1)*-1*water100k
+plot(sealevel)
 Cindex <- min(Tclx+15, Tc)
 #M <- MAP/(Deficit + MAP - Surplus)
-#writeRaster(M,paste0(path, 'M.tif'), COMPRESS='LZW')
+#writeRaster(sealevel,paste0(path, 'sealevel.tif'), COMPRESS='LZW', overwrite=T)
 
 Biomeclimate <- readRDS('C:/workspace2/PrepareClimateData/data/bigRadBiomeclimate.RDS')
 Biomeclimate <- readRDS('C:/workspace2/modelmap/data/bigRadBiomeclimate.RDS')
@@ -79,12 +83,15 @@ xhydric <- raster::extract(hydric, Biome_sftrans)
 Biome_extract <- cbind(Biome_extract, xhydric)
 xsalids <- raster::extract(salids, Biome_sftrans)
 Biome_extract <- cbind(Biome_extract, xsalids)
+xsealevel <- raster::extract(sealevel , Biome_sftrans)
+Biome_extract <- cbind(Biome_extract, xsealevel)
 xwater100k <- raster::extract(water100k, Biome_sftrans)
 Biome_extract <- cbind(Biome_extract, xwater100k)
 Biome_extract$Cindex <- pmin(Biome_extract$Tc, Biome_extract$Tclx+15)
+Biome_extract$gdem <- Biome_extract$Elevation
 
-colnames(Biome_extract)[which(names(Biome_extract) %in% c('Tg','xslope','xsand', 'xSoilpH','xhydric','xsalids','xwater100k'))] <- 
-  c('Tgs','slope','sand','SoilpH','hydric','salids','water100k')
+colnames(Biome_extract)[which(names(Biome_extract) %in% c('Tg','xslope','xsand', 'xSoilpH','xhydric','xsalids','xsealevel','xwater100k'))] <- 
+  c('Tgs','slope','sand','SoilpH','hydric','salids','sealevel','water100k')
 Biome_extract <- subset(Biome_extract, !is.na(SoilpH)& !is.na(slope))
 Biome_extract$TYPE[is.na(Biome_extract$TYPE)] <- 'unk'
 Biome_extract$CODE[is.na(Biome_extract$CODE)] <- 0
@@ -95,8 +102,8 @@ Biome_extract$CODE[is.na(Biome_extract$CODE)] <- 0
 biomlist <- read.csv('data/biomlist.csv')
 Biome_extract <- merge(Biome_extract, biomlist[,c('ECO_NAME','TYPE','synbiome', 'synth')], by= c('ECO_NAME','TYPE'))
 plot(Biome_extract[,'synbiome'])
-
-rasters<-stack(Tgs,Tc,Tclx,M,Surplus,Deficit,pAET,slope,sand,SoilpH,hydric,salids,water100k)
+Biome_extract <- subset(Biome_extract, !synbiome %in% 'Mangroves' | Elevation <= 5)
+rasters<-stack(Tgs,Tc,Tclx,M,Surplus,Deficit,pAET,slope,sand,SoilpH,hydric,salids,sealevel)
      
 #classification tree packages
 library(randomForest)
@@ -115,7 +122,7 @@ Spwtsum<-sum(Spwts$effective)
 Spwts$prior<-Spwts$effective/Spwtsum
 Spwtsum<-sum(Spwts$prior)
 selectBiome2<-subset(selectBiome, (grepl('Warm Desert',selectBiome$synbiome)))
-vegmodel<-lda(synbiome ~   Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+hydric+salids+water100k, data=selectBiome, prior=Spwts$prior)
+vegmodel<-lda(synbiome ~   Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+hydric+salids+sealevel, data=selectBiome, prior=Spwts$prior)
 
 
 
@@ -129,23 +136,34 @@ plot(vegmap)
                
                
 #randomforest
-selectBiome<-kuchlerusa
-selectBiome<- subset(selectBiome, !(grepl('Marsh',selectBiome$Formation)|grepl('Swamp',selectBiome$Formation)|grepl('Mangrove',selectBiome$Formation)) | selectBiome$hydric >= 50| selectBiome$waterdepth <= 30 | selectBiome$flood>0.00)
-selectBiome<- subset(selectBiome, !(grepl('Flood',selectBiome$alias)) | selectBiome$hydric >= 50| selectBiome$waterdepth <= 30 | selectBiome$flood>0.05)
-selectBiome<- subset(selectBiome, !(grepl('Barrens',selectBiome$alias)) | selectBiome$rockdepth < 150)
-Spwts<-aggregate(x=selectBiome$alias, by=list(selectBiome$alias), FUN=length)
-Spwts2<-aggregate(x=selectBiome$Macrogroup, by=list(selectBiome$alias,selectBiome$Formation,selectBiome$Division,selectBiome$Macrogroup), FUN=length)
-names(Spwts)<-c("alias","x")
+selectBiome<-Biome_extract
+Spwts<-aggregate(x=selectBiome$synbiome, by=list(selectBiome$synbiome), FUN=length)
+names(Spwts)<-c("synbiome","x")
 Spwts$myweights<- (10000/(Spwts$x/1+1000))/10
-selectBiome<-merge(selectBiome,Spwts,by='alias')
-rf <- randomForest(as.factor(alias) ~  slope + ocean5km + openwater5km + flood + bhs + mollic + hydric + waterdepth + fragdepth + rockdepth + ksatdepth + carbdepth + t50ec + t200phmax + t50ph + t150om + t150clay + t150sand + t50sand + pwbtdiff + qdr + qpr + m + cold + warm, data=selectBiome, classwt=selectBiome$wt, importance=TRUE, ntree=200, na.action=na.omit )
+selectBiome<-merge(selectBiome,Spwts,by='synbiome')
+rf <- randomForest(as.factor(synbiome) ~  Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+hydric+salids+sealevel, data=selectBiome, classwt=selectBiome$wt, importance=TRUE, ntree=200, na.action=na.omit )
 # Make plot
 rf#statistical summary
 varImpPlot(rf)
 
-vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="kuchlermodelrf.tif") 
+vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="output/kuchlermodelrf.tif") 
+
+plot(vegmaprf)   
+
+#randomforest2
+selectBiome<- subset(Biome_extract, !is.na(synth)& synth != '')
+Spwts<-aggregate(x=selectBiome$synth, by=list(selectBiome$synth), FUN=length)
+names(Spwts)<-c("synth","x")
+Spwts$myweights<- (10000/(Spwts$x/1+1000))/10
+selectBiome<-merge(selectBiome,Spwts,by='synth')
+rf <- randomForest(as.factor(as.character(synth)) ~  Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+hydric+salids+sealevel, data=selectBiome, classwt=selectBiome$wt, importance=TRUE, ntree=200, na.action=na.omit )
+# Make plot
+rf#statistical summary
+varImpPlot(rf)
+
+vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="output/kuchlermodelrf2.tif") 
+
+plot(vegmaprf)   
                
-               
-               
-               
+
                
