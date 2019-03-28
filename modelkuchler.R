@@ -115,6 +115,7 @@ library(MASS)
 selectBiome<-Biome_extract
 selectBiome$synbiome <- as.character(selectBiome$synbiome)
 selectBiome[selectBiome$synbiome %in% c('Cool Wetland','Warm Wetland'),]$synbiome <- 'Wetland'
+selectBiome[selectBiome$synbiome %in% c('Montane Grassland','Tundra'),]$synbiome <- 'Alpine'
 Spwts<-aggregate(x=selectBiome$synbiome, by=list(selectBiome$synbiome), FUN=length)
 names(Spwts)<-c("synbiome","x")
 Spwts$myweights<- (10000/(Spwts$x/1+10000))/10
@@ -142,14 +143,29 @@ Spwts<-aggregate(x=selectBiome$synbiome, by=list(selectBiome$synbiome), FUN=leng
 names(Spwts)<-c("synbiome","x")
 Spwts$myweights<- (10000/(Spwts$x/1+1000))/10
 selectBiome<-merge(selectBiome,Spwts,by='synbiome')
-rf <- randomForest(as.factor(synbiome) ~  Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+hydric+salids+sealevel, data=selectBiome, classwt=selectBiome$wt, importance=TRUE, ntree=200, na.action=na.omit )
-# Make plot
+rf <- randomForest(as.factor(synbiome) ~  Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+hydric+salids+sealevel, data=selectBiome, classwt=selectBiome$wt, importance=TRUE, ntree=500, maxnodes=128, na.action=na.omit )
+# Make plot  other params to try: maxnodes=64,mtry=10,
 rf#statistical summary
 varImpPlot(rf)
 
-vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="output/kuchlermodelrf.tif") 
+vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="output/kuchlermodelrfmaxnode128.tif") 
 
 plot(vegmaprf)   
+#rpart
+selectBiome<- Biome_extract
+Spwts<-aggregate(x=selectBiome$synbiome, by=list(selectBiome$synbiome), FUN=length)
+names(Spwts)<-c("synbiome","x")
+Spwts$myweights<- (10000/(Spwts$x/1+1000))/10
+selectBiome<-merge(selectBiome,Spwts,by='synbiome')
+
+model <- rpart(as.factor(synbiome)  ~ Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+hydric+salids+sealevel, data= selectBiome, weights = selectBiome$wt, method = "class", cp = 0.01,
+               maxdepth = 6)
+
+png(filename="output/kuchlerclass_NorthAmerica.png",width = 10, height = 3, units = 'in', res = 600)
+
+rpart.plot(model, extra=108) # Make plot
+
+dev.off()
 
 #randomforest2
 selectBiome<- subset(Biome_extract, !is.na(synth)& synth != '')
