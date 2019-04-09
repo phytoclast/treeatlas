@@ -7,7 +7,7 @@ library(dplyr)
 library(ggplot2)
 
 #path = 'C:/a/geo/model/global/'
-path = 'nam/'
+path = 'nam5k/'
 treelist <- read.delim('treefiles.txt')
 bt_frost <- read.delim('bt_frost2.txt')
 kuchlermap <-read_sf('data/kuchler.shp')
@@ -33,6 +33,7 @@ plot(sealevel)
 Cindex <- min(Tclx+15, Tc)
 #M <- MAP/(Deficit + MAP - Surplus)
 #writeRaster(sealevel,paste0(path, 'sealevel.tif'), COMPRESS='LZW', overwrite=T)
+#writeRaster(M,paste0(path, 'M.tif'), COMPRESS='LZW', overwrite=T)
 
 Biomeclimate <- readRDS('C:/workspace2/PrepareClimateData/data/bigRadBiomeclimate.RDS')
 Biomeclimate <- readRDS('C:/workspace2/modelmap/data/bigRadBiomeclimate.RDS')
@@ -143,7 +144,7 @@ Spwts<-aggregate(x=selectBiome$synbiome, by=list(selectBiome$synbiome), FUN=leng
 names(Spwts)<-c("synbiome","x")
 Spwts$myweights<- (10000/(Spwts$x/1+1000))/10
 selectBiome<-merge(selectBiome,Spwts,by='synbiome')
-rf <- randomForest(as.factor(synbiome) ~  Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+hydric+salids+sealevel, data=selectBiome, classwt=selectBiome$wt, importance=TRUE, ntree=500, na.action=na.omit )
+rf <- randomForest(as.factor(synbiome) ~  Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+hydric+salids+sealevel, data=selectBiome, classwt=selectBiome$wt, importance=TRUE, ntree=500, na.action=na.omit)
 # Make plot  other params to try: maxnodes=64,mtry=10,
 rf#statistical summary
 varImpPlot(rf)
