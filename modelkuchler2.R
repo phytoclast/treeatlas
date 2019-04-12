@@ -31,7 +31,6 @@ salids <- raster(paste0(path, 'salids.tif'))
 water100k <- raster(paste0(path, 'water100k.tif'))
 sealevel <- raster(paste0(path, 'sealevel.tif'))
 gdem <- raster(paste0(path, 'gdem.tif'))
-#sealevel <- (gdem*(gdem > 0)/(gdem+5)-1)*-1*water100k
 
 rasters<-stack(Tgs,Tc,Tclx,M,Surplus,Deficit,pAET,slope,sand,SoilpH,hydric,salids,sealevel)
 
@@ -42,9 +41,14 @@ biomemapmerge <- merge(biomemapmerge,unique(biomlist[biomlist$TYPE %in% 'unk',c(
 biomemapmerge[is.na(biomemapmerge$synbiome),]$synbiome <- biomemapmerge[is.na(biomemapmerge$synbiome),]$synbiome2
 biomemapmerge <- subset(biomemapmerge, !is.na(synbiome))
 #saveRDS(biomemapmerge,'data/biomemapmerge.RDS')
-biomemapmerge$samples <- floor(biomemapmerge$AREA/(50000^2)+2)
-kuchsample <- st_sample(biomemapmerge, biomemapmerge$samples, type = "random", exact = FALSE)
+biomemapmerge <- readRDS('data/biomemapmerge.RDS')
+biomemapmerge$samples <-  floor(biomemapmerge$AREA/(50000^2)+2)
+kuchsample1 <- st_sample(biomemapmerge, biomemapmerge$samples, type = "random", exact = FALSE)
+kuchsample2 <- st_sample(biomemapmerge, 30000, type = "random", exact = FALSE)
+kuchsample <- c(kuchsample1,kuchsample2)
 kuchsample <- st_sf(kuchsample)
+
+
 kuchjoin <- st_join(st_sf(kuchsample),biomemapmerge[,c('synbiome')])
 rasterjoin <- raster::extract(rasters, kuchjoin)
 kuchsample <- cbind(kuchjoin, rasterjoin)
@@ -57,19 +61,27 @@ library(rpart)
 library(rpart.plot)
 
 #randomforest
-selectBiome<-subset(kuchsample, synbiome !='' & !is.na(sand) & !is.na(M) &!is.na(salids) )
+selectBiome<-subset(kuchsample, synbiome !='' & !is.na(sand) & !is.na(M) &!is.na(salids) 
+                    &(synbiome %in% c('Rock and Ice') | Tgs > 0) 
+                    &(!synbiome %in% c('Rock and Ice', 'Tundra') | Tgs < 9) 
+                    &(synbiome %in% c('Cool Swamp','Warm Swamp','Freshwater Marsh','Salt Marsh','Tundra') | hydric < 67) 
+                    &(!synbiome %in% c('Cool Swamp','Warm Swamp','Freshwater Marsh','Salt Marsh') | hydric > 5) 
+                    & (synbiome %in% c('Rock and Ice', 'Tundra', 'Montane Grassland') | Tgs > 3) 
+                    & (synbiome %in% c('Rock and Ice', 'Tundra', 'Montane Grassland', 'Boreal/Subalpine Forest') | Tgs > 9|Tc > 0))
+
+ 
 #saveRDS(selectBiome, 'data/selectBiome.RDS')
 Spwts<-aggregate(x=selectBiome$synbiome, by=list(selectBiome$synbiome), FUN=length)
 names(Spwts)<-c("synbiome","x")
 Spwts$myweights<- (10000/(Spwts$x/1+1000))/10
 selectBiome<-merge(selectBiome,Spwts,by='synbiome')
-rf <- randomForest(as.factor(synbiome) ~  Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+hydric+salids+sealevel, 
+rf <- randomForest(as.factor(as.character(synbiome)) ~  Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+hydric+salids+sealevel, 
                    data=selectBiome, importance=TRUE, ntree=500, na.action=na.omit)
-# Make plot  other params to try: maxnodes=64,mtry=10, classwt=Spwts$myweights, ,
+# Make plot  other params to try: maxnodes=512,mtry=10, classwt=Spwts$myweights, ,
 rf#statistical summary
 varImpPlot(rf)
 
-vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="output/synbiome.tif") 
+vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="output/synbiomeoak.tif") 
 
 plot(vegmaprf)   
 #rpart

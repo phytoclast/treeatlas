@@ -242,15 +242,15 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 5,Temperate Coniferous Forests,Northern California coastal forests,1,Spruce-cedar-hemlock forest,1,Temperate Coniferous Forest,Spruce-cedar-hemlock forest
 13,Deserts and Xeric Shrublands,Great Basin shrub steppe,19,Spruce-fir-Douglas fir forest,2,Temperate Coniferous Forest,Spruce-fir-Douglas fir forest
 5,Temperate Coniferous Forests,Wasatch and Uinta montane forests,19,Spruce-fir-Douglas fir forest,6,Temperate Coniferous Forest,Spruce-fir-Douglas fir forest
-4,Temperate Broadleaf and Mixed Forests,Allegheny Highlands forests,95,Appalachian oak forest,34,Temperate Deciduous Forest,Appalachian oak forest
-4,Temperate Broadleaf and Mixed Forests,Appalachian mixed mesophytic forests,95,Appalachian oak forest,91,Temperate Deciduous Forest,Appalachian oak forest
-4,Temperate Broadleaf and Mixed Forests,Appalachian-Blue Ridge forests,95,Appalachian oak forest,205,Temperate Deciduous Forest,Appalachian oak forest
-5,Temperate Coniferous Forests,Atlantic coastal pine barrens,95,Appalachian oak forest,1,Temperate Deciduous Forest,Appalachian oak forest
-4,Temperate Broadleaf and Mixed Forests,New England-Acadian forests,95,Appalachian oak forest,4,Temperate Deciduous Forest,Appalachian oak forest
-4,Temperate Broadleaf and Mixed Forests,Northeastern coastal forests,95,Appalachian oak forest,175,Temperate Deciduous Forest,Appalachian oak forest
-4,Temperate Broadleaf and Mixed Forests,Northeastern coastal forests,0,unk,16,Temperate Deciduous Forest,Appalachian oak forest
-4,Temperate Broadleaf and Mixed Forests,Southeastern mixed forests,95,Appalachian oak forest,9,Temperate Deciduous Forest,Appalachian oak forest
-4,Temperate Broadleaf and Mixed Forests,Southern Great Lakes forests,95,Appalachian oak forest,8,Temperate Deciduous Forest,Appalachian oak forest
+4,Temperate Broadleaf and Mixed Forests,Allegheny Highlands forests,95,Appalachian oak forest,34,zOak,Appalachian oak forest
+4,Temperate Broadleaf and Mixed Forests,Appalachian mixed mesophytic forests,95,Appalachian oak forest,91,zOak,Appalachian oak forest
+4,Temperate Broadleaf and Mixed Forests,Appalachian-Blue Ridge forests,95,Appalachian oak forest,205,zOak,Appalachian oak forest
+5,Temperate Coniferous Forests,Atlantic coastal pine barrens,95,Appalachian oak forest,1,zOak,Appalachian oak forest
+4,Temperate Broadleaf and Mixed Forests,New England-Acadian forests,95,Appalachian oak forest,4,zOak,Appalachian oak forest
+4,Temperate Broadleaf and Mixed Forests,Northeastern coastal forests,95,Appalachian oak forest,175,zOak,Appalachian oak forest
+4,Temperate Broadleaf and Mixed Forests,Northeastern coastal forests,0,unk,16,zOak,Appalachian oak forest
+4,Temperate Broadleaf and Mixed Forests,Southeastern mixed forests,95,Appalachian oak forest,9,zOak,Appalachian oak forest
+4,Temperate Broadleaf and Mixed Forests,Southern Great Lakes forests,95,Appalachian oak forest,8,zOak,Appalachian oak forest
 4,Temperate Broadleaf and Mixed Forests,Allegheny Highlands forests,93,Beech-maple forest,3,Temperate Deciduous Forest,Beech-maple forest
 4,Temperate Broadleaf and Mixed Forests,Appalachian mixed mesophytic forests,93,Beech-maple forest,1,Temperate Deciduous Forest,Beech-maple forest
 4,Temperate Broadleaf and Mixed Forests,Central U.S. hardwood forests,93,Beech-maple forest,21,Temperate Deciduous Forest,Beech-maple forest
@@ -265,27 +265,27 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 4,Temperate Broadleaf and Mixed Forests,Appalachian mixed mesophytic forests,94,Mixed mesophytic forest,177,Temperate Deciduous Forest,Mixed mesophytic forest
 4,Temperate Broadleaf and Mixed Forests,Appalachian-Blue Ridge forests,94,Mixed mesophytic forest,4,Temperate Deciduous Forest,Mixed mesophytic forest
 4,Temperate Broadleaf and Mixed Forests,Southern Great Lakes forests,94,Mixed mesophytic forest,2,Temperate Deciduous Forest,Mixed mesophytic forest
-8,"Temperate Grasslands, Savannas, and Shrublands",Canadian Aspen forests and parklands,72,Oak savanna,1,Temperate Deciduous Forest,Oak savanna
-8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,72,Oak savanna,3,Temperate Deciduous Forest,Oak savanna
-8,"Temperate Grasslands, Savannas, and Shrublands",Central tall grasslands,72,Oak savanna,4,Temperate Deciduous Forest,Oak savanna
-8,"Temperate Grasslands, Savannas, and Shrublands",Northern mixed grasslands,72,Oak savanna,2,Temperate Deciduous Forest,Oak savanna
-8,"Temperate Grasslands, Savannas, and Shrublands",Northern tall grasslands,72,Oak savanna,3,Temperate Deciduous Forest,Oak savanna
-4,Temperate Broadleaf and Mixed Forests,Upper Midwest forest-savanna transition,72,Oak savanna,97,Temperate Deciduous Forest,Oak savanna
-4,Temperate Broadleaf and Mixed Forests,Upper Midwest forest-savanna transition,0,unk,6,Temperate Deciduous Forest,Oak savanna
-4,Temperate Broadleaf and Mixed Forests,Appalachian mixed mesophytic forests,91,Oak-hickory forest,5,Temperate Deciduous Forest,Oak-hickory forest
-8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,91,Oak-hickory forest,204,Temperate Deciduous Forest,Oak-hickory forest
-8,"Temperate Grasslands, Savannas, and Shrublands",Central tall grasslands,91,Oak-hickory forest,75,Temperate Deciduous Forest,Oak-hickory forest
-4,Temperate Broadleaf and Mixed Forests,Central U.S. hardwood forests,91,Oak-hickory forest,361,Temperate Deciduous Forest,Oak-hickory forest
-4,Temperate Broadleaf and Mixed Forests,East Central Texas forests,91,Oak-hickory forest,32,Temperate Deciduous Forest,Oak-hickory forest
-8,"Temperate Grasslands, Savannas, and Shrublands",Flint Hills tall grasslands,91,Oak-hickory forest,1,Temperate Deciduous Forest,Oak-hickory forest
-4,Temperate Broadleaf and Mixed Forests,Mississippi lowland forests,91,Oak-hickory forest,13,Temperate Deciduous Forest,Oak-hickory forest
-4,Temperate Broadleaf and Mixed Forests,Ozark Mountain forests,91,Oak-hickory forest,26,Temperate Deciduous Forest,Oak-hickory forest
-4,Temperate Broadleaf and Mixed Forests,Southeastern mixed forests,91,Oak-hickory forest,9,Temperate Deciduous Forest,Oak-hickory forest
-4,Temperate Broadleaf and Mixed Forests,Southern Great Lakes forests,91,Oak-hickory forest,112,Temperate Deciduous Forest,Oak-hickory forest
-8,"Temperate Grasslands, Savannas, and Shrublands",Texas blackland prairies,91,Oak-hickory forest,15,Temperate Deciduous Forest,Oak-hickory forest
-5,Temperate Coniferous Forests,Klamath-Siskiyou forests,22,Oregon oakwoods,9,Temperate Deciduous Forest,Oregon oakwoods
-5,Temperate Coniferous Forests,Klamath-Siskiyou forests,24,Mosaic of numbers 2 and 22,2,Temperate Deciduous Forest,Oregon oakwoods
-4,Temperate Broadleaf and Mixed Forests,Willamette Valley forests,24,Mosaic of numbers 2 and 22,28,Temperate Deciduous Forest,Oregon oakwoods
+8,"Temperate Grasslands, Savannas, and Shrublands",Canadian Aspen forests and parklands,72,Oak savanna,1,zOak,Oak savanna
+8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,72,Oak savanna,3,zOak,Oak savanna
+8,"Temperate Grasslands, Savannas, and Shrublands",Central tall grasslands,72,Oak savanna,4,zOak,Oak savanna
+8,"Temperate Grasslands, Savannas, and Shrublands",Northern mixed grasslands,72,Oak savanna,2,zOak,Oak savanna
+8,"Temperate Grasslands, Savannas, and Shrublands",Northern tall grasslands,72,Oak savanna,3,zOak,Oak savanna
+4,Temperate Broadleaf and Mixed Forests,Upper Midwest forest-savanna transition,72,Oak savanna,97,zOak,Oak savanna
+4,Temperate Broadleaf and Mixed Forests,Upper Midwest forest-savanna transition,0,unk,6,zOak,Oak savanna
+4,Temperate Broadleaf and Mixed Forests,Appalachian mixed mesophytic forests,91,Oak-hickory forest,5,zOak,Oak-hickory forest
+8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,91,Oak-hickory forest,204,zOak,Oak-hickory forest
+8,"Temperate Grasslands, Savannas, and Shrublands",Central tall grasslands,91,Oak-hickory forest,75,zOak,Oak-hickory forest
+4,Temperate Broadleaf and Mixed Forests,Central U.S. hardwood forests,91,Oak-hickory forest,361,zOak,Oak-hickory forest
+4,Temperate Broadleaf and Mixed Forests,East Central Texas forests,91,Oak-hickory forest,32,zOak,Oak-hickory forest
+8,"Temperate Grasslands, Savannas, and Shrublands",Flint Hills tall grasslands,91,Oak-hickory forest,1,zOak,Oak-hickory forest
+4,Temperate Broadleaf and Mixed Forests,Mississippi lowland forests,91,Oak-hickory forest,13,zOak,Oak-hickory forest
+4,Temperate Broadleaf and Mixed Forests,Ozark Mountain forests,91,Oak-hickory forest,26,zOak,Oak-hickory forest
+4,Temperate Broadleaf and Mixed Forests,Southeastern mixed forests,91,Oak-hickory forest,9,zOak,Oak-hickory forest
+4,Temperate Broadleaf and Mixed Forests,Southern Great Lakes forests,91,Oak-hickory forest,112,zOak,Oak-hickory forest
+8,"Temperate Grasslands, Savannas, and Shrublands",Texas blackland prairies,91,Oak-hickory forest,15,zOak,Oak-hickory forest
+5,Temperate Coniferous Forests,Klamath-Siskiyou forests,22,Oregon oakwoods,9,zOak,Oregon oakwoods
+5,Temperate Coniferous Forests,Klamath-Siskiyou forests,24,Mosaic of numbers 2 and 22,2,zOak,Oregon oakwoods
+4,Temperate Broadleaf and Mixed Forests,Willamette Valley forests,24,Mosaic of numbers 2 and 22,28,zOak,Oregon oakwoods
 4,Temperate Broadleaf and Mixed Forests,Celtic broadleaf forests,0,unk,90,Temperate Deciduous Forest,
 4,Temperate Broadleaf and Mixed Forests,North Atlantic moist mixed forests,0,unk,27,Temperate Deciduous Forest,
 4,Temperate Broadleaf and Mixed Forests,Southeastern mixed forests,80,Blackbelt,22,Temperate Grassland,Blackbelt
