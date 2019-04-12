@@ -525,11 +525,11 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 8,"Temperate Grasslands, Savannas, and Shrublands",Edwards Plateau savanna,77,Juniper-oak savanna,51,Tropical/Subtropical Savanna,Juniper-oak savanna
 8,"Temperate Grasslands, Savannas, and Shrublands",Texas blackland prairies,77,Juniper-oak savanna,1,Tropical/Subtropical Savanna,Juniper-oak savanna
 7,"Tropical and subtropical grasslands, savannas, and shrublands",Llanos,0,unk,184,Tropical/Subtropical Savanna,Llanos
-8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,76,Mesquite-buffalo grass,63,Tropical/Subtropical Savanna,Mesquite-buffalo grass
-8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,76,Mesquite-buffalo grass,1,Tropical/Subtropical Savanna,Mesquite-buffalo grass
-13,Deserts and Xeric Shrublands,Chihuahuan desert,76,Mesquite-buffalo grass,5,Tropical/Subtropical Savanna,Mesquite-buffalo grass
-8,"Temperate Grasslands, Savannas, and Shrublands",Edwards Plateau savanna,76,Mesquite-buffalo grass,1,Tropical/Subtropical Savanna,Mesquite-buffalo grass
-8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,76,Mesquite-buffalo grass,27,Tropical/Subtropical Savanna,Mesquite-buffalo grass
+8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,76,Mesquite-buffalo grass,63,Temperate Grassland,Mesquite-buffalo grass
+8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,76,Mesquite-buffalo grass,1,Temperate Grassland,Mesquite-buffalo grass
+13,Deserts and Xeric Shrublands,Chihuahuan desert,76,Mesquite-buffalo grass,5,Temperate Grassland,Mesquite-buffalo grass
+8,"Temperate Grasslands, Savannas, and Shrublands",Edwards Plateau savanna,76,Mesquite-buffalo grass,1,Temperate Grassland,Mesquite-buffalo grass
+8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,76,Mesquite-buffalo grass,27,Temperate Grassland,Mesquite-buffalo grass
 13,Deserts and Xeric Shrublands,Tamaulipan mezquital,55,Mesquite-live oak savanna,3,Tropical/Subtropical Savanna,Mesquite-live oak savanna
 7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,55,Mesquite-live oak savanna,7,Tropical/Subtropical Savanna,Mesquite-live oak savanna
 8,"Temperate Grasslands, Savannas, and Shrublands",Edwards Plateau savanna,78,Mesquite-oak savanna,11,Tropical/Subtropical Savanna,Mesquite-oak savanna
