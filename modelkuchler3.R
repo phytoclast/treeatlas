@@ -50,10 +50,12 @@ biomemapmerge <- merge(biomemapmerge, biomsort, by='synbiome')
 #saveRDS(biomemapmerge,'data/biomemapmerge.RDS')
 
 biomemapmerge$samples <-  floor(biomemapmerge$AREA/(50000^2)+2)
-#kuchsample1 <- st_sample(biomemapmerge, biomemapmerge$samples, type = "random", exact = FALSE)
-#kuchsample2 <- st_sample(biomemapmerge, 30000, type = "random", exact = FALSE)
+kuchsample1 <- st_sample(biomemapmerge, biomemapmerge$samples, type = "random", exact = FALSE)
+kuchsample2 <- st_sample(biomemapmerge, 35000, type = "random", exact = FALSE)
+#savesample <- c(kuchsample1,kuchsample2)
+#saveRDS(savesample, 'data/kuchsample2.RDS')
 kuchsample <- c(kuchsample1,kuchsample2)
-kuchsample <- readRDS('data/kuchsample.RDS')
+#kuchsampletest <- readRDS('data/kuchsample.RDS')
 #saveRDS(kuchsample, 'data/kuchsample.RDS')
 
 kuchsample <- st_sf(kuchsample)
@@ -113,3 +115,26 @@ rpart.plot(model, extra=108) # Make plot
 
 dev.off()
 
+
+#test randomforest
+
+kuchsampletest <- st_sf(kuchsampletest)
+
+
+kuchjoin <- st_join(st_sf(kuchsampletest),biomemapmerge[,c('sort','synbiome')])
+rasterjoin <- raster::extract(rasters, kuchjoin)
+kuchsampletest <- cbind(kuchjoin, rasterjoin)
+
+selectBiometest<-st_drop_geometry(subset(kuchsampletest, synbiome !='' & !is.na(sand) & !is.na(M) &!is.na(salids) &!is.na(slope) 
+                    &(synbiome %in% c('Rock and Ice') | Tgs > 0) 
+                    &(!synbiome %in% c('Rock and Ice', 'Tundra') | Tgs < 9) 
+                    &(!synbiome %in% c('Warm Xeric Woodland','Mediterranean Scrub') | M < 1.41) 
+                    &(!synbiome %in% c('Subtropical Mixed Forest') | M > 0.71) 
+                    &(synbiome %in% c('Cool Swamp','Warm Swamp','Freshwater Marsh','Salt Marsh','Tundra') | hydric < 67) 
+                    &(!synbiome %in% c('Cool Swamp','Warm Swamp','Freshwater Marsh','Salt Marsh') | hydric > 5) 
+                    & (synbiome %in% c('Rock and Ice', 'Tundra', 'Montane Grassland') | Tgs > 3) 
+                    & (synbiome %in% c('Rock and Ice', 'Tundra', 'Montane Grassland', 'Boreal/Subalpine Forest') | Tgs > 9|Tc > 0)))
+selectBiometest$predicted <- predict(rf,selectBiometest) 
+library(caret) #confusion matrix
+confusionMatrix(as.factor(selectBiometest$predicted), as.factor(selectBiometest$sort))
+plot(rf)
