@@ -50,12 +50,13 @@ biomemapmerge <- merge(biomemapmerge, biomsort, by='synbiome')
 #saveRDS(biomemapmerge,'data/biomemapmerge.RDS')
 
 biomemapmerge$samples <-  floor(biomemapmerge$AREA/(50000^2)+2)
-kuchsample1 <- st_sample(biomemapmerge, biomemapmerge$samples, type = "random", exact = FALSE)
-kuchsample2 <- st_sample(biomemapmerge, 35000, type = "random", exact = FALSE)
+#kuchsample1 <- st_sample(biomemapmerge, biomemapmerge$samples, type = "random", exact = FALSE)
+#kuchsample2 <- st_sample(biomemapmerge, 35000, type = "random", exact = FALSE)
 #savesample <- c(kuchsample1,kuchsample2)
 #saveRDS(savesample, 'data/kuchsample2.RDS')
-kuchsample <- c(kuchsample1,kuchsample2)
+#kuchsample <- c(kuchsample1,kuchsample2)
 #kuchsampletest <- readRDS('data/kuchsample.RDS')
+kuchsample <- readRDS('data/kuchsample2.RDS')
 #saveRDS(kuchsample, 'data/kuchsample.RDS')
 
 kuchsample <- st_sf(kuchsample)
@@ -94,7 +95,7 @@ rf <- randomForest(as.factor(sort) ~  Tw+Twh+Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+
 #statistical summary
 varImpPlot(rf)
 
-vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="output/synbiomebedrock.tif") 
+vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="output/synbiomebedrock2.tif") 
 
 plot(vegmaprf)   
 #rpart

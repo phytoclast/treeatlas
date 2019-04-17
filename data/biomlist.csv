@@ -406,7 +406,7 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 3,Tropical and Subtropical Coniferous Forests,Sierra Madre Oriental pine-oak forests,27,Oak-juniper woodland,2,Subtropical Mixed Forest,Sierra Madre Oriental pine-oak forests
 4,Temperate Broadleaf and Mixed Forests,Appalachian mixed mesophytic forests,102,Southern mixed forest,1,Subtropical Mixed Forest,Southern mixed forest
 9,Wetlands,Everglades,102,Southern mixed forest,9,Subtropical Mixed Forest,Southern mixed forest
-5,Temperate Coniferous Forests,Florida sand pine scrub,102,Southern mixed forest,9,Tropical/Subtropical Savanna,Southern mixed forest
+5,Temperate Coniferous Forests,Florida sand pine scrub,102,Southern mixed forest,9,,Southern mixed forest
 5,Temperate Coniferous Forests,Middle Atlantic coastal forests,102,Southern mixed forest,19,Subtropical Mixed Forest,Southern mixed forest
 4,Temperate Broadleaf and Mixed Forests,Mississippi lowland forests,102,Southern mixed forest,3,Subtropical Mixed Forest,Southern mixed forest
 5,Temperate Coniferous Forests,Piney Woods forests,102,Southern mixed forest,16,Subtropical Mixed Forest,Southern mixed forest
@@ -450,7 +450,7 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 13,Deserts and Xeric Shrublands,Araya and Paria xeric scrub,0,unk,11,Warm Desert,Araya and Paria xeric scrub
 13,Deserts and Xeric Shrublands,Baja California desert,0,unk,47,Warm Desert,Baja California desert
 13,Deserts and Xeric Shrublands,Caribbean shrublands,0,unk,14,Warm Desert,Caribbean shrublands
-13,Deserts and Xeric Shrublands,Tamaulipan mezquital,38,Ceniza shrub,9,Warm Desert,Ceniza shrub
+13,Deserts and Xeric Shrublands,Tamaulipan mezquital,38,Ceniza shrub,9,Tropical/Subtropical Savanna,Ceniza shrub
 13,Deserts and Xeric Shrublands,Central Mexican matorral,0,unk,39,Warm Desert,Central Mexican matorral
 13,Deserts and Xeric Shrublands,Colorado Plateau shrublands,35,Creosote bush,3,Warm Desert,Creosote bush
 13,Deserts and Xeric Shrublands,Great Basin shrub steppe,35,Creosote bush,1,Warm Desert,Creosote bush
@@ -474,17 +474,17 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 13,Deserts and Xeric Shrublands,La Costa xeric shrublands,0,unk,44,Warm Desert,La Costa xeric shrublands
 13,Deserts and Xeric Shrublands,Meseta Central matorral,0,unk,72,Warm Desert,Meseta Central matorral
 13,Deserts and Xeric Shrublands,Sonoran desert,23,Mesquite bosques,2,Warm Desert,Mesquite bosques
-4,Temperate Broadleaf and Mixed Forests,East Central Texas forests,54,Mesquite-acacia-savanna,11,Warm Desert,Mesquite-acacia-savanna
-8,"Temperate Grasslands, Savannas, and Shrublands",Edwards Plateau savanna,54,Mesquite-acacia-savanna,8,Warm Desert,Mesquite-acacia-savanna
-13,Deserts and Xeric Shrublands,Tamaulipan mezquital,54,Mesquite-acacia-savanna,59,Warm Desert,Mesquite-acacia-savanna
-8,"Temperate Grasslands, Savannas, and Shrublands",Texas blackland prairies,54,Mesquite-acacia-savanna,5,Warm Desert,Mesquite-acacia-savanna
-7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,54,Mesquite-acacia-savanna,9,Warm Desert,Mesquite-acacia-savanna
-13,Deserts and Xeric Shrublands,Tamaulipan mezquital,0,unk,44,Warm Desert,Mesquite-acacia-savanna
+4,Temperate Broadleaf and Mixed Forests,East Central Texas forests,54,Mesquite-acacia-savanna,11,,Mesquite-acacia-savanna
+8,"Temperate Grasslands, Savannas, and Shrublands",Edwards Plateau savanna,54,Mesquite-acacia-savanna,8,,Mesquite-acacia-savanna
+13,Deserts and Xeric Shrublands,Tamaulipan mezquital,54,Mesquite-acacia-savanna,59,Tropical/Subtropical Savanna,Mesquite-acacia-savanna
+8,"Temperate Grasslands, Savannas, and Shrublands",Texas blackland prairies,54,Mesquite-acacia-savanna,5,,Mesquite-acacia-savanna
+7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,54,Mesquite-acacia-savanna,9,,Mesquite-acacia-savanna
+13,Deserts and Xeric Shrublands,Tamaulipan mezquital,0,unk,44,Tropical/Subtropical Savanna,Mesquite-acacia-savanna
 13,Deserts and Xeric Shrublands,Motagua Valley thornscrub,0,unk,11,Warm Desert,Motagua Valley thornscrub
 13,Deserts and Xeric Shrublands,Sonoran desert,37,Palo verde-cactus shrub,24,Warm Desert,Palo verde-cactus shrub
 13,Deserts and Xeric Shrublands,Paraguana xeric scrub,0,unk,17,Warm Desert,Paraguana xeric scrub
 13,Deserts and Xeric Shrublands,San Lucan xeric scrub,0,unk,10,Warm Desert,San Lucan xeric scrub
-13,Deserts and Xeric Shrublands,Tamaulipan matorral,0,unk,18,Warm Desert,Tamaulipan matorral
+13,Deserts and Xeric Shrublands,Tamaulipan matorral,0,unk,18,Tropical/Subtropical Savanna,Tamaulipan matorral
 13,Deserts and Xeric Shrublands,Tehuacán Valley matorral,0,unk,14,Warm Desert,Tehuacán Valley matorral
 5,Temperate Coniferous Forests,Arizona Mountains forests,53,Trans-Pecos shrub savanna,2,Warm Desert,Trans-Pecos shrub savanna
 13,Deserts and Xeric Shrublands,Chihuahuan desert,53,Trans-Pecos shrub savanna,81,Warm Desert,Trans-Pecos shrub savanna
@@ -646,3 +646,15 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 4,Temperate Broadleaf and Mixed Forests,Upper Midwest forest-savanna transition,72,Oak savanna,97,Tallgrass Prairie,Oak savanna
 4,Temperate Broadleaf and Mixed Forests,Upper Midwest forest-savanna transition,0,unk,6,Tallgrass Prairie,Oak savanna
 8,"Temperate Grasslands, Savannas, and Shrublands",Canadian Aspen forests and parklands,0,unk,206,,Wheatgrass-bluestem-needlegrass
+8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,67,Sandhills prairie,19,,Sandhills prairie
+8,"Temperate Grasslands, Savannas, and Shrublands",Central tall grasslands,67,Sandhills prairie,1,,Sandhills prairie
+8,"Temperate Grasslands, Savannas, and Shrublands",Nebraska Sand Hills mixed grasslands,67,Sandhills prairie,57,,Sandhills prairie
+8,"Temperate Grasslands, Savannas, and Shrublands",Northern mixed grasslands,67,Sandhills prairie,3,,Sandhills prairie
+8,"Temperate Grasslands, Savannas, and Shrublands",Northern short grasslands,67,Sandhills prairie,1,,Sandhills prairie
+13,Deserts and Xeric Shrublands,Tamaulipan mezquital,38,Ceniza shrub,9,,Ceniza shrub
+4,Temperate Broadleaf and Mixed Forests,East Central Texas forests,54,Mesquite-acacia-savanna,11,Tropical/Subtropical Savanna,Mesquite-acacia-savanna
+8,"Temperate Grasslands, Savannas, and Shrublands",Edwards Plateau savanna,54,Mesquite-acacia-savanna,8,Tropical/Subtropical Savanna,Mesquite-acacia-savanna
+13,Deserts and Xeric Shrublands,Tamaulipan mezquital,54,Mesquite-acacia-savanna,59,,Mesquite-acacia-savanna
+8,"Temperate Grasslands, Savannas, and Shrublands",Texas blackland prairies,54,Mesquite-acacia-savanna,5,Tropical/Subtropical Savanna,Mesquite-acacia-savanna
+7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,54,Mesquite-acacia-savanna,9,Tropical/Subtropical Savanna,Mesquite-acacia-savanna
+13,Deserts and Xeric Shrublands,Tamaulipan mezquital,0,unk,44,,Mesquite-acacia-savanna
