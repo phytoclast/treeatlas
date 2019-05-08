@@ -95,7 +95,7 @@ rf <- randomForest(as.factor(sort) ~  Tw+Twh+Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+
 #statistical summary
 varImpPlot(rf)
 
-vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="output/synbiomebedrock2.tif") 
+vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="output/synbiomebedrockthrnscrb.tif") 
 
 plot(vegmaprf)   
 #rpart
