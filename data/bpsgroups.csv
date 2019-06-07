@@ -1,1738 +1,1698 @@
-VALUE,legend
--9999,
-11,
-12,Rock and Ice
-31,
-381,Cool Desert
-383,
-384,Tundra
-385,Warm Desert
-386,Temperate Grassland
-387,Temperate Grassland
-388,Cool Desert
-389,Cool Desert
-390,Cool Desert
-391,Cool Xeric Woodland
-392,Warm Desert
-393,Warm Desert
-394,Cool Desert
-395,Cool Desert
-396,Temperate Grassland
-397,Chaparral
-398,Warm Desert
-399,Cool Desert
-400,Cool Desert
-401,Salt Desert
-402,Warm Desert
-403,Cool Desert
-404,Cool Desert
-405,Chaparral
-406,Cool Desert
-407,Warm Desert
-408,
-409,Tundra
-410,
-411,Tundra
-412,
-413,Tundra
-414,
-415,Tundra
-416,Boreal/Subalpine Forest
-417,Temperate Coniferous Forest
-418,Temperate Coniferous Forest
-419,Temperate Coniferous Forest
-420,Boreal/Subalpine Forest
-421,Temperate Coniferous Forest
-422,Temperate Coniferous Forest
-423,Temperate Pine Forest
-424,Boreal/Subalpine Forest
-425,Boreal/Subalpine Forest
-426,Cool Xeric Woodland
-427,Cool Desert
-428,Tundra
-429,Cool Desert
-430,Cool Desert
-431,Cool Xeric Woodland
-432,Cool Xeric Woodland
-433,Cool Desert
-434,Cool Desert
-435,Cool Desert
-436,Cool Desert
-437,Cool Desert
-438,Cool Desert
-439,Cool Desert
-440,Temperate Grassland
-441,Temperate Grassland
-442,Temperate Grassland
-443,Temperate Grassland
-444,Salt Marsh
-445,Cool Swamp
-446,Cool Swamp
-447,Cool Swamp
-448,Cool Swamp
-449,Temperate Coniferous Forest
-450,Temperate Pine Forest
-451,
-452,Tundra
-453,Cool Xeric Woodland
-454,Boreal/Subalpine Forest
-456,Temperate Coniferous Forest
-457,Temperate Coniferous Forest
-458,Temperate Coniferous Forest
-459,Boreal/Subalpine Forest
-460,Temperate Coniferous Forest
-461,Temperate Coniferous Forest
-462,Cool Xeric Woodland
-463,Temperate Pine Forest
-464,Boreal/Subalpine Forest
-465,Boreal/Subalpine Forest
-466,Cool Xeric Woodland
-467,Tundra
-468,Cool Desert
-469,Salt Desert
-470,Cool Xeric Woodland
-471,Cool Xeric Woodland
-472,Cool Desert
-473,Cool Desert
-474,Cool Desert
-475,Temperate Grassland
-476,Temperate Grassland
-477,Tundra
-478,Tundra
-479,Temperate Grassland
-480,Salt Marsh
-481,Cool Swamp
-482,Cool Swamp
-483,Cool Swamp
-484,Cool Swamp
-485,Temperate Coniferous Forest
-486,Temperate Coniferous Forest
-487,Temperate Pine Forest
-488,
-491,Cool Xeric Woodland
-492,Cool Xeric Woodland
-493,Boreal/Subalpine Forest
-494,Temperate Coniferous Forest
-495,Temperate Pine Forest
-496,Boreal/Subalpine Forest
-497,Cool Xeric Woodland
-498,Cool Desert
-499,Cool Desert
-500,Salt Desert
-501,Cool Desert
-502,Cool Xeric Woodland
-503,Warm Desert
-505,Warm Desert
-506,Cool Desert
-508,Chaparral
-510,Cool Xeric Woodland
-512,Warm Desert
-513,Cool Xeric Woodland
-516,Cool Desert
-517,Cool Desert
-518,Cool Desert
-519,Temperate Grassland
-520,Salt Marsh
-521,Cool Swamp
-522,Warm Swamp
-523,Warm Swamp
-525,Warm Desert
-526,Cool Xeric Woodland
-527,Cool Xeric Woodland
-528,Warm Xeric Woodland
-530,Warm Xeric Woodland
-531,Temperate Pine Forest
-532,Cool Desert
-533,Cool Desert
-534,Warm Desert
-535,Salt Desert
-536,Warm Desert
-537,Warm Desert
-538,Chaparral
-539,Chaparral
-540,Warm Desert
-541,Cool Xeric Woodland
-542,Warm Desert
-544,Cool Desert
-545,Warm Swamp
-546,Warm Swamp
-547,Temperate Oak Forest
-548,Temperate Coniferous Forest
-549,Temperate Coniferous Forest
-550,Temperate Coniferous Forest
-551,Temperate Coniferous Forest
-552,Temperate Coniferous Forest
-553,Warm Xeric Woodland
-554,Warm Xeric Woodland
-555,Temperate Pine Forest
-556,Boreal/Subalpine Forest
-557,Boreal/Subalpine Forest
-558,Temperate Coniferous Forest
-559,Warm Xeric Woodland
-560,Boreal/Subalpine Forest
-561,Chaparral
-562,Chaparral
-563,Chaparral
-564,Chaparral
-565,Chaparral
-566,Warm Xeric Woodland
-567,Warm Xeric Woodland
-568,Chaparral
-569,Temperate Grassland
-570,Temperate Grassland
-571,Temperate Grassland
-572,Temperate Grassland
-573,Cool Swamp
-574,Freshwater Marsh
-575,Chaparral
-576,Warm Xeric Woodland
-577,
-579,Boreal/Subalpine Forest
-580,Cool Xeric Woodland
-581,Cool Xeric Woodland
-582,Boreal/Subalpine Forest
-583,Temperate Coniferous Forest
-584,Temperate Coniferous Forest
-585,Temperate Coniferous Forest
-586,Warm Xeric Woodland
-587,Warm Xeric Woodland
-588,Temperate Pine Forest
-589,Boreal/Subalpine Forest
-590,Boreal/Subalpine Forest
-591,Boreal/Subalpine Forest
-592,Temperate Coniferous Forest
-593,Warm Xeric Woodland
-594,Boreal/Subalpine Forest
-595,Temperate Coniferous Forest
-596,Temperate Pine Forest
-597,Temperate Pine Forest
-598,Boreal/Subalpine Forest
-599,Cool Xeric Woodland
-600,Tundra
-601,Tundra
-602,Cool Desert
-603,Cool Desert
-604,Salt Desert
-605,Cool Desert
-606,Warm Desert
-607,Chaparral
-608,Chaparral
-609,Chaparral
-610,Chaparral
-611,Warm Xeric Woodland
-612,Cool Desert
-613,Cool Desert
-614,Tundra
-615,Temperate Grassland
-616,Temperate Grassland
-617,Cool Swamp
-618,Salt Marsh
-619,Cool Swamp
-620,
-621,Tundra
-622,Boreal/Subalpine Forest
-623,Cool Xeric Woodland
-624,Cool Xeric Woodland
-625,Boreal/Subalpine Forest
-626,Temperate Pine Forest
-627,Boreal/Subalpine Forest
-628,Temperate Coniferous Forest
-629,Temperate Pine Forest
-630,Temperate Pine Forest
-631,Boreal/Subalpine Forest
-632,Boreal/Subalpine Forest
-633,Boreal/Subalpine Forest
-634,Cool Xeric Woodland
-635,Cool Desert
-636,Cool Desert
-637,Cool Desert
-638,Salt Desert
-639,Cool Xeric Woodland
-640,Cool Desert
-641,Cool Desert
-642,Cool Desert
-643,Cool Desert
-644,Cool Desert
-645,Cool Desert
-646,Cool Desert
-647,Temperate Grassland
-648,Temperate Grassland
-649,Temperate Grassland
-650,Tundra
-651,Temperate Grassland
-652,Salt Marsh
-653,Cool Swamp
-654,Cool Swamp
-655,Cool Swamp
-656,Cool Swamp
-657,Temperate Pine Forest
-658,Temperate Coniferous Forest
-659,Temperate Pine Forest
-660,
-661,Cool Xeric Woodland
-662,Temperate Pine Forest
-663,Temperate Coniferous Forest
-664,Temperate Pine Forest
-665,Boreal/Subalpine Forest
-666,Boreal/Subalpine Forest
-667,Boreal/Subalpine Forest
-668,Cool Desert
-669,Cool Desert
-670,Salt Desert
-671,Cool Xeric Woodland
-672,Cool Desert
-673,Cool Desert
-674,Cool Desert
-675,Cool Desert
-676,Cool Desert
-677,Cool Desert
-678,Cool Desert
-679,Temperate Grassland
-680,Temperate Grassland
-681,Salt Marsh
-682,Cool Swamp
-683,Cool Swamp
-684,Cool Swamp
-685,Temperate Pine Forest
-686,Boreal/Subalpine Forest
-687,Boreal/Subalpine Forest
-688,Temperate Pine Forest
-689,Boreal/Subalpine Forest
-690,Cool Xeric Woodland
-691,Temperate Coniferous Forest
-692,Temperate Coniferous Forest
-693,Boreal/Subalpine Forest
-694,Boreal/Subalpine Forest
-695,Cool Xeric Woodland
-696,Tundra
-697,Cool Desert
-698,Cool Desert
-699,Salt Desert
-700,Cool Xeric Woodland
-701,Cool Xeric Woodland
-702,Cool Xeric Woodland
-703,Cool Desert
-704,Cool Desert
-705,Cool Desert
-706,Temperate Grassland
-707,Temperate Grassland
-708,Tundra
-709,Tundra
-710,Temperate Grassland
-711,Salt Marsh
-712,Cool Swamp
-713,Cool Swamp
-714,Cool Swamp
-715,Temperate Coniferous Forest
-716,Temperate Pine Forest
-717,
-718,
-719,Tundra
-720,Temperate Oak Forest
-721,Temperate Coniferous Forest
-722,Temperate Coniferous Forest
-723,Temperate Coniferous Forest
-724,Temperate Coniferous Forest
-725,Boreal/Subalpine Forest
-726,Temperate Coniferous Forest
-727,Boreal/Subalpine Forest
-728,Boreal/Subalpine Forest
-729,Temperate Coniferous Forest
-730,Temperate Pine Forest
-731,Boreal/Subalpine Forest
-732,Temperate Pine Forest
-733,Boreal/Subalpine Forest
-734,Boreal/Subalpine Forest
-735,Temperate Oak Forest
-736,Temperate Coniferous Forest
-737,Cool Desert
-738,Tundra
-739,Cool Desert
-740,Freshwater Marsh
-741,Cool Xeric Woodland
-742,Cool Xeric Woodland
-743,Temperate Grassland
-744,Cool Desert
-745,Cool Desert
-746,Cool Desert
-747,Cool Desert
-748,Temperate Grassland
-749,Cool Swamp
-750,Cool Swamp
-751,Cool Swamp
-752,Cool Swamp
-753,Cool Swamp
-754,Temperate Pine Forest
-755,Temperate Pine Forest
-756,Temperate Grassland
-757,Temperate Coniferous Forest
-758,Temperate Coniferous Forest
-759,Temperate Coniferous Forest
-760,Temperate Oak Forest
-761,Temperate Coniferous Forest
-762,Temperate Coniferous Forest
-763,Temperate Coniferous Forest
-764,Temperate Coniferous Forest
-765,Temperate Coniferous Forest
-766,Warm Xeric Woodland
-767,Warm Xeric Woodland
-768,Temperate Pine Forest
-769,Boreal/Subalpine Forest
-770,Temperate Coniferous Forest
-771,Temperate Coniferous Forest
-772,Temperate Coniferous Forest
-773,Temperate Coniferous Forest
-774,Warm Xeric Woodland
-775,Temperate Oak Forest
-776,Temperate Coniferous Forest
-777,Temperate Grassland
-778,Chaparral
-779,Temperate Grassland
-780,Cool Swamp
-781,Cool Swamp
-782,Cool Swamp
-783,Cool Swamp
-784,Cool Swamp
-785,Chaparral
-786,Temperate Coniferous Forest
-787,
-788,
-789,
-790,Temperate Oak Forest
-791,Boreal/Subalpine Forest
-792,Cool Xeric Woodland
-793,Temperate Coniferous Forest
-794,Cool Xeric Woodland
-795,Temperate Coniferous Forest
-796,Temperate Coniferous Forest
-797,Temperate Coniferous Forest
-798,Temperate Coniferous Forest
-799,Warm Xeric Woodland
-800,Warm Xeric Woodland
-801,Temperate Pine Forest
-802,Boreal/Subalpine Forest
-803,Boreal/Subalpine Forest
-804,Temperate Coniferous Forest
-805,Temperate Coniferous Forest
-806,Temperate Coniferous Forest
-807,Boreal/Subalpine Forest
-808,Temperate Coniferous Forest
-809,Boreal/Subalpine Forest
-810,Boreal/Subalpine Forest
-811,Temperate Coniferous Forest
-812,Warm Xeric Woodland
-813,Boreal/Subalpine Forest
-814,Temperate Pine Forest
-815,Boreal/Subalpine Forest
-816,Temperate Pine Forest
-817,Temperate Pine Forest
-818,Boreal/Subalpine Forest
-819,Boreal/Subalpine Forest
-820,Temperate Oak Forest
-821,Cool Xeric Woodland
-822,Temperate Coniferous Forest
-823,Tundra
-824,Cool Desert
-825,Salt Desert
-826,Chaparral
-827,Chaparral
-828,Chaparral
-829,Chaparral
-830,Warm Xeric Woodland
-831,Temperate Grassland
-832,Cool Desert
-833,Cool Desert
-834,Cool Desert
-835,Cool Desert
-836,Cool Desert
-837,Cool Desert
-838,Cool Swamp
-839,Salt Marsh
-840,Cool Swamp
-841,Cool Swamp
-842,Cool Swamp
-843,Cool Swamp
-844,Temperate Pine Forest
-845,Temperate Pine Forest
-846,Chaparral
-847,Temperate Grassland
-848,Temperate Coniferous Forest
-849,Temperate Coniferous Forest
-850,Temperate Coniferous Forest
-851,Temperate Coniferous Forest
-852,
-853,Boreal/Subalpine Forest
-854,Temperate Coniferous Forest
-855,Temperate Pine Forest
-856,Boreal/Subalpine Forest
-857,Cool Xeric Woodland
-858,Temperate Pine Forest
-859,Boreal/Subalpine Forest
-860,Boreal/Subalpine Forest
-861,Boreal/Subalpine Forest
-862,Temperate Grassland
-863,Cool Xeric Woodland
-864,Temperate Pine Forest
-865,Cool Desert
-866,Cool Desert
-867,Temperate Grassland
-868,Temperate Grassland
-869,Temperate Grassland
-870,Temperate Grassland
-871,Temperate Grassland
-872,Salt Marsh
-873,Cool Swamp
-874,Cool Swamp
-875,Cool Swamp
-876,Cool Swamp
-877,Freshwater Marsh
-878,
-879,Boreal/Subalpine Forest
-880,Cool Xeric Woodland
-881,Cool Xeric Woodland
-882,Temperate Pine Forest
-883,Temperate Coniferous Forest
-884,Temperate Pine Forest
-885,Boreal/Subalpine Forest
-886,Boreal/Subalpine Forest
-887,Boreal/Subalpine Forest
-888,Cool Xeric Woodland
-889,Salt Desert
-890,Cool Desert
-891,Cool Desert
-892,Cool Desert
-893,Salt Desert
-894,Cool Xeric Woodland
-895,Cool Xeric Woodland
-896,Cool Xeric Woodland
-897,Cool Xeric Woodland
-898,Cool Desert
-899,Cool Desert
-900,Cool Desert
-901,Temperate Grassland
-903,Temperate Grassland
-904,Salt Marsh
-905,Cool Swamp
-906,Cool Swamp
-907,Temperate Coniferous Forest
-908,
-909,
-910,Warm Xeric Woodland
-911,Temperate Coniferous Forest
-912,Warm Xeric Woodland
-913,Warm Xeric Woodland
-914,Temperate Pine Forest
-915,Warm Xeric Woodland
-916,Salt Desert
-917,Chaparral
-918,Chaparral
-919,Chaparral
-920,Warm Xeric Woodland
-921,Warm Xeric Woodland
-922,Temperate Grassland
-923,Temperate Grassland
-924,Warm Swamp
-925,Cool Swamp
-926,Freshwater Marsh
-927,Warm Desert
-928,Warm Xeric Woodland
-929,Temperate Coniferous Forest
-930,Cool Xeric Woodland
-931,Temperate Coniferous Forest
-932,Temperate Coniferous Forest
-933,Warm Xeric Woodland
-934,Warm Xeric Woodland
-935,Temperate Pine Forest
-936,Temperate Coniferous Forest
-937,Boreal/Subalpine Forest
-938,Cool Desert
-939,Warm Desert
-940,Salt Desert
-941,Chaparral
-942,Chaparral
-943,Chaparral
-944,Chaparral
-945,Chaparral
-946,Chaparral
-947,Chaparral
-948,Warm Desert
-949,Chaparral
-950,Warm Xeric Woodland
-951,Warm Xeric Woodland
-952,Warm Xeric Woodland
-953,Warm Xeric Woodland
-954,Chaparral
-955,Temperate Grassland
-956,Temperate Grassland
-957,Temperate Grassland
-958,Warm Swamp
-959,Cool Swamp
-960,Warm Swamp
-961,Freshwater Marsh
-962,Warm Xeric Woodland
-963,
-964,Tundra
-965,Boreal/Subalpine Forest
-966,Boreal/Subalpine Forest
-967,Cool Xeric Woodland
-968,Cool Xeric Woodland
-969,Cool Xeric Woodland
-970,Temperate Pine Forest
-971,Temperate Coniferous Forest
-972,Temperate Coniferous Forest
-973,Temperate Pine Forest
-974,Boreal/Subalpine Forest
-975,Boreal/Subalpine Forest
-976,Boreal/Subalpine Forest
-977,Temperate Coniferous Forest
-978,Temperate Coniferous Forest
-979,Cool Xeric Woodland
-980,Cool Desert
-981,Tundra
-982,Cool Desert
-983,Cool Desert
-984,Cool Desert
-985,Salt Desert
-986,Cool Xeric Woodland
-987,Cool Desert
-988,Cool Xeric Woodland
-989,Chaparral
-990,Cool Xeric Woodland
-991,Cool Xeric Woodland
-992,Cool Xeric Woodland
-993,Temperate Pine Forest
-994,Cool Desert
-995,Cool Desert
-996,Cool Desert
-997,Cool Desert
-998,Cool Desert
-999,Tundra
-1000,Temperate Grassland
-1001,Temperate Grassland
-1002,Salt Marsh
-1003,Cool Swamp
-1004,Cool Swamp
-1005,Cool Swamp
-1006,
-1007,Warm Desert
-1008,Tundra
-1009,Boreal/Subalpine Forest
-1010,Cool Xeric Woodland
-1011,Cool Xeric Woodland
-1012,Temperate Pine Forest
-1013,Temperate Coniferous Forest
-1014,Temperate Coniferous Forest
-1015,Temperate Pine Forest
-1016,Boreal/Subalpine Forest
-1017,Boreal/Subalpine Forest
-1018,Boreal/Subalpine Forest
-1019,Temperate Coniferous Forest
-1020,Temperate Coniferous Forest
-1021,Cool Xeric Woodland
-1022,Cool Desert
-1023,Salt Desert
-1024,Cool Desert
-1025,Cool Desert
-1026,Salt Desert
-1027,Cool Desert
-1028,Cool Xeric Woodland
-1029,Cool Desert
-1030,Cool Xeric Woodland
-1031,Chaparral
-1032,Chaparral
-1033,Cool Xeric Woodland
-1034,Cool Xeric Woodland
-1035,Temperate Pine Forest
-1036,Cool Desert
-1037,Cool Desert
-1038,Cool Desert
-1039,Cool Desert
-1040,Cool Desert
-1041,Temperate Grassland
-1042,Salt Marsh
-1043,Cool Swamp
-1044,Cool Swamp
-1045,
-1046,Warm Desert
-1047,Tundra
-1048,Boreal/Subalpine Forest
-1049,Cool Xeric Woodland
-1050,Cool Xeric Woodland
-1051,Boreal/Subalpine Forest
-1054,Temperate Pine Forest
-1055,Boreal/Subalpine Forest
-1056,Temperate Coniferous Forest
-1057,Boreal/Subalpine Forest
-1058,Boreal/Subalpine Forest
-1059,Cool Xeric Woodland
-1060,Cool Desert
-1061,Cool Desert
-1062,Salt Desert
-1063,Cool Desert
-1064,Warm Desert
-1065,Salt Desert
-1066,Chaparral
-1067,Cool Desert
-1068,Cool Desert
-1069,Cool Desert
-1070,Cool Desert
-1071,Cool Desert
-1072,Tundra
-1073,Salt Marsh
-1074,Cool Swamp
-1075,Cool Swamp
-1076,Cool Swamp
-1077,
-1078,Boreal/Subalpine Forest
-1079,Boreal/Subalpine Forest
-1080,Cool Xeric Woodland
-1081,Cool Xeric Woodland
-1082,Boreal/Subalpine Forest
-1083,Temperate Coniferous Forest
-1084,Temperate Coniferous Forest
-1085,Temperate Pine Forest
-1086,Boreal/Subalpine Forest
-1087,Boreal/Subalpine Forest
-1088,Cool Xeric Woodland
-1089,Cool Desert
-1090,Cool Desert
-1091,Cool Desert
-1092,Salt Desert
-1093,Cool Desert
-1094,Cool Xeric Woodland
-1095,Warm Desert
-1096,Chaparral
-1097,Chaparral
-1098,Cool Xeric Woodland
-1099,Chaparral
-1100,Cool Xeric Woodland
-1101,Cool Desert
-1102,Cool Desert
-1103,Cool Desert
-1104,Cool Desert
-1105,Cool Desert
-1106,Temperate Grassland
-1107,Salt Marsh
-1108,Cool Swamp
-1109,Cool Swamp
-1110,Cool Swamp
-1111,
-1112,Warm Desert
-1113,Boreal/Subalpine Forest
-1114,Cool Xeric Woodland
-1115,Warm Xeric Woodland
-1116,Warm Xeric Woodland
-1117,Warm Xeric Woodland
-1118,Temperate Coniferous Forest
-1119,Temperate Coniferous Forest
-1120,Temperate Pine Forest
-1121,Boreal/Subalpine Forest
-1122,Cool Xeric Woodland
-1123,Temperate Coniferous Forest
-1124,Cool Desert
-1125,Salt Desert
-1126,Cool Desert
-1127,Cool Desert
-1128,Salt Desert
-1129,Cool Desert
-1130,Cool Xeric Woodland
-1131,Chaparral
-1132,Cool Xeric Woodland
-1133,Cool Xeric Woodland
-1134,Warm Xeric Woodland
-1135,Temperate Pine Forest
-1136,Cool Xeric Woodland
-1137,Warm Desert
-1138,Cool Desert
-1139,Cool Desert
-1140,Cool Desert
-1141,Temperate Grassland
-1142,Salt Marsh
-1143,Cool Swamp
-1144,
-1145,Tundra
-1146,Boreal/Subalpine Forest
-1147,Cool Xeric Woodland
-1148,Cool Xeric Woodland
-1149,Temperate Pine Forest
-1150,Temperate Coniferous Forest
-1151,Temperate Coniferous Forest
-1152,Temperate Pine Forest
-1153,Boreal/Subalpine Forest
-1154,Boreal/Subalpine Forest
-1155,Boreal/Subalpine Forest
-1156,Cool Xeric Woodland
-1157,Boreal/Subalpine Forest
-1158,Cool Xeric Woodland
-1159,Cool Desert
-1160,Tundra
-1161,Cool Desert
-1162,Salt Desert
-1163,Cool Xeric Woodland
-1164,Cool Xeric Woodland
-1165,Cool Xeric Woodland
-1166,Cool Xeric Woodland
-1167,Temperate Pine Forest
-1168,Cool Xeric Woodland
-1169,Cool Desert
-1170,Cool Desert
-1171,Cool Desert
-1172,Cool Desert
-1173,Tundra
-1174,Tundra
-1175,Temperate Grassland
-1176,Temperate Grassland
-1177,Salt Marsh
-1178,Cool Swamp
-1179,Cool Swamp
-1180,Warm Desert
-1181,Boreal/Subalpine Forest
-1182,Cool Xeric Woodland
-1183,Cool Xeric Woodland
-1184,Warm Xeric Woodland
-1185,Warm Xeric Woodland
-1186,Warm Xeric Woodland
-1187,Warm Xeric Woodland
-1188,Temperate Coniferous Forest
-1189,Temperate Coniferous Forest
-1190,Temperate Pine Forest
-1191,Boreal/Subalpine Forest
-1192,Boreal/Subalpine Forest
-1193,Boreal/Subalpine Forest
-1194,Warm Desert
-1195,Cool Desert
-1196,Salt Desert
-1197,Cool Desert
-1198,Warm Desert
-1199,Warm Desert
-1200,Warm Desert
-1201,Cool Xeric Woodland
-1202,Chaparral
-1203,Cool Xeric Woodland
-1204,Warm Desert
-1205,Cool Xeric Woodland
-1206,Warm Xeric Woodland
-1207,Temperate Pine Forest
-1208,Warm Desert
-1209,Cool Desert
-1210,Cool Desert
-1211,Temperate Grassland
-1212,Warm Swamp
-1213,Warm Swamp
-1214,Cool Swamp
-1215,Cool Swamp
-1216,
-1217,Tundra
-1218,Boreal/Subalpine Forest
-1219,Boreal/Subalpine Forest
-1220,Cool Xeric Woodland
-1221,Cool Xeric Woodland
-1222,Boreal/Subalpine Forest
-1223,Temperate Pine Forest
-1224,Temperate Coniferous Forest
-1225,Temperate Coniferous Forest
-1226,Boreal/Subalpine Forest
-1227,Boreal/Subalpine Forest
-1228,Boreal/Subalpine Forest
-1229,Boreal/Subalpine Forest
-1230,Cool Xeric Woodland
-1231,Cool Desert
-1232,Cool Desert
-1233,Salt Desert
-1234,Cool Xeric Woodland
-1235,Cool Xeric Woodland
-1236,Cool Desert
-1237,Cool Desert
-1238,Cool Desert
-1239,Cool Desert
-1240,Cool Desert
-1241,Cool Desert
-1243,Salt Marsh
-1244,Cool Swamp
-1245,Cool Swamp
-1246,Cool Swamp
-1247,Tundra
-1248,
-1249,Boreal/Subalpine Forest
-1250,Temperate Coniferous Forest
-1251,Cool Xeric Woodland
-1252,Temperate Coniferous Forest
-1253,Temperate Pine Forest
-1254,Boreal/Subalpine Forest
-1255,Boreal/Subalpine Forest
-1256,Boreal/Subalpine Forest
-1257,Boreal/Subalpine Forest
-1258,Cool Xeric Woodland
-1259,Salt Desert
-1260,Cool Desert
-1261,Temperate Grassland
-1262,Cool Xeric Woodland
-1263,Cool Xeric Woodland
-1264,Temperate Pine Forest
-1265,Cool Desert
-1266,Cool Desert
-1267,Temperate Grassland
-1268,Temperate Grassland
-1269,Temperate Grassland
-1270,Temperate Grassland
-1271,Temperate Grassland
-1272,Temperate Grassland
-1273,Salt Marsh
-1274,Cool Swamp
-1275,Cool Swamp
-1276,Cool Swamp
-1277,Temperate Coniferous Forest
-1278,Temperate Pine Forest
-1279,Temperate Pine Forest
-1280,Cool Swamp
-1281,
-1282,Temperate Grassland
-1283,Cool Desert
-1284,Temperate Grassland
-1285,Temperate Grassland
-1286,Salt Marsh
-1287,Cool Swamp
-1288,Temperate Pine Forest
-1289,Temperate Pine Forest
-1290,Cool Swamp
-1291,Freshwater Marsh
-1292,Freshwater Marsh
-1293,Subtropical Mixed Forest
-1294,Temperate Oak Forest
-1295,Subtropical Mixed Forest
-1296,Warm Xeric Woodland
-1297,Warm Xeric Woodland
-1298,Warm Xeric Woodland
-1299,Warm Xeric Woodland
-1300,Subtropical Mixed Forest
-1301,Subtropical Mixed Forest
-1302,Subtropical Mixed Forest
-1303,Tropical/Subtropical Savanna
-1304,Warm Xeric Woodland
-1305,Warm Xeric Woodland
-1306,Warm Xeric Woodland
-1307,Warm Swamp
-1308,Warm Swamp
-1309,Warm Swamp
-1310,Warm Swamp
-1311,Warm Swamp
-1312,Warm Swamp
-1313,Freshwater Marsh
-1314,Freshwater Marsh
-1315,Salt Marsh
-1316,Subtropical Mixed Forest
-1317,Tropical Dry Forest
-1318,Tropical Dry Forest
-1319,Tropical Dry Forest
-1320,Warm Xeric Woodland
-1321,Tropical Pine Forest
-1322,Tropical/Subtropical Savanna
-1323,Tropical/Subtropical Savanna
-1324,Warm Swamp
-1325,Warm Xeric Woodland
-1326,Warm Swamp
-1327,Warm Xeric Woodland
-1328,Warm Xeric Woodland
-1329,Warm Swamp
-1330,Warm Swamp
-1331,Mangroves
-1332,Warm Swamp
-1333,Warm Swamp
-1334,Warm Swamp
-1335,Freshwater Marsh
-1336,Freshwater Marsh
-1337,Salt Marsh
-1338,Warm Desert
-1339,Cool Xeric Woodland
-1340,Warm Xeric Woodland
-1341,Warm Xeric Woodland
-1342,Warm Xeric Woodland
-1343,Temperate Coniferous Forest
-1344,Temperate Coniferous Forest
-1345,Temperate Pine Forest
-1346,Cool Xeric Woodland
-1347,Boreal/Subalpine Forest
-1348,Warm Desert
-1349,Warm Desert
-1350,Warm Desert
-1351,Cool Desert
-1352,Warm Desert
-1353,Salt Desert
-1354,Warm Desert
-1355,Temperate Grassland
-1356,Warm Desert
-1357,Warm Desert
-1358,Chaparral
-1359,Chaparral
-1360,Cool Xeric Woodland
-1361,Chaparral
-1362,Warm Desert
-1363,Warm Xeric Woodland
-1364,Cool Xeric Woodland
-1365,Warm Desert
-1366,Warm Desert
-1367,Cool Desert
-1368,Warm Desert
-1369,Cool Desert
-1370,Temperate Grassland
-1371,Temperate Grassland
-1372,Salt Marsh
-1373,Warm Swamp
-1374,Cool Swamp
-1375,Warm Desert
-1376,Warm Desert
-1377,Warm Desert
-1378,Warm Xeric Woodland
-1379,Warm Xeric Woodland
-1380,Temperate Pine Forest
-1381,Cool Xeric Woodland
-1382,Warm Desert
-1383,Warm Desert
-1384,Warm Desert
-1385,Warm Desert
-1386,Cool Xeric Woodland
-1387,Temperate Grassland
-1388,Warm Desert
-1389,Warm Desert
-1390,Chaparral
-1391,Temperate Grassland
-1392,Warm Xeric Woodland
-1393,Cool Xeric Woodland
-1394,Warm Desert
-1395,Warm Desert
-1396,Temperate Grassland
-1397,Temperate Grassland
-1398,Warm Swamp
-1399,Cool Swamp
-1400,Temperate Grassland
-1401,Salt Marsh
-1402,Warm Desert
-1403,Warm Desert
-1404,Warm Desert
-1405,Temperate Pine Forest
-1406,Cool Xeric Woodland
-1407,Cool Desert
-1408,Salt Desert
-1409,Cool Xeric Woodland
-1410,Temperate Grassland
-1411,Cool Xeric Woodland
-1412,Temperate Grassland
-1413,Temperate Pine Forest
-1414,Cool Desert
-1415,Temperate Grassland
-1416,Temperate Grassland
-1417,Temperate Grassland
-1418,Cool Swamp
-1419,Cool Swamp
-1420,Cool Swamp
-1421,Freshwater Marsh
-1422,
-1423,Temperate Grassland
-1424,Temperate Grassland
-1425,Cool Xeric Woodland
-1426,Temperate Grassland
-1427,Temperate Grassland
-1428,Temperate Grassland
-1429,Cool Swamp
-1430,Temperate Grassland
-1431,Salt Marsh
-1432,Salt Marsh
-1433,Warm Desert
-1434,Warm Desert
-1435,Subtropical Mixed Forest
-1436,Subtropical Mixed Forest
-1437,Warm Xeric Woodland
-1438,Temperate Pine Forest
-1439,Temperate Pine Forest
-1440,Tallgrass Prairie
-1441,Tropical/Subtropical Savanna
-1442,Tropical/Subtropical Savanna
-1443,Tallgrass Prairie
-1444,Warm Xeric Woodland
-1445,Warm Swamp
-1446,Warm Swamp
-1447,Warm Swamp
-1448,Warm Swamp
-1449,Salt Marsh
-1450,Warm Swamp
-1451,Cool Xeric Woodland
-1452,Temperate Oak Forest
-1453,Subtropical Mixed Forest
-1454,Warm Xeric Woodland
-1455,Warm Xeric Woodland
-1456,Subtropical Mixed Forest
-1457,Subtropical Mixed Forest
-1458,Subtropical Mixed Forest
-1459,Tallgrass Prairie
-1460,Warm Xeric Woodland
-1461,Warm Xeric Woodland
-1462,Freshwater Marsh
-1463,Warm Swamp
-1464,Warm Swamp
-1465,Warm Swamp
-1466,Warm Swamp
-1467,Warm Swamp
-1468,Salt Marsh
-1469,Warm Swamp
-1470,
-1471,
-1472,Boreal/Subalpine Forest
-1473,Boreal/Subalpine Forest
-1474,Warm Xeric Woodland
-1475,Temperate Coniferous Forest
-1476,Temperate Coniferous Forest
-1477,Temperate Pine Forest
-1478,Temperate Pine Forest
-1479,Boreal/Subalpine Forest
-1480,Cool Xeric Woodland
-1481,Boreal/Subalpine Forest
-1482,Cool Desert
-1483,Salt Desert
-1484,Salt Desert
-1485,Cool Xeric Woodland
-1486,Temperate Grassland
-1487,Warm Desert
-1488,Cool Xeric Woodland
-1489,Temperate Grassland
-1490,Temperate Pine Forest
-1491,Temperate Pine Forest
-1492,Cool Xeric Woodland
-1493,Warm Desert
-1494,Warm Desert
-1495,Temperate Grassland
-1496,Temperate Grassland
-1497,Temperate Grassland
-1498,Salt Marsh
-1499,Cool Swamp
-1500,Cool Swamp
-1501,Freshwater Marsh
-1502,Warm Desert
-1503,Warm Desert
-1504,Subtropical Mixed Forest
-1505,Subtropical Mixed Forest
-1506,Warm Xeric Woodland
-1507,Temperate Pine Forest
-1508,Subtropical Mixed Forest
-1509,Tallgrass Prairie
-1510,Warm Xeric Woodland
-1511,Warm Swamp
-1512,Warm Swamp
-1513,Warm Swamp
-1514,Warm Swamp
-1515,Salt Marsh
-1517,Temperate Deciduous Forest
-1518,Subtropical Mixed Forest
-1519,Subtropical Mixed Forest
-1520,Subtropical Mixed Forest
-1521,Warm Xeric Woodland
-1522,Temperate Pine Forest
-1523,Temperate Oak Forest
-1524,Tropical/Subtropical Savanna
-1525,Tallgrass Prairie
-1526,Warm Swamp
-1527,Warm Swamp
-1528,Warm Swamp
-1529,Warm Swamp
-1530,Temperate Oak Forest
-1531,Temperate Oak Forest
-1532,Warm Swamp
-1561,Temperate Pine Forest
-1562,Temperate Mixed Forest
-1563,Temperate Oak Forest
-1564,Temperate Oak Forest
-1565,Temperate Deciduous Forest
-1566,Temperate Deciduous Forest
-1567,Temperate Pine Forest
-1568,Temperate Mixed Forest
-1569,Temperate Mixed Forest
-1570,Temperate Oak Forest
-1571,Temperate Oak Forest
-1572,Temperate Pine Forest
-1573,Temperate Pine Forest
-1574,Tallgrass Prairie
-1575,Tallgrass Prairie
-1576,Tallgrass Prairie
-1577,Cool Swamp
-1578,Temperate Grassland
-1579,Cool Swamp
-1580,Cool Swamp
-1581,Cool Swamp
-1582,Cool Swamp
-1583,Cool Swamp
-1584,Freshwater Marsh
-1585,Freshwater Marsh
-1586,Freshwater Marsh
-1587,
-1588,Temperate Pine Forest
-1589,Temperate Mixed Forest
-1590,Temperate Oak Forest
-1591,Temperate Deciduous Forest
-1592,Cool Xeric Woodland
-1593,Boreal/Subalpine Forest
-1594,Temperate Pine Forest
-1595,Temperate Pine Forest
-1596,Temperate Mixed Forest
-1597,Temperate Mixed Forest
-1598,Temperate Mixed Forest
-1599,Temperate Oak Forest
-1600,Temperate Oak Forest
-1601,Temperate Pine Forest
-1602,Temperate Pine Forest
-1603,Tallgrass Prairie
-1604,Tallgrass Prairie
-1605,Cool Swamp
-1606,Cool Swamp
-1607,Cool Swamp
-1608,Cool Swamp
-1609,Cool Swamp
-1610,Cool Swamp
-1611,Freshwater Marsh
-1612,Freshwater Marsh
-1613,Freshwater Marsh
-1614,Temperate Pine Forest
-1615,Temperate Mixed Forest
-1616,Temperate Deciduous Forest
-1617,Temperate Oak Forest
-1618,Temperate Oak Forest
-1619,Temperate Deciduous Forest
-1620,Temperate Pine Forest
-1621,Boreal/Subalpine Forest
-1622,Temperate Pine Forest
-1623,Temperate Mixed Forest
-1624,Temperate Mixed Forest
-1625,Temperate Mixed Forest
-1626,Temperate Oak Forest
-1627,Temperate Oak Forest
-1628,Temperate Pine Forest
-1629,Temperate Pine Forest
-1630,Freshwater Marsh
-1631,Tallgrass Prairie
-1632,Tallgrass Prairie
-1633,Cool Swamp
-1634,Temperate Grassland
-1635,Cool Swamp
-1636,Cool Swamp
-1637,Cool Swamp
-1638,Cool Swamp
-1639,Cool Swamp
-1640,Freshwater Marsh
-1641,Freshwater Marsh
-1642,Temperate Oak Forest
-1643,Temperate Grassland
-1644,Temperate Grassland
-1645,Cool Swamp
-1646,Temperate Mixed Forest
-1647,Temperate Pine Forest
-1648,Temperate Deciduous Forest
-1649,Cool Xeric Woodland
-1650,Temperate Mixed Forest
-1651,Cool Swamp
-1652,Temperate Oak Forest
-1653,Tallgrass Prairie
-1654,Tallgrass Prairie
-1655,Cool Swamp
-1656,Cool Swamp
-1657,Freshwater Marsh
-1658,Freshwater Marsh
-1659,Temperate Oak Forest
-1660,Temperate Grassland
-1661,Temperate Grassland
-1662,Cool Swamp
-1663,Temperate Oak Forest
-1664,Temperate Oak Forest
-1665,Temperate Deciduous Forest
-1666,Cool Xeric Woodland
-1667,Cool Swamp
-1668,Temperate Oak Forest
-1669,Tallgrass Prairie
-1670,Tallgrass Prairie
-1671,Cool Swamp
-1672,Freshwater Marsh
-1673,Freshwater Marsh
-1674,
-1675,Temperate Oak Forest
-1676,Cool Xeric Woodland
-1677,Cool Desert
-1678,Cool Xeric Woodland
-1679,Temperate Grassland
-1680,Cool Desert
-1681,Temperate Grassland
-1682,Temperate Grassland
-1683,Temperate Grassland
-1684,Temperate Grassland
-1685,Temperate Grassland
-1686,Cool Swamp
-1687,Temperate Pine Forest
-1688,Cool Swamp
-1689,Tallgrass Prairie
-1690,Cool Swamp
-1691,Freshwater Marsh
-1692,Temperate Grassland
-1693,Temperate Grassland
-1694,Temperate Grassland
-1695,Temperate Grassland
-1696,Cool Swamp
-1697,Temperate Oak Forest
-1698,Cool Xeric Woodland
-1699,Subtropical Mixed Forest
-1700,Temperate Deciduous Forest
-1701,Temperate Oak Forest
-1702,Temperate Pine Forest
-1703,Temperate Pine Forest
-1704,Warm Xeric Woodland
-1705,Temperate Grassland
-1706,Tallgrass Prairie
-1707,Tallgrass Prairie
-1708,Cool Swamp
-1709,Cool Swamp
-1710,Warm Swamp
-1711,Warm Swamp
-1712,Warm Desert
-1713,Cool Xeric Woodland
-1714,Warm Xeric Woodland
-1715,Temperate Grassland
-1716,Warm Desert
-1717,Temperate Grassland
-1718,Temperate Grassland
-1719,Temperate Grassland
-1720,Temperate Grassland
-1721,Warm Swamp
-1722,Cool Swamp
-1723,Cool Xeric Woodland
-1724,Temperate Pine Forest
-1725,Warm Xeric Woodland
-1726,Tropical/Subtropical Thornscrub
-1727,Tropical/Subtropical Thornscrub
-1728,Temperate Grassland
-1729,Warm Xeric Woodland
-1730,Tallgrass Prairie
-1731,Tallgrass Prairie
-1732,Cool Swamp
-1733,Cool Swamp
-1734,Freshwater Marsh
-1735,Warm Desert
-1736,Cool Xeric Woodland
-1737,Warm Xeric Woodland
-1738,Warm Xeric Woodland
-1739,Warm Swamp
-1740,Subtropical Mixed Forest
-1741,Subtropical Mixed Forest
-1742,Subtropical Mixed Forest
-1743,Temperate Pine Forest
-1744,Temperate Pine Forest
-1745,Warm Xeric Woodland
-1746,Tropical/Subtropical Thornscrub
-1747,Tropical/Subtropical Thornscrub
-1748,Tallgrass Prairie
-1749,Tallgrass Prairie
-1750,Tropical/Subtropical Savanna
-1751,Tropical/Subtropical Thornscrub
-1752,Tropical/Subtropical Thornscrub
-1753,Warm Desert
-1754,Warm Desert
-1755,Warm Swamp
-1756,Warm Swamp
-1757,Warm Swamp
-1758,Warm Swamp
-1759,Warm Swamp
-1760,Salt Marsh
-1761,Salt Marsh
-1762,Freshwater Marsh
-1763,Cool Xeric Woodland
-1764,Temperate Oak Forest
-1765,Subtropical Mixed Forest
-1766,Subtropical Mixed Forest
-1767,Subtropical Mixed Forest
-1768,Subtropical Mixed Forest
-1769,Subtropical Mixed Forest
-1770,Warm Xeric Woodland
-1771,Temperate Pine Forest
-1772,Subtropical Mixed Forest
-1773,Temperate Oak Forest
-1774,Temperate Pine Forest
-1775,Tropical/Subtropical Savanna
-1776,Warm Swamp
-1777,Warm Swamp
-1778,Warm Swamp
-1779,Cool Swamp
-1780,Warm Swamp
-1781,Warm Swamp
-1782,Warm Swamp
-1783,Subtropical Mixed Forest
-1784,Subtropical Mixed Forest
-1785,Subtropical Mixed Forest
-1786,Warm Xeric Woodland
-1787,Warm Xeric Woodland
-1788,Subtropical Mixed Forest
-1789,Temperate Pine Forest
-1790,Subtropical Mixed Forest
-1791,Tropical/Subtropical Savanna
-1792,Warm Xeric Woodland
-1793,Warm Swamp
-1794,Warm Swamp
-1795,Warm Swamp
-1796,Warm Swamp
-1797,Warm Swamp
-1798,Warm Swamp
-1799,Warm Swamp
-1800,Freshwater Marsh
-1801,Freshwater Marsh
-1802,Salt Marsh
-1803,
-1804,Temperate Oak Forest
-1805,Temperate Deciduous Forest
-1806,Temperate Deciduous Forest
-1807,Temperate Oak Forest
-1808,Temperate Pine Forest
-1809,Temperate Pine Forest
-1810,Temperate Pine Forest
-1811,Temperate Oak Forest
-1812,Cool Swamp
-1813,Cool Swamp
-1814,Temperate Mixed Forest
-1815,Temperate Oak Forest
-1816,Temperate Deciduous Forest
-1817,Temperate Oak Forest
-1818,Temperate Deciduous Forest
-1819,Temperate Oak Forest
-1820,Temperate Deciduous Forest
-1821,Boreal/Subalpine Forest
-1822,Temperate Pine Forest
-1823,Temperate Pine Forest
-1824,Temperate Oak Forest
-1825,Temperate Oak Forest
-1826,Tallgrass Prairie
-1827,Cool Swamp
-1828,Cool Swamp
-1829,Temperate Deciduous Forest
-1830,Subtropical Mixed Forest
-1831,Subtropical Mixed Forest
-1832,Warm Xeric Woodland
-1833,Warm Xeric Woodland
-1834,Temperate Pine Forest
-1835,Temperate Pine Forest
-1836,Temperate Pine Forest
-1837,Temperate Oak Forest
-1838,Cool Swamp
-1839,Cool Swamp
-1840,Temperate Oak Forest
-1841,Temperate Deciduous Forest
-1842,Temperate Oak Forest
-1843,Temperate Oak Forest
-1844,Subtropical Mixed Forest
-1845,Warm Xeric Woodland
-1846,Temperate Pine Forest
-1847,Temperate Pine Forest
-1848,Temperate Pine Forest
-1849,Subtropical Mixed Forest
-1850,Temperate Oak Forest
-1851,Temperate Oak Forest
-1852,Temperate Mixed Forest
-1853,Tallgrass Prairie
-1854,Temperate Pine Forest
-1855,Temperate Oak Forest
-1856,Tallgrass Prairie
-1857,Tallgrass Prairie
-1858,Warm Xeric Woodland
-1859,Freshwater Marsh
-1860,Warm Swamp
-1861,Cool Swamp
-1862,Cool Swamp
-1863,Warm Swamp
-1864,Warm Swamp
-1865,Cool Swamp
-1866,Warm Swamp
-1867,Salt Marsh
-1868,
-1869,Warm Swamp
-1870,Temperate Oak Forest
-1871,Temperate Oak Forest
-1872,Temperate Deciduous Forest
-1873,Temperate Oak Forest
-1874,Temperate Deciduous Forest
-1875,Temperate Oak Forest
-1876,Temperate Deciduous Forest
-1877,Temperate Pine Forest
-1878,Boreal/Subalpine Forest
-1879,Temperate Pine Forest
-1880,Temperate Pine Forest
-1881,Temperate Oak Forest
-1882,Temperate Oak Forest
-1883,Temperate Mixed Forest
-1884,Temperate Oak Forest
-1885,Temperate Pine Forest
-1886,Tallgrass Prairie
-1887,Cool Swamp
-1888,Cool Swamp
-1889,Cool Swamp
-1890,Temperate Pine Forest
-1891,Temperate Oak Forest
-1892,Temperate Deciduous Forest
-1893,Temperate Pine Forest
-1894,Temperate Mixed Forest
-1895,Temperate Oak Forest
-1896,Temperate Mixed Forest
-1897,Boreal/Subalpine Forest
-1898,Temperate Pine Forest
-1899,Tallgrass Prairie
-1900,Cool Swamp
-1901,Cool Swamp
-1902,Cool Swamp
-1903,Cool Swamp
-1904,Cool Swamp
-1905,Cool Swamp
-1906,Freshwater Marsh
-1907,Freshwater Marsh
-1908,Cool Swamp
-1909,Temperate Oak Forest
-1910,Temperate Oak Forest
-1911,Temperate Deciduous Forest
-1912,Temperate Oak Forest
-1913,Temperate Deciduous Forest
-1914,Temperate Mixed Forest
-1915,Cool Swamp
-1916,Cool Swamp
-1917,Cool Swamp
-1918,Freshwater Marsh
-1919,Cool Swamp
-1920,Temperate Pine Forest
-1921,Temperate Oak Forest
-1922,Temperate Oak Forest
-1923,Temperate Pine Forest
-1924,Temperate Pine Forest
-1925,Temperate Mixed Forest
-1926,Temperate Oak Forest
-1927,Temperate Mixed Forest
-1928,Boreal/Subalpine Forest
-1929,Boreal/Subalpine Forest
-1930,Temperate Pine Forest
-1931,Temperate Oak Forest
-1932,Tallgrass Prairie
-1933,Cool Swamp
-1934,Cool Swamp
-1935,Cool Swamp
-1936,Cool Swamp
-1937,Cool Swamp
-1938,Warm Swamp
-1939,Salt Marsh
-1940,Freshwater Marsh
-1941,Cool Swamp
-1942,Cool Swamp
-1943,Temperate Pine Forest
-1944,Temperate Oak Forest
-1945,Temperate Pine Forest
-1946,Temperate Pine Forest
-1947,Temperate Mixed Forest
-1948,Temperate Oak Forest
-1949,Temperate Mixed Forest
-1950,Boreal/Subalpine Forest
-1951,Boreal/Subalpine Forest
-1952,Temperate Pine Forest
-1953,Tundra
-1954,Tallgrass Prairie
-1955,Tallgrass Prairie
-1956,Cool Swamp
-1957,Cool Swamp
-1958,Cool Swamp
-1959,Cool Swamp
-1960,Cool Swamp
-1961,Warm Swamp
-1962,Freshwater Marsh
-1963,Cool Swamp
-1964,Cool Swamp
-1965,Temperate Oak Forest
-1966,Temperate Oak Forest
-1967,Temperate Deciduous Forest
-1968,Temperate Oak Forest
-1969,Temperate Oak Forest
-1970,Freshwater Marsh
-1971,Tallgrass Prairie
-1972,Tallgrass Prairie
-1973,Cool Swamp
-1974,Cool Swamp
-1975,Freshwater Marsh
-1976,Freshwater Marsh
-1977,Cool Swamp
-1978,Temperate Pine Forest
-1979,Temperate Oak Forest
-1980,Boreal/Subalpine Forest
-1981,Temperate Pine Forest
-1982,Temperate Pine Forest
-1983,Temperate Mixed Forest
-1984,Temperate Oak Forest
-1985,Temperate Mixed Forest
-1986,Boreal/Subalpine Forest
-1987,Boreal/Subalpine Forest
-1988,Temperate Pine Forest
-1989,Tundra
-1990,Tundra
-1991,Tallgrass Prairie
-1992,Cool Swamp
-1993,Cool Swamp
-1994,Cool Swamp
-1995,Cool Swamp
-1996,Warm Swamp
-1997,Salt Marsh
-1998,Freshwater Marsh
-1999,Cool Swamp
-2000,Temperate Oak Forest
-2001,Temperate Mixed Forest
-2002,Temperate Oak Forest
-2003,Temperate Oak Forest
-2004,Temperate Deciduous Forest
-2005,Temperate Deciduous Forest
-2006,Temperate Pine Forest
-2007,Temperate Pine Forest
-2008,Tallgrass Prairie
-2009,Temperate Mixed Forest
-2010,Temperate Oak Forest
-2011,Tallgrass Prairie
-2012,Cool Swamp
-2013,Cool Swamp
-2014,Cool Swamp
-2015,Temperate Oak Forest
-2016,Temperate Oak Forest
-2017,Temperate Oak Forest
-2018,Temperate Oak Forest
-2019,Temperate Deciduous Forest
-2020,Temperate Deciduous Forest
-2021,Temperate Deciduous Forest
-2022,Warm Xeric Woodland
-2023,Temperate Oak Forest
-2024,Temperate Oak Forest
-2025,Temperate Oak Forest
-2026,Tallgrass Prairie
-2027,Freshwater Marsh
-2028,Tallgrass Prairie
-2029,Tallgrass Prairie
-2030,Warm Xeric Woodland
-2031,Temperate Grassland
-2032,Cool Swamp
-2033,Cool Swamp
-2034,Cool Swamp
-2035,
-2036,Cool Swamp
-2037,Temperate Oak Forest
-2038,Cool Xeric Woodland
-2039,Temperate Oak Forest
-2040,Temperate Oak Forest
-2041,Temperate Deciduous Forest
-2042,Temperate Deciduous Forest
-2043,Temperate Oak Forest
-2044,Tallgrass Prairie
-2045,Tallgrass Prairie
-2046,Tallgrass Prairie
-2047,Tallgrass Prairie
-2048,Cool Swamp
-2049,Cool Swamp
-2050,Freshwater Marsh
-2051,Cool Swamp
-2052,Temperate Oak Forest
-2053,Temperate Grassland
-2054,Temperate Grassland
-2055,Temperate Grassland
-2056,Temperate Grassland
-2057,Temperate Grassland
-2058,Cool Swamp
-2059,Cool Xeric Woodland
-2060,Temperate Oak Forest
-2061,Temperate Deciduous Forest
-2062,Tallgrass Prairie
-2063,Tallgrass Prairie
-2064,Cool Swamp
-2065,Freshwater Marsh
-2066,Freshwater Marsh
-2067,Temperate Oak Forest
-2068,Temperate Oak Forest
-2069,Temperate Oak Forest
-2070,Temperate Oak Forest
-2071,Temperate Deciduous Forest
-2072,Temperate Deciduous Forest
-2073,Subtropical Mixed Forest
-2074,Warm Xeric Woodland
-2075,Subtropical Mixed Forest
-2076,Temperate Pine Forest
-2077,Subtropical Mixed Forest
-2078,Tallgrass Prairie
-2079,Tallgrass Prairie
-2080,Tallgrass Prairie
-2081,Tallgrass Prairie
-2082,Tallgrass Prairie
-2083,Warm Xeric Woodland
-2084,Cool Swamp
-2085,Cool Swamp
-2086,Warm Swamp
-2087,Warm Swamp
-2088,Cool Swamp
-2089,Warm Swamp
-2090,Temperate Oak Forest
-2091,Cool Swamp
-2092,Temperate Oak Forest
-2093,Temperate Oak Forest
-2094,Temperate Oak Forest
-2095,Temperate Oak Forest
-2096,Temperate Oak Forest
-2097,Temperate Deciduous Forest
-2098,Temperate Oak Forest
-2099,Temperate Deciduous Forest
-2100,Subtropical Mixed Forest
-2101,Subtropical Mixed Forest
-2102,Warm Xeric Woodland
-2103,Temperate Pine Forest
-2104,Temperate Pine Forest
-2105,Temperate Oak Forest
-2106,Temperate Oak Forest
-2107,Tallgrass Prairie
-2108,Tallgrass Prairie
-2109,Tallgrass Prairie
-2110,Tallgrass Prairie
-2111,Tallgrass Prairie
-2112,Warm Xeric Woodland
-2113,Cool Swamp
-2114,Cool Swamp
-2115,Warm Swamp
-2116,Cool Swamp
-2117,Temperate Oak Forest
-2118,Temperate Oak Forest
-2119,Temperate Deciduous Forest
-2120,Cool Swamp
-2121,Temperate Oak Forest
-2122,Temperate Oak Forest
-2123,Tallgrass Prairie
-2124,Tallgrass Prairie
-2125,Tallgrass Prairie
-2126,Cool Swamp
-2127,Cool Swamp
-2128,Cool Swamp
-2129,Freshwater Marsh
-2130,Freshwater Marsh
-2131,
-2132,Temperate Oak Forest
-2133,Cool Xeric Woodland
-2134,Temperate Oak Forest
-2135,Temperate Oak Forest
-2136,Temperate Oak Forest
-2137,Temperate Deciduous Forest
-2138,Subtropical Mixed Forest
-2139,Temperate Deciduous Forest
-2140,Temperate Oak Forest
-2141,Temperate Pine Forest
-2142,Temperate Pine Forest
-2143,Temperate Pine Forest
-2144,Temperate Oak Forest
-2145,Tallgrass Prairie
-2146,Tallgrass Prairie
-2147,Temperate Oak Forest
-2148,Tallgrass Prairie
-2149,Tallgrass Prairie
-2150,Tropical/Subtropical Savanna
-2151,Warm Swamp
-2152,Cool Swamp
-2153,Cool Swamp
-2154,Cool Swamp
-2155,Warm Swamp
-2156,Warm Swamp
-2157,Warm Swamp
-2158,Freshwater Marsh
-2159,Warm Swamp
-2160,Temperate Pine Forest
+VALUE,BPS_NAME,legend
+12, PerennialIce/Snow,Rock and Ice
+381,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+384,Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Tundra
+385,North American Warm Desert Sparsely Vegetated Systems,Warm Desert
+386,Western Great Plains Shortgrass Prairie,Temperate Grassland
+387,Western Great Plains Foothill and Piedmont Grassland,Temperate Grassland
+388,Wyoming Basins Dwarf Sagebrush Shrubland and Steppe,Cool Desert
+389,Southern Colorado Plateau Sand Shrubland,Cool Desert
+390,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+391,Rocky Mountain Lower Montane-Foothill Shrubland,Cool Xeric Woodland
+392,Apacherian-Chihuahuan Mesquite Upland Scrub,Warm Desert
+393,Chihuahuan Stabilized Coppice Dune and Sand Flat Scrub,Warm Desert
+394,Colorado Plateau Blackbrush-Mormon-tea Shrubland,Cool Desert
+395,Mojave Mid-Elevation Mixed Desert Scrub,Cool Desert
+396,Southern Rocky Mountain Montane-Subalpine Grassland,Temperate Grassland
+397,Sonora-Mojave Semi-Desert Chaparral,Chaparral
+398,Sonora-Mojave Creosotebush-White Bursage Desert Scrub,Warm Desert
+399,Inter-Mountain Basins Montane Sagebrush Steppe - Mountain Big Sagebrush,Cool Desert
+400,Mojave Mid-Elevation Mixed Desert Scrub,Cool Desert
+401,Inter-Mountain Basins Mat Saltbush Shrubland,Salt Desert
+402,Apacherian-Chihuahuan Mesquite Upland Scrub,Warm Desert
+403,Colorado Plateau Mixed Low Sagebrush Shrubland,Cool Desert
+404,Colorado Plateau Blackbrush-Mormon-tea Shrubland,Cool Desert
+405,Sonora-Mojave Semi-Desert Chaparral,Chaparral
+406,Southern Colorado Plateau Sand Shrubland,Cool Desert
+407,Apacherian-Chihuahuan Mesquite Upland Scrub,Warm Desert
+409,Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Tundra
+411,Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Tundra
+413,Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Tundra
+415,Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Tundra
+416,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+417,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,Temperate Pine Forest
+418,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,Temperate Coniferous Forest
+419,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,Temperate Coniferous Forest
+420,Northern Rocky Mountain Subalpine Woodland and Parkland,Boreal/Subalpine Forest
+421,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,Temperate Coniferous Forest
+422,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest - Cedar Groves,Temperate Coniferous Forest
+423,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,Temperate Pine Forest
+424,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+425,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+426,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Cool Xeric Woodland
+427,Columbia Plateau Scabland Shrubland,Cool Desert
+428,Rocky Mountain Alpine Dwarf-Shrubland,Tundra
+429,Great Basin Xeric Mixed Sagebrush Shrubland,Cool Desert
+430,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+431,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Cool Xeric Woodland
+432,Inter-Mountain Basins Juniper Savanna,Cool Xeric Woodland
+433,Columbia Plateau Steppe and Grassland,Cool Desert
+434,Columbia Plateau Low Sagebrush Steppe,Cool Desert
+435,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+436,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+437,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Cool Desert
+438,Columbia Basin Foothill and Canyon Dry Grassland,Cool Desert
+439,Inter-Mountain Basins Semi-Desert Grassland,Cool Desert
+440,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Temperate Grassland
+441,Northern Rocky Mountain Subalpine-Upper Montane Grassland,Temperate Grassland
+442,Columbia Basin Palouse Prairie,Temperate Grassland
+443,Rocky Mountain Subalpine-Montane Mesic Meadow,Temperate Grassland
+444,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+445,Inter-Mountain Basins Montane Riparian Systems,Cool Swamp
+446,Rocky Mountain Montane Riparian Systems,Cool Swamp
+447,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Cool Swamp
+448,Northern Rocky Mountain Conifer Swamp,Cool Swamp
+449,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,Temperate Coniferous Forest
+450,Rocky Mountain Poor-Site Lodgepole Pine Forest,Temperate Pine Forest
+452,Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Tundra
+453,Northwestern Great Plains Aspen Forest and Parkland,Cool Xeric Woodland
+454,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+456,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,Temperate Pine Forest
+457,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,Temperate Coniferous Forest
+458,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,Temperate Coniferous Forest
+459,Northern Rocky Mountain Subalpine Woodland and Parkland,Boreal/Subalpine Forest
+460,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,Temperate Coniferous Forest
+461,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest - Cedar Groves,Temperate Coniferous Forest
+462,Rocky Mountain Foothill Limber Pine-Juniper Woodland,Cool Xeric Woodland
+463,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,Temperate Pine Forest
+464,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+465,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+466,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Cool Xeric Woodland
+467,Rocky Mountain Alpine Dwarf-Shrubland,Tundra
+468,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+469,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+470,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Cool Xeric Woodland
+471,Inter-Mountain Basins Juniper Savanna,Cool Xeric Woodland
+472,Columbia Plateau Low Sagebrush Steppe,Cool Desert
+473,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+474,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+475,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Temperate Grassland
+476,Northern Rocky Mountain Subalpine-Upper Montane Grassland,Temperate Grassland
+477,Rocky Mountain Alpine Fell-Field,Tundra
+478,Rocky Mountain Alpine Turf,Tundra
+479,Rocky Mountain Subalpine-Montane Mesic Meadow,Temperate Grassland
+480,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+481,Inter-Mountain Basins Montane Riparian Systems,Cool Swamp
+482,Rocky Mountain Montane Riparian Systems,Cool Swamp
+483,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Cool Swamp
+484,Northern Rocky Mountain Conifer Swamp,Cool Swamp
+485,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,Temperate Coniferous Forest
+486,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland - Fire-maintained Savanna,Temperate Coniferous Forest
+487,Rocky Mountain Poor-Site Lodgepole Pine Forest,Temperate Pine Forest
+491,Colorado Plateau Pinyon-Juniper Woodland,Cool Xeric Woodland
+492,Great Basin Pinyon-Juniper Woodland,Cool Xeric Woodland
+493,Inter-Mountain Basins Subalpine Limber-Bristlecone Pine Woodland,Boreal/Subalpine Forest
+494,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+495,Southern Rocky Mountain Ponderosa Pine Woodland,Temperate Pine Forest
+496,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Boreal/Subalpine Forest
+497,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Cool Xeric Woodland
+498,Great Basin Xeric Mixed Sagebrush Shrubland,Cool Desert
+499,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+500,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+501,Mojave Mid-Elevation Mixed Desert Scrub,Cool Desert
+502,Rocky Mountain Lower Montane-Foothill Shrubland,Cool Xeric Woodland
+503,Sonora-Mojave Creosotebush-White Bursage Desert Scrub,Warm Desert
+505,Sonoran Mid-Elevation Desert Scrub,Warm Desert
+506,Southern Colorado Plateau Sand Shrubland,Cool Desert
+508,Great Basin Semi-Desert Chaparral,Chaparral
+510,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Cool Xeric Woodland
+512,Sonoran Paloverde-Mixed Cacti Desert Scrub,Warm Desert
+513,Inter-Mountain Basins Juniper Savanna,Cool Xeric Woodland
+516,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+517,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Cool Desert
+518,Inter-Mountain Basins Semi-Desert Grassland,Cool Desert
+519,Rocky Mountain Subalpine-Montane Mesic Meadow,Temperate Grassland
+520,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+521,Inter-Mountain Basins Montane Riparian Systems,Cool Swamp
+522,North American Warm Desert Riparian Systems,Warm Swamp
+523,North American Warm Desert Riparian Systems - Stringers,Warm Swamp
+525,North American Warm Desert Sparsely Vegetated Systems,Warm Desert
+526,Colorado Plateau Pinyon-Juniper Woodland,Cool Xeric Woodland
+527,Great Basin Pinyon-Juniper Woodland,Cool Xeric Woodland
+528,Madrean Encinal,Warm Xeric Woodland
+530,Madrean Pinyon-Juniper Woodland,Warm Xeric Woodland
+531,Southern Rocky Mountain Ponderosa Pine Woodland,Temperate Pine Forest
+532,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+533,Mojave Mid-Elevation Mixed Desert Scrub,Cool Desert
+534,Sonora-Mojave Creosotebush-White Bursage Desert Scrub,Warm Desert
+535,Sonora-Mojave Mixed Salt Desert Scrub,Salt Desert
+536,Sonoran Granite Outcrop Desert Scrub,Warm Desert
+537,Sonoran Mid-Elevation Desert Scrub,Warm Desert
+538,Mogollon Chaparral,Chaparral
+539,Sonora-Mojave Semi-Desert Chaparral,Chaparral
+540,Sonoran Paloverde-Mixed Cacti Desert Scrub,Warm Desert
+541,Inter-Mountain Basins Juniper Savanna,Cool Xeric Woodland
+542,Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,Warm Desert
+544,Inter-Mountain Basins Semi-Desert Grassland,Cool Desert
+545,North American Warm Desert Riparian Systems,Warm Swamp
+546,North American Warm Desert Riparian Systems - Stringers,Warm Swamp
+547,North Pacific Oak Woodland,Temperate Oak Forest
+548,California Coastal Redwood Forest,Subtropical Mixed Forest
+549,Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,Temperate Coniferous Forest
+550,Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,Temperate Coniferous Forest
+551,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,Temperate Pine Forest
+552,Mediterranean California Mesic Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+553,Mediterranean California Mixed Oak Woodland,Warm Xeric Woodland
+554,Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,Warm Xeric Woodland
+555,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,Temperate Pine Forest
+556,Mediterranean California Red Fir Forest,Boreal/Subalpine Forest
+557,Mediterranean California Subalpine Woodland,Boreal/Subalpine Forest
+558,North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,Temperate Coniferous Forest
+559,Mediterranean California Mixed Evergreen Forest,Subtropical Mixed Forest
+560,Northern California Mesic Subalpine Woodland,Boreal/Subalpine Forest
+561,California Maritime Chaparral,Chaparral
+562,California Mesic Chaparral,Chaparral
+563,California Montane Woodland and Chaparral,Chaparral
+564,California Xeric Serpentine Chaparral,Chaparral
+565,Northern and Central California Dry-Mesic Chaparral,Chaparral
+566,California Coastal Live Oak Woodland and Savanna,Warm Xeric Woodland
+567,California Lower Montane Blue Oak-Foothill Pine Woodland and Savanna,Warm Xeric Woodland
+568,Northern California Coastal Scrub,Chaparral
+569,California Mesic Serpentine Grassland,Temperate Grassland
+570,California Northern Coastal Grassland,Temperate Grassland
+571,Mediterranean California Subalpine Meadow,Temperate Grassland
+572,North Pacific Montane Grassland,Temperate Grassland
+573,California Montane Riparian Systems,Cool Swamp
+574,Pacific Coastal Marsh Systems,Freshwater Marsh
+575,Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,Chaparral
+576,California Coastal Closed-Cone Conifer Forest and Woodland,Warm Xeric Woodland
+579,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+580,Columbia Plateau Western Juniper Woodland and Savanna,Cool Xeric Woodland
+581,Great Basin Pinyon-Juniper Woodland,Cool Xeric Woodland
+582,Inter-Mountain Basins Subalpine Limber-Bristlecone Pine Woodland,Boreal/Subalpine Forest
+583,Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,Temperate Coniferous Forest
+584,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,Temperate Pine Forest
+585,Mediterranean California Mesic Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+586,Mediterranean California Mixed Oak Woodland,Warm Xeric Woodland
+587,Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,Warm Xeric Woodland
+588,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,Temperate Pine Forest
+589,Mediterranean California Red Fir Forest - Cascades,Boreal/Subalpine Forest
+590,Mediterranean California Red Fir Forest - Southern Sierra,Boreal/Subalpine Forest
+591,Mediterranean California Subalpine Woodland,Boreal/Subalpine Forest
+592,Mediterranean California Mesic Serpentine Woodland and Chaparral,Warm Xeric Woodland
+593,Mediterranean California Mixed Evergreen Forest,Subtropical Mixed Forest
+594,Northern California Mesic Subalpine Woodland,Boreal/Subalpine Forest
+595,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+596,Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland - Wet,Temperate Pine Forest
+597,Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland - Dry,Temperate Pine Forest
+598,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Boreal/Subalpine Forest
+599,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Cool Xeric Woodland
+600,Mediterranean California Alpine Fell-Field,Tundra
+601,Sierra Nevada Alpine Dwarf-Shrubland,Tundra
+602,Great Basin Xeric Mixed Sagebrush Shrubland,Cool Desert
+603,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+604,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+605,Mojave Mid-Elevation Mixed Desert Scrub,Cool Desert
+606,Sonora-Mojave Creosotebush-White Bursage Desert Scrub,Warm Desert
+607,California Mesic Chaparral,Chaparral
+608,California Montane Woodland and Chaparral,Chaparral
+609,Great Basin Semi-Desert Chaparral,Chaparral
+610,Northern and Central California Dry-Mesic Chaparral,Chaparral
+611,California Lower Montane Blue Oak-Foothill Pine Woodland and Savanna,Warm Xeric Woodland
+612,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+613,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+614,Mediterranean California Alpine Dry Tundra,Tundra
+615,Mediterranean California Subalpine Meadow,Temperate Grassland
+616,North Pacific Montane Grassland,Temperate Grassland
+617,California Montane Riparian Systems,Cool Swamp
+618,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+619,Inter-Mountain Basins Montane Riparian Systems,Cool Swamp
+621,Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Tundra
+622,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+623,Columbia Plateau Western Juniper Woodland and Savanna,Cool Xeric Woodland
+624,Great Basin Pinyon-Juniper Woodland,Cool Xeric Woodland
+625,Inter-Mountain Basins Subalpine Limber-Bristlecone Pine Woodland,Boreal/Subalpine Forest
+626,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest,Temperate Pine Forest
+627,Northern Rocky Mountain Subalpine Woodland and Parkland,Boreal/Subalpine Forest
+628,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,Temperate Coniferous Forest
+629,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Mesic,Temperate Pine Forest
+630,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Xeric,Temperate Pine Forest
+631,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+632,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+633,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Boreal/Subalpine Forest
+634,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Cool Xeric Woodland
+635,Columbia Plateau Scabland Shrubland,Cool Desert
+636,Great Basin Xeric Mixed Sagebrush Shrubland,Cool Desert
+637,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+638,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+639,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Cool Xeric Woodland
+640,Columbia Plateau Steppe and Grassland,Cool Desert
+641,Columbia Plateau Low Sagebrush Steppe,Cool Desert
+642,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+643,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+644,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Cool Desert
+645,Columbia Basin Foothill and Canyon Dry Grassland,Cool Desert
+646,Inter-Mountain Basins Semi-Desert Grassland,Cool Desert
+647,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Temperate Grassland
+648,Northern Rocky Mountain Subalpine-Upper Montane Grassland,Temperate Grassland
+649,Columbia Basin Palouse Prairie,Temperate Grassland
+650,Rocky Mountain Alpine Fell-Field,Tundra
+651,Rocky Mountain Subalpine-Montane Mesic Meadow,Temperate Grassland
+652,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+653,Inter-Mountain Basins Montane Riparian Systems,Cool Swamp
+654,Rocky Mountain Montane Riparian Systems,Cool Swamp
+655,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Cool Swamp
+656,Northern Rocky Mountain Conifer Swamp,Cool Swamp
+657,Northern Rocky Mountain Foothill Conifer Wooded Steppe,Temperate Pine Forest
+658,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,Temperate Coniferous Forest
+659,Rocky Mountain Poor-Site Lodgepole Pine Forest,Temperate Pine Forest
+661,Columbia Plateau Western Juniper Woodland and Savanna,Cool Xeric Woodland
+662,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest,Temperate Pine Forest
+663,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,Temperate Coniferous Forest
+664,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Mesic,Temperate Pine Forest
+665,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+666,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+667,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Boreal/Subalpine Forest
+668,Columbia Plateau Scabland Shrubland,Cool Desert
+669,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+670,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+671,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Cool Xeric Woodland
+672,Columbia Plateau Steppe and Grassland,Cool Desert
+673,Columbia Plateau Low Sagebrush Steppe,Cool Desert
+674,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+675,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+676,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Cool Desert
+677,Columbia Basin Foothill and Canyon Dry Grassland,Cool Desert
+678,Inter-Mountain Basins Semi-Desert Grassland,Cool Desert
+679,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Temperate Grassland
+680,Columbia Basin Palouse Prairie,Temperate Grassland
+681,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+682,Inter-Mountain Basins Montane Riparian Systems,Cool Swamp
+683,Rocky Mountain Montane Riparian Systems,Cool Swamp
+684,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Cool Swamp
+685,Northern Rocky Mountain Foothill Conifer Wooded Steppe,Temperate Pine Forest
+686,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+687,Rocky Mountain Bigtooth Maple Ravine Woodland,Boreal/Subalpine Forest
+688,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest,Temperate Pine Forest
+689,Northern Rocky Mountain Subalpine Woodland and Parkland,Boreal/Subalpine Forest
+690,Rocky Mountain Foothill Limber Pine-Juniper Woodland,Cool Xeric Woodland
+691,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+692,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+693,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+694,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+695,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Cool Xeric Woodland
+696,Rocky Mountain Alpine Dwarf-Shrubland,Tundra
+697,Inter-Mountain Basins Big Sagebrush Shrubland - Basin Big Sagebrush,Cool Desert
+698,Inter-Mountain Basins Big Sagebrush Shrubland - Wyoming Big Sagebrush,Cool Desert
+699,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+700,Rocky Mountain Lower Montane-Foothill Shrubland,Cool Xeric Woodland
+701,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Cool Xeric Woodland
+702,Inter-Mountain Basins Juniper Savanna,Cool Xeric Woodland
+703,Columbia Plateau Low Sagebrush Steppe,Cool Desert
+704,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+705,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Cool Desert
+706,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Temperate Grassland
+707,Northern Rocky Mountain Subalpine-Upper Montane Grassland,Temperate Grassland
+708,Rocky Mountain Alpine Fell-Field,Tundra
+709,Rocky Mountain Alpine Turf,Tundra
+710,Rocky Mountain Subalpine-Montane Mesic Meadow,Temperate Grassland
+711,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+712,Rocky Mountain Montane Riparian Systems,Cool Swamp
+713,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Cool Swamp
+714,Northern Rocky Mountain Conifer Swamp,Cool Swamp
+715,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,Temperate Coniferous Forest
+716,Rocky Mountain Poor-Site Lodgepole Pine Forest,Temperate Pine Forest
+719,Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Tundra
+720,North Pacific Oak Woodland,Temperate Oak Forest
+721,East Cascades Mesic Montane Mixed-Conifer Forest and Woodland,Temperate Coniferous Forest
+722,North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,Temperate Coniferous Forest
+723,North Pacific Hypermaritime Sitka Spruce Forest,Temperate Coniferous Forest
+724,North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,Temperate Coniferous Forest
+725,North Pacific Maritime Mesic Subalpine Parkland,Boreal/Subalpine Forest
+726,North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,Temperate Coniferous Forest
+727,North Pacific Mountain Hemlock Forest - Wet,Boreal/Subalpine Forest
+728,North Pacific Mountain Hemlock Forest - Xeric,Boreal/Subalpine Forest
+729,North Pacific Mesic Western Hemlock-Silver Fir Forest,Temperate Coniferous Forest
+730,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest,Temperate Pine Forest
+731,Northern Rocky Mountain Subalpine Woodland and Parkland,Boreal/Subalpine Forest
+732,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Mesic,Temperate Pine Forest
+733,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+734,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+735,East Cascades Oak-Ponderosa Pine Forest and Woodland,Temperate Pine Forest
+736,North Pacific Broadleaf Landslide Forest and Shrubland,Temperate Coniferous Forest
+737,Columbia Plateau Scabland Shrubland,Cool Desert
+738,North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow,Tundra
+739,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+740,North Pacific Avalanche Chute Shrubland,Freshwater Marsh
+741,North Pacific Montane Shrubland,Cool Xeric Woodland
+742,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Cool Xeric Woodland
+743,Willamette Valley Upland Prairie and Savanna,Temperate Grassland
+744,Columbia Plateau Steppe and Grassland,Cool Desert
+745,Columbia Plateau Low Sagebrush Steppe,Cool Desert
+746,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+747,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+748,North Pacific Montane Grassland,Temperate Grassland
+749,Inter-Mountain Basins Montane Riparian Systems,Cool Swamp
+750,North Pacific Lowland Riparian Forest and Shrubland,Cool Swamp
+751,North Pacific Swamp Systems,Cool Swamp
+752,North Pacific Montane Riparian Woodland and Shrubland - Wet,Cool Swamp
+753,North Pacific Montane Riparian Woodland and Shrubland - Dry,Cool Swamp
+754,Northern Rocky Mountain Foothill Conifer Wooded Steppe,Temperate Pine Forest
+755,Rocky Mountain Poor-Site Lodgepole Pine Forest,Temperate Pine Forest
+756,North Pacific Alpine and Subalpine Dry Grassland,Temperate Grassland
+757,North Pacific Wooded Volcanic Flowage,Temperate Coniferous Forest
+758,North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest,Temperate Coniferous Forest
+759,North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest,Temperate Coniferous Forest
+760,North Pacific Oak Woodland,Temperate Oak Forest
+761,California Coastal Redwood Forest,Subtropical Mixed Forest
+762,Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,Temperate Coniferous Forest
+763,Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,Temperate Coniferous Forest
+764,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,Temperate Pine Forest
+765,Mediterranean California Mesic Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+766,Mediterranean California Mixed Oak Woodland,Warm Xeric Woodland
+767,Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,Warm Xeric Woodland
+768,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,Temperate Pine Forest
+769,Mediterranean California Red Fir Forest,Boreal/Subalpine Forest
+770,North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,Temperate Coniferous Forest
+771,North Pacific Hypermaritime Sitka Spruce Forest,Temperate Coniferous Forest
+772,North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,Temperate Coniferous Forest
+773,North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,Temperate Coniferous Forest
+774,Mediterranean California Mixed Evergreen Forest,Subtropical Mixed Forest
+775,East Cascades Oak-Ponderosa Pine Forest and Woodland,Temperate Pine Forest
+776,North Pacific Broadleaf Landslide Forest and Shrubland,Temperate Coniferous Forest
+777,Willamette Valley Upland Prairie and Savanna,Temperate Grassland
+778,Northern California Coastal Scrub,Chaparral
+779,California Northern Coastal Grassland,Temperate Grassland
+780,California Montane Riparian Systems,Cool Swamp
+781,North Pacific Lowland Riparian Forest and Shrubland,Cool Swamp
+782,North Pacific Swamp Systems,Cool Swamp
+783,North Pacific Montane Riparian Woodland and Shrubland - Wet,Cool Swamp
+784,North Pacific Montane Riparian Woodland and Shrubland - Dry,Cool Swamp
+785,Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,Chaparral
+786,North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest,Temperate Coniferous Forest
+790,North Pacific Oak Woodland,Temperate Oak Forest
+791,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+792,Columbia Plateau Western Juniper Woodland and Savanna,Cool Xeric Woodland
+793,East Cascades Mesic Montane Mixed-Conifer Forest and Woodland,Temperate Coniferous Forest
+794,Great Basin Pinyon-Juniper Woodland,Cool Xeric Woodland
+795,Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,Temperate Coniferous Forest
+796,Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,Temperate Coniferous Forest
+797,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,Temperate Pine Forest
+798,Mediterranean California Mesic Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+799,Mediterranean California Mixed Oak Woodland,Warm Xeric Woodland
+800,Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,Warm Xeric Woodland
+801,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,Temperate Pine Forest
+802,Mediterranean California Red Fir Forest,Boreal/Subalpine Forest
+803,Mediterranean California Subalpine Woodland,Boreal/Subalpine Forest
+804,Mediterranean California Mesic Serpentine Woodland and Chaparral,Warm Xeric Woodland
+805,North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,Temperate Coniferous Forest
+806,North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,Temperate Coniferous Forest
+807,North Pacific Maritime Mesic Subalpine Parkland,Boreal/Subalpine Forest
+808,North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,Temperate Coniferous Forest
+809,North Pacific Mountain Hemlock Forest - Wet,Boreal/Subalpine Forest
+810,North Pacific Mountain Hemlock Forest - Xeric,Boreal/Subalpine Forest
+811,North Pacific Mesic Western Hemlock-Silver Fir Forest,Temperate Coniferous Forest
+812,Mediterranean California Mixed Evergreen Forest,Subtropical Mixed Forest
+813,Northern California Mesic Subalpine Woodland,Boreal/Subalpine Forest
+814,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest,Temperate Pine Forest
+815,Northern Rocky Mountain Subalpine Woodland and Parkland,Boreal/Subalpine Forest
+816,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Mesic,Temperate Pine Forest
+817,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Xeric,Temperate Pine Forest
+818,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+819,Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland,Boreal/Subalpine Forest
+820,East Cascades Oak-Ponderosa Pine Forest and Woodland,Temperate Pine Forest
+821,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Cool Xeric Woodland
+822,North Pacific Broadleaf Landslide Forest and Shrubland,Temperate Coniferous Forest
+823,North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow,Tundra
+824,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+825,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+826,California Mesic Chaparral,Chaparral
+827,California Montane Woodland and Chaparral,Chaparral
+828,Great Basin Semi-Desert Chaparral,Chaparral
+829,Northern and Central California Dry-Mesic Chaparral,Chaparral
+830,California Lower Montane Blue Oak-Foothill Pine Woodland and Savanna,Warm Xeric Woodland
+831,Willamette Valley Upland Prairie and Savanna,Temperate Grassland
+832,Columbia Plateau Steppe and Grassland,Cool Desert
+833,Columbia Plateau Low Sagebrush Steppe,Cool Desert
+834,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+835,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+836,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Cool Desert
+837,Inter-Mountain Basins Semi-Desert Grassland,Cool Desert
+838,California Montane Riparian Systems,Cool Swamp
+839,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+840,Inter-Mountain Basins Montane Riparian Systems,Cool Swamp
+841,North Pacific Lowland Riparian Forest and Shrubland,Cool Swamp
+842,North Pacific Montane Riparian Woodland and Shrubland - Wet,Cool Swamp
+843,North Pacific Montane Riparian Woodland and Shrubland - Dry,Cool Swamp
+844,Northern Rocky Mountain Foothill Conifer Wooded Steppe,Temperate Pine Forest
+845,Rocky Mountain Poor-Site Lodgepole Pine Forest,Temperate Pine Forest
+846,Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,Chaparral
+847,North Pacific Alpine and Subalpine Dry Grassland,Temperate Grassland
+848,Sierran-Intermontane Desert Western White Pine-White Fir Woodland,Temperate Coniferous Forest
+849,North Pacific Wooded Volcanic Flowage,Temperate Coniferous Forest
+850,North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest,Temperate Coniferous Forest
+851,North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest,Temperate Coniferous Forest
+853,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+854,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,Temperate Pine Forest
+855,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Lodgepole Pine,Temperate Pine Forest
+856,Northern Rocky Mountain Subalpine Woodland and Parkland,Boreal/Subalpine Forest
+857,Rocky Mountain Foothill Limber Pine-Juniper Woodland,Cool Xeric Woodland
+858,Southern Rocky Mountain Ponderosa Pine Woodland,Temperate Pine Forest
+859,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+860,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+861,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Boreal/Subalpine Forest
+862,Northwestern Great Plains Shrubland,Temperate Grassland
+863,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Cool Xeric Woodland
+864,Southern Rocky Mountain Ponderosa Pine Savanna,Temperate Pine Forest
+865,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+866,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+867,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Temperate Grassland
+868,Northern Rocky Mountain Subalpine-Upper Montane Grassland,Temperate Grassland
+869,Northwestern Great Plains Mixedgrass Prairie,Temperate Grassland
+870,Rocky Mountain Subalpine-Montane Mesic Meadow,Temperate Grassland
+871,Western Great Plains Sand Prairie,Temperate Grassland
+872,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+873,Rocky Mountain Montane Riparian Systems,Cool Swamp
+874,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Cool Swamp
+875,Western Great Plains Floodplain Systems,Cool Swamp
+876,Western Great Plains Wooded Draw and Ravine,Cool Swamp
+877,Western Great Plains Depressional Wetland Systems,Freshwater Marsh
+879,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+880,Colorado Plateau Pinyon-Juniper Woodland,Cool Xeric Woodland
+881,Rocky Mountain Foothill Limber Pine-Juniper Woodland,Cool Xeric Woodland
+882,Rocky Mountain Lodgepole Pine Forest,Temperate Pine Forest
+883,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+884,Southern Rocky Mountain Ponderosa Pine Woodland,Temperate Pine Forest
+885,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+886,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+887,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Boreal/Subalpine Forest
+888,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Cool Xeric Woodland
+889,Inter-Mountain Basins Mat Saltbush Shrubland,Salt Desert
+890,Wyoming Basins Dwarf Sagebrush Shrubland and Steppe,Cool Desert
+891,Inter-Mountain Basins Big Sagebrush Shrubland - Basin Big Sagebrush,Cool Desert
+892,Inter-Mountain Basins Big Sagebrush Shrubland - Wyoming Big Sagebrush,Cool Desert
+893,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+894,Rocky Mountain Lower Montane-Foothill Shrubland - No True Mountain Mahogany,Cool Xeric Woodland
+895,Rocky Mountain Lower Montane-Foothill Shrubland - True Mountain Mahogany,Cool Xeric Woodland
+896,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Cool Xeric Woodland
+897,Inter-Mountain Basins Juniper Savanna,Cool Xeric Woodland
+898,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+899,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Cool Desert
+900,Inter-Mountain Basins Semi-Desert Grassland,Cool Desert
+901,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Temperate Grassland
+903,Rocky Mountain Subalpine-Montane Mesic Meadow,Temperate Grassland
+904,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+905,Rocky Mountain Montane Riparian Systems,Cool Swamp
+906,Western Great Plains Floodplain Systems,Cool Swamp
+907,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,Temperate Coniferous Forest
+910,Central and Southern California Mixed Evergreen Woodland,Warm Xeric Woodland
+911,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,Temperate Pine Forest
+912,Mediterranean California Mixed Oak Woodland,Warm Xeric Woodland
+913,Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,Warm Xeric Woodland
+914,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,Temperate Pine Forest
+915,Mediterranean California Mixed Evergreen Forest,Subtropical Mixed Forest
+916,Sonora-Mojave Mixed Salt Desert Scrub,Salt Desert
+917,California Mesic Chaparral,Chaparral
+918,Northern and Central California Dry-Mesic Chaparral,Chaparral
+919,Sonora-Mojave Semi-Desert Chaparral,Chaparral
+920,California Central Valley Mixed Oak Savanna,Warm Xeric Woodland
+921,California Lower Montane Blue Oak-Foothill Pine Woodland and Savanna,Warm Xeric Woodland
+922,California Central Valley and Southern Coastal Grassland,Temperate Grassland
+923,North Pacific Montane Grassland,Temperate Grassland
+924,California Central Valley Riparian Woodland and Shrubland,Warm Swamp
+925,California Montane Riparian Systems,Cool Swamp
+926,Pacific Coastal Marsh Systems,Freshwater Marsh
+927,North American Warm Desert Sparsely Vegetated Systems,Warm Desert
+928,Central and Southern California Mixed Evergreen Woodland,Warm Xeric Woodland
+929,California Coastal Redwood Forest,Subtropical Mixed Forest
+930,Great Basin Pinyon-Juniper Woodland,Cool Xeric Woodland
+931,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,Temperate Pine Forest
+932,Mediterranean California Mesic Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+933,Mediterranean California Mixed Oak Woodland,Warm Xeric Woodland
+934,Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,Warm Xeric Woodland
+935,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,Temperate Pine Forest
+936,Mediterranean California Mesic Serpentine Woodland and Chaparral,Warm Xeric Woodland
+937,Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland,Boreal/Subalpine Forest
+938,Mojave Mid-Elevation Mixed Desert Scrub,Cool Desert
+939,Sonora-Mojave Creosotebush-White Bursage Desert Scrub,Warm Desert
+940,Sonora-Mojave Mixed Salt Desert Scrub,Salt Desert
+941,Southern California Coastal Scrub,Chaparral
+942,California Maritime Chaparral,Chaparral
+943,California Mesic Chaparral,Chaparral
+944,California Montane Woodland and Chaparral,Chaparral
+945,California Xeric Serpentine Chaparral,Chaparral
+946,Northern and Central California Dry-Mesic Chaparral,Chaparral
+947,Sonora-Mojave Semi-Desert Chaparral,Chaparral
+948,Sonoran Paloverde-Mixed Cacti Desert Scrub,Warm Desert
+949,Southern California Dry-Mesic Chaparral,Chaparral
+950,California Central Valley Mixed Oak Savanna,Warm Xeric Woodland
+951,California Coastal Live Oak Woodland and Savanna,Warm Xeric Woodland
+952,California Lower Montane Blue Oak-Foothill Pine Woodland and Savanna,Warm Xeric Woodland
+953,Southern California Oak Woodland and Savanna,Warm Xeric Woodland
+954,Northern California Coastal Scrub,Chaparral
+955,California Central Valley and Southern Coastal Grassland,Temperate Grassland
+956,California Mesic Serpentine Grassland,Temperate Grassland
+957,California Northern Coastal Grassland,Temperate Grassland
+958,California Central Valley Riparian Woodland and Shrubland,Warm Swamp
+959,California Montane Riparian Systems,Cool Swamp
+960,North American Warm Desert Riparian Systems,Warm Swamp
+961,Pacific Coastal Marsh Systems,Freshwater Marsh
+962,California Coastal Closed-Cone Conifer Forest and Woodland,Warm Xeric Woodland
+964,Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Tundra
+965,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+966,Rocky Mountain Bigtooth Maple Ravine Woodland,Boreal/Subalpine Forest
+967,Colorado Plateau Pinyon-Juniper Woodland,Cool Xeric Woodland
+968,Great Basin Pinyon-Juniper Woodland,Cool Xeric Woodland
+969,Rocky Mountain Foothill Limber Pine-Juniper Woodland,Cool Xeric Woodland
+970,Rocky Mountain Lodgepole Pine Forest,Temperate Pine Forest
+971,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+972,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+973,Southern Rocky Mountain Ponderosa Pine Woodland,Temperate Pine Forest
+974,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+975,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+976,Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland,Boreal/Subalpine Forest
+977,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland - Low Elevation,Temperate Coniferous Forest
+978,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland - High Elevation,Boreal/Subalpine Forest
+979,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Cool Xeric Woodland
+980,Colorado Plateau Mixed Low Sagebrush Shrubland,Cool Desert
+981,Rocky Mountain Alpine Dwarf-Shrubland,Tundra
+982,Colorado Plateau Blackbrush-Mormon-tea Shrubland,Cool Desert
+983,Great Basin Xeric Mixed Sagebrush Shrubland,Cool Desert
+984,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+985,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+986,Rocky Mountain Lower Montane-Foothill Shrubland,Cool Xeric Woodland
+987,Southern Colorado Plateau Sand Shrubland,Cool Desert
+988,Colorado Plateau Pinyon-Juniper Shrubland,Cool Xeric Woodland
+989,Great Basin Semi-Desert Chaparral,Chaparral
+990,Rocky Mountain Gambel Oak-Mixed Montane Shrubland  - Continuous,Cool Xeric Woodland
+991,Rocky Mountain Gambel Oak-Mixed Montane Shrubland - Patchy,Cool Xeric Woodland
+992,Inter-Mountain Basins Juniper Savanna,Cool Xeric Woodland
+993,Southern Rocky Mountain Ponderosa Pine Savanna,Temperate Pine Forest
+994,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+995,Inter-Mountain Basins Montane Sagebrush Steppe - Mountain Big Sagebrush,Cool Desert
+996,Inter-Mountain Basins Montane Sagebrush Steppe - Low Sagebrush,Cool Desert
+997,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Cool Desert
+998,Inter-Mountain Basins Semi-Desert Grassland,Cool Desert
+999,Rocky Mountain Alpine Turf,Tundra
+1000,Rocky Mountain Subalpine-Montane Mesic Meadow,Temperate Grassland
+1001,Southern Rocky Mountain Montane-Subalpine Grassland,Temperate Grassland
+1002,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+1003,Inter-Mountain Basins Montane Riparian Systems,Cool Swamp
+1004,Rocky Mountain Montane Riparian Systems,Cool Swamp
+1005,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Cool Swamp
+1007,North American Warm Desert Sparsely Vegetated Systems,Warm Desert
+1008,Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Tundra
+1009,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+1010,Colorado Plateau Pinyon-Juniper Woodland,Cool Xeric Woodland
+1011,Rocky Mountain Foothill Limber Pine-Juniper Woodland,Cool Xeric Woodland
+1012,Rocky Mountain Lodgepole Pine Forest,Temperate Pine Forest
+1013,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1014,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1015,Southern Rocky Mountain Ponderosa Pine Woodland,Temperate Pine Forest
+1016,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+1017,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+1018,Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland,Boreal/Subalpine Forest
+1019,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland - Low Elevation,Temperate Coniferous Forest
+1020,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland - High Elevation,Boreal/Subalpine Forest
+1021,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Cool Xeric Woodland
+1022,Colorado Plateau Mixed Low Sagebrush Shrubland,Cool Desert
+1023,Inter-Mountain Basins Mat Saltbush Shrubland,Salt Desert
+1024,Colorado Plateau Blackbrush-Mormon-tea Shrubland,Cool Desert
+1025,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+1026,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+1027,Mojave Mid-Elevation Mixed Desert Scrub,Cool Desert
+1028,Rocky Mountain Lower Montane-Foothill Shrubland,Cool Xeric Woodland
+1029,Southern Colorado Plateau Sand Shrubland,Cool Desert
+1030,Colorado Plateau Pinyon-Juniper Shrubland,Cool Xeric Woodland
+1031,Great Basin Semi-Desert Chaparral,Chaparral
+1032,Mogollon Chaparral,Chaparral
+1033,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Cool Xeric Woodland
+1034,Inter-Mountain Basins Juniper Savanna,Cool Xeric Woodland
+1035,Southern Rocky Mountain Ponderosa Pine Savanna,Temperate Pine Forest
+1036,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+1037,Inter-Mountain Basins Montane Sagebrush Steppe - Mountain Big Sagebrush,Cool Desert
+1038,Inter-Mountain Basins Montane Sagebrush Steppe - Low Sagebrush,Cool Desert
+1039,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Cool Desert
+1040,Inter-Mountain Basins Semi-Desert Grassland,Cool Desert
+1041,Southern Rocky Mountain Montane-Subalpine Grassland,Temperate Grassland
+1042,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+1043,Rocky Mountain Montane Riparian Systems,Cool Swamp
+1044,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Cool Swamp
+1046,North American Warm Desert Sparsely Vegetated Systems,Warm Desert
+1047,Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Tundra
+1048,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+1049,Columbia Plateau Western Juniper Woodland and Savanna,Cool Xeric Woodland
+1050,Great Basin Pinyon-Juniper Woodland,Cool Xeric Woodland
+1051,Inter-Mountain Basins Subalpine Limber-Bristlecone Pine Woodland,Boreal/Subalpine Forest
+1054,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,Temperate Pine Forest
+1055,Mediterranean California Subalpine Woodland,Boreal/Subalpine Forest
+1056,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1057,Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland,Boreal/Subalpine Forest
+1058,Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland,Boreal/Subalpine Forest
+1059,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Cool Xeric Woodland
+1060,Great Basin Xeric Mixed Sagebrush Shrubland,Cool Desert
+1061,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+1062,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+1063,Mojave Mid-Elevation Mixed Desert Scrub,Cool Desert
+1064,Sonora-Mojave Creosotebush-White Bursage Desert Scrub,Warm Desert
+1065,Sonora-Mojave Mixed Salt Desert Scrub,Salt Desert
+1066,Great Basin Semi-Desert Chaparral,Chaparral
+1067,Columbia Plateau Low Sagebrush Steppe,Cool Desert
+1068,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+1069,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+1070,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Cool Desert
+1071,Inter-Mountain Basins Semi-Desert Grassland,Cool Desert
+1072,Rocky Mountain Alpine Turf,Tundra
+1073,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+1074,Inter-Mountain Basins Montane Riparian Systems,Cool Swamp
+1075,Rocky Mountain Montane Riparian Systems,Cool Swamp
+1076,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Cool Swamp
+1078,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+1079,Rocky Mountain Bigtooth Maple Ravine Woodland,Boreal/Subalpine Forest
+1080,Colorado Plateau Pinyon-Juniper Woodland,Cool Xeric Woodland
+1081,Great Basin Pinyon-Juniper Woodland,Cool Xeric Woodland
+1082,Inter-Mountain Basins Subalpine Limber-Bristlecone Pine Woodland,Boreal/Subalpine Forest
+1083,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1084,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1085,Southern Rocky Mountain Ponderosa Pine Woodland,Temperate Pine Forest
+1086,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+1087,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Boreal/Subalpine Forest
+1088,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Cool Xeric Woodland
+1089,Colorado Plateau Mixed Low Sagebrush Shrubland,Cool Desert
+1090,Great Basin Xeric Mixed Sagebrush Shrubland,Cool Desert
+1091,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+1092,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+1093,Mojave Mid-Elevation Mixed Desert Scrub,Cool Desert
+1094,Rocky Mountain Lower Montane-Foothill Shrubland,Cool Xeric Woodland
+1095,Sonora-Mojave Creosotebush-White Bursage Desert Scrub,Warm Desert
+1096,Great Basin Semi-Desert Chaparral,Chaparral
+1097,Mogollon Chaparral,Chaparral
+1098,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Cool Xeric Woodland
+1099,Sonora-Mojave Semi-Desert Chaparral,Chaparral
+1100,Inter-Mountain Basins Juniper Savanna,Cool Xeric Woodland
+1101,Columbia Plateau Low Sagebrush Steppe,Cool Desert
+1102,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+1103,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+1104,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Cool Desert
+1105,Inter-Mountain Basins Semi-Desert Grassland,Cool Desert
+1106,Rocky Mountain Subalpine-Montane Mesic Meadow,Temperate Grassland
+1107,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+1108,Inter-Mountain Basins Montane Riparian Systems,Cool Swamp
+1109,Rocky Mountain Montane Riparian Systems,Cool Swamp
+1110,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Cool Swamp
+1112,North American Warm Desert Sparsely Vegetated Systems,Warm Desert
+1113,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+1114,Colorado Plateau Pinyon-Juniper Woodland,Cool Xeric Woodland
+1115,Madrean Encinal,Warm Xeric Woodland
+1116,Madrean Lower Montane Pine-Oak Forest and Woodland,Warm Xeric Woodland
+1117,Madrean Pinyon-Juniper Woodland,Warm Xeric Woodland
+1118,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1119,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1120,Southern Rocky Mountain Ponderosa Pine Woodland,Temperate Pine Forest
+1121,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+1122,Southern Rocky Mountain Pinyon-Juniper Woodland,Cool Xeric Woodland
+1123,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland - Low Elevation,Temperate Coniferous Forest
+1124,Colorado Plateau Mixed Low Sagebrush Shrubland,Cool Desert
+1125,Inter-Mountain Basins Mat Saltbush Shrubland,Salt Desert
+1126,Colorado Plateau Blackbrush-Mormon-tea Shrubland,Cool Desert
+1127,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+1128,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+1129,Southern Colorado Plateau Sand Shrubland,Cool Desert
+1130,Colorado Plateau Pinyon-Juniper Shrubland,Cool Xeric Woodland
+1131,Mogollon Chaparral,Chaparral
+1132,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Cool Xeric Woodland
+1133,Inter-Mountain Basins Juniper Savanna,Cool Xeric Woodland
+1134,Madrean Juniper Savanna,Warm Xeric Woodland
+1135,Southern Rocky Mountain Ponderosa Pine Savanna,Temperate Pine Forest
+1136,Southern Rocky Mountain Juniper Woodland and Savanna,Cool Xeric Woodland
+1137,Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,Warm Desert
+1138,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+1139,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Cool Desert
+1140,Inter-Mountain Basins Semi-Desert Grassland,Cool Desert
+1141,Rocky Mountain Subalpine-Montane Mesic Meadow,Temperate Grassland
+1142,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+1143,Rocky Mountain Montane Riparian Systems,Cool Swamp
+1145,Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Tundra
+1146,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+1147,Colorado Plateau Pinyon-Juniper Woodland,Cool Xeric Woodland
+1148,Rocky Mountain Foothill Limber Pine-Juniper Woodland,Cool Xeric Woodland
+1149,Rocky Mountain Lodgepole Pine Forest,Temperate Pine Forest
+1150,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1151,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1152,Southern Rocky Mountain Ponderosa Pine Woodland,Temperate Pine Forest
+1153,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+1154,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+1155,Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland,Boreal/Subalpine Forest
+1156,Southern Rocky Mountain Pinyon-Juniper Woodland,Cool Xeric Woodland
+1157,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Boreal/Subalpine Forest
+1158,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Cool Xeric Woodland
+1159,Colorado Plateau Mixed Low Sagebrush Shrubland,Cool Desert
+1160,Rocky Mountain Alpine Dwarf-Shrubland,Tundra
+1161,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+1162,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+1163,Rocky Mountain Lower Montane-Foothill Shrubland,Cool Xeric Woodland
+1164,Colorado Plateau Pinyon-Juniper Shrubland,Cool Xeric Woodland
+1165,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Cool Xeric Woodland
+1166,Inter-Mountain Basins Juniper Savanna,Cool Xeric Woodland
+1167,Southern Rocky Mountain Ponderosa Pine Savanna,Temperate Pine Forest
+1168,Southern Rocky Mountain Juniper Woodland and Savanna,Cool Xeric Woodland
+1169,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+1170,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+1171,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Cool Desert
+1172,Inter-Mountain Basins Semi-Desert Grassland,Cool Desert
+1173,Rocky Mountain Alpine Fell-Field,Tundra
+1174,Rocky Mountain Alpine Turf,Tundra
+1175,Rocky Mountain Subalpine-Montane Mesic Meadow,Temperate Grassland
+1176,Southern Rocky Mountain Montane-Subalpine Grassland,Temperate Grassland
+1177,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+1178,Rocky Mountain Montane Riparian Systems,Cool Swamp
+1179,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Cool Swamp
+1180,North American Warm Desert Sparsely Vegetated Systems,Warm Desert
+1181,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+1182,Colorado Plateau Pinyon-Juniper Woodland,Cool Xeric Woodland
+1183,Great Basin Pinyon-Juniper Woodland,Cool Xeric Woodland
+1184,Madrean Encinal,Warm Xeric Woodland
+1185,Madrean Lower Montane Pine-Oak Forest and Woodland,Warm Xeric Woodland
+1186,Madrean Pinyon-Juniper Woodland,Warm Xeric Woodland
+1187,Madrean Upper Montane Conifer-Oak Forest and Woodland,Warm Xeric Woodland
+1188,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1189,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1190,Southern Rocky Mountain Ponderosa Pine Woodland,Temperate Pine Forest
+1191,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+1192,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+1193,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Boreal/Subalpine Forest
+1194,Chihuahuan Succulent Desert Scrub,Warm Desert
+1195,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+1196,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+1197,Mojave Mid-Elevation Mixed Desert Scrub,Cool Desert
+1198,Sonora-Mojave Creosotebush-White Bursage Desert Scrub,Warm Desert
+1199,Sonoran Mid-Elevation Desert Scrub,Warm Desert
+1200,Chihuahuan Mixed Desert and Thorn Scrub,Warm Desert
+1201,Colorado Plateau Pinyon-Juniper Shrubland,Cool Xeric Woodland
+1202,Mogollon Chaparral,Chaparral
+1203,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Cool Xeric Woodland
+1204,Sonoran Paloverde-Mixed Cacti Desert Scrub,Warm Desert
+1205,Inter-Mountain Basins Juniper Savanna,Cool Xeric Woodland
+1206,Madrean Juniper Savanna,Warm Xeric Woodland
+1207,Southern Rocky Mountain Ponderosa Pine Savanna,Temperate Pine Forest
+1208,Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,Warm Desert
+1209,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Cool Desert
+1210,Inter-Mountain Basins Semi-Desert Grassland,Cool Desert
+1211,Southern Rocky Mountain Montane-Subalpine Grassland,Temperate Grassland
+1212,North American Warm Desert Riparian Systems,Warm Swamp
+1213,North American Warm Desert Riparian Systems - Stringers,Warm Swamp
+1214,Rocky Mountain Montane Riparian Systems,Cool Swamp
+1215,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Cool Swamp
+1217,Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Tundra
+1218,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+1219,Rocky Mountain Bigtooth Maple Ravine Woodland,Boreal/Subalpine Forest
+1220,Columbia Plateau Western Juniper Woodland and Savanna,Cool Xeric Woodland
+1221,Great Basin Pinyon-Juniper Woodland,Cool Xeric Woodland
+1222,Northern Rocky Mountain Subalpine Woodland and Parkland,Boreal/Subalpine Forest
+1223,Rocky Mountain Lodgepole Pine Forest,Temperate Pine Forest
+1224,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1225,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1226,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+1227,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+1228,Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland,Boreal/Subalpine Forest
+1229,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Boreal/Subalpine Forest
+1230,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Cool Xeric Woodland
+1231,Great Basin Xeric Mixed Sagebrush Shrubland,Cool Desert
+1232,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+1233,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+1234,Rocky Mountain Lower Montane-Foothill Shrubland,Cool Xeric Woodland
+1235,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Cool Xeric Woodland
+1236,Columbia Plateau Steppe and Grassland,Cool Desert
+1237,Columbia Plateau Low Sagebrush Steppe,Cool Desert
+1238,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+1239,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+1240,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Cool Desert
+1241,Inter-Mountain Basins Semi-Desert Grassland,Cool Desert
+1243,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+1244,Inter-Mountain Basins Montane Riparian Systems,Cool Swamp
+1245,Rocky Mountain Montane Riparian Systems,Cool Swamp
+1246,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Cool Swamp
+1247,Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Tundra
+1249,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+1250,Northwestern Great Plains Highland White Spruce Woodland,Temperate Coniferous Forest
+1251,Rocky Mountain Foothill Limber Pine-Juniper Woodland,Cool Xeric Woodland
+1252,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1253,Southern Rocky Mountain Ponderosa Pine Woodland,Temperate Pine Forest
+1254,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+1255,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+1256,Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland,Boreal/Subalpine Forest
+1257,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Boreal/Subalpine Forest
+1258,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Cool Xeric Woodland
+1259,Inter-Mountain Basins Mat Saltbush Shrubland,Salt Desert
+1260,Wyoming Basins Dwarf Sagebrush Shrubland and Steppe,Cool Desert
+1261,Northwestern Great Plains Shrubland,Temperate Grassland
+1262,Rocky Mountain Lower Montane-Foothill Shrubland,Cool Xeric Woodland
+1263,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Cool Xeric Woodland
+1264,Southern Rocky Mountain Ponderosa Pine Savanna,Temperate Pine Forest
+1265,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+1266,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+1267,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Temperate Grassland
+1268,Northern Rocky Mountain Subalpine-Upper Montane Grassland,Temperate Grassland
+1269,Northwestern Great Plains Mixedgrass Prairie,Temperate Grassland
+1270,Rocky Mountain Subalpine-Montane Mesic Meadow,Temperate Grassland
+1271,Western Great Plains Sand Prairie,Temperate Grassland
+1272,Western Great Plains Shortgrass Prairie,Temperate Grassland
+1273,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+1274,Rocky Mountain Montane Riparian Systems,Cool Swamp
+1275,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Cool Swamp
+1276,Western Great Plains Floodplain Systems,Cool Swamp
+1277,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,Temperate Coniferous Forest
+1278,Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna - Low Elevation Woodland,Temperate Pine Forest
+1279,Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna - Savanna,Temperate Pine Forest
+1280,Western Great Plains Wooded Draw and Ravine,Cool Swamp
+1282,Northwestern Great Plains Shrubland,Temperate Grassland
+1283,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+1284,Northwestern Great Plains Mixedgrass Prairie,Temperate Grassland
+1285,Western Great Plains Sand Prairie,Temperate Grassland
+1286,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+1287,Western Great Plains Floodplain Systems,Cool Swamp
+1288,Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna - Low Elevation Woodland,Temperate Pine Forest
+1289,Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna - Savanna,Temperate Pine Forest
+1290,Western Great Plains Wooded Draw and Ravine,Cool Swamp
+1291,Great Plains Prairie Pothole,Freshwater Marsh
+1292,Western Great Plains Depressional Wetland Systems,Freshwater Marsh
+1293,Southern Coastal Plain Dry Upland Hardwood Forest,Subtropical Mixed Forest
+1294,Atlantic Coastal Plain Dry and Dry-Mesic Oak Forest - broadleaf evergreen,Subtropical Mixed Forest
+1295,Atlantic Coastal Plain Mesic Hardwood Forest - broadleaf evergreen,Subtropical Mixed Forest
+1296,Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland,Tropical Pine Forest
+1297,Atlantic Coastal Plain Upland Longleaf Pine Woodland,Tropical Pine Forest
+1298,East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland,Tropical Pine Forest
+1299,Florida Longleaf Pine Sandhill,Tropical Pine Forest
+1300,Southern Coastal Plain Mesic Slope Forest,Subtropical Mixed Forest
+1301,East Gulf Coastal Plain Maritime Forest,Subtropical Mixed Forest
+1302,Southern Atlantic Coastal Plain Maritime Forest,Subtropical Mixed Forest
+1303,Florida Peninsula Inland Scrub,Tropical/Subtropical Savanna
+1304,Southern Atlantic Coastal Plain Wet Pine Savanna and Flatwoods,Tropical Pine Forest
+1305,Central Florida Pine Flatwoods,Tropical Pine Forest
+1306,East Gulf Coastal Plain Near-Coast Pine Flatwoods,Tropical Pine Forest
+1307,Southern Coastal Plain Nonriverine Cypress Dome,Warm Swamp
+1308,Southern Coastal Plain Seepage Swamp and Baygall,Warm Swamp
+1309,Atlantic Coastal Plain Streamhead Seepage Swamp-Pocosin-Baygall,Warm Swamp
+1310,Gulf and Atlantic Coastal Plain Floodplain Systems,Warm Swamp
+1311,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Warm Swamp
+1312,Gulf and Atlantic Coastal Plain Swamp Systems,Warm Swamp
+1313,East Gulf Coastal Plain Savanna and Wet Prairie,Freshwater Marsh
+1314,Floridian Highlands Freshwater Marsh,Freshwater Marsh
+1315,Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Salt Marsh
+1316,Southern Coastal Plain Dry Upland Hardwood Forest,Subtropical Mixed Forest
+1317,South Florida Hardwood Hammock,Tropical Dry Forest
+1318,Southwest Florida Coastal Strand and Maritime Hammock,Tropical Dry Forest
+1319,Southeast Florida Coastal Strand and Maritime Hammock,Tropical Dry Forest
+1320,Florida Longleaf Pine Sandhill,Tropical Pine Forest
+1321,South Florida Pine Rockland,Tropical Pine Forest
+1322,Florida Peninsula Inland Scrub,Tropical/Subtropical Savanna
+1323,Florida Dry Prairie,Tropical/Subtropical Savanna
+1324,South Florida Dwarf Cypress Savanna,Warm Swamp
+1325,South Florida Pine Flatwoods,Tropical Pine Forest
+1326,South Florida Cypress Dome,Warm Swamp
+1327,Central Florida Pine Flatwoods,Tropical Pine Forest
+1328,East Gulf Coastal Plain Near-Coast Pine Flatwoods,Tropical Pine Forest
+1329,Southern Coastal Plain Nonriverine Cypress Dome,Warm Swamp
+1330,Southern Coastal Plain Seepage Swamp and Baygall,Warm Swamp
+1331,Caribbean Coastal Wetland Systems,Mangroves
+1332,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Warm Swamp
+1333,Caribbean Swamp Systems,Warm Swamp
+1334,Gulf and Atlantic Coastal Plain Swamp Systems,Warm Swamp
+1335,South Florida Everglades Sawgrass Marsh,Freshwater Marsh
+1336,Floridian Highlands Freshwater Marsh,Freshwater Marsh
+1337,Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Salt Marsh
+1338,North American Warm Desert Sparsely Vegetated Systems,Warm Desert
+1339,Colorado Plateau Pinyon-Juniper Woodland,Cool Xeric Woodland
+1340,Madrean Encinal,Warm Xeric Woodland
+1341,Madrean Lower Montane Pine-Oak Forest and Woodland,Warm Xeric Woodland
+1342,Madrean Pinyon-Juniper Woodland,Warm Xeric Woodland
+1343,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1344,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1345,Southern Rocky Mountain Ponderosa Pine Woodland,Temperate Pine Forest
+1346,Southern Rocky Mountain Pinyon-Juniper Woodland,Cool Xeric Woodland
+1347,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Boreal/Subalpine Forest
+1348,Chihuahuan Creosotebush Desert Scrub,Warm Desert
+1349,Chihuahuan Mixed Salt Desert Scrub,Warm Desert
+1350,Chihuahuan Succulent Desert Scrub,Warm Desert
+1351,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+1352,Sonora-Mojave Creosotebush-White Bursage Desert Scrub,Warm Desert
+1353,Sonora-Mojave Mixed Salt Desert Scrub,Salt Desert
+1354,Sonoran Mid-Elevation Desert Scrub,Warm Desert
+1355,Western Great Plains Sandhill Steppe,Temperate Grassland
+1356,Chihuahuan Mixed Desert Shrubland,Warm Desert
+1357,Chihuahuan Grama Grass-Creosote Steppe,Warm Desert
+1358,Madrean Oriental Chaparral,Chaparral
+1359,Mogollon Chaparral,Chaparral
+1360,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Cool Xeric Woodland
+1361,Sonora-Mojave Semi-Desert Chaparral,Chaparral
+1362,Sonoran Paloverde-Mixed Cacti Desert Scrub,Warm Desert
+1363,Madrean Juniper Savanna,Warm Xeric Woodland
+1364,Southern Rocky Mountain Juniper Woodland and Savanna,Cool Xeric Woodland
+1365,Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,Warm Desert
+1366,Chihuahuan Gypsophilous Grassland and Steppe,Warm Desert
+1367,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Cool Desert
+1368,Chihuahuan Sandy Plains Semi-Desert Grassland,Warm Desert
+1369,Inter-Mountain Basins Semi-Desert Grassland,Cool Desert
+1370,Southern Rocky Mountain Montane-Subalpine Grassland,Temperate Grassland
+1371,Western Great Plains Shortgrass Prairie,Temperate Grassland
+1372,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+1373,North American Warm Desert Riparian Systems,Warm Swamp
+1374,Rocky Mountain Montane Riparian Systems,Cool Swamp
+1375,Chihuahuan Loamy Plains Desert Grassland,Warm Desert
+1376,Chihuahuan-Sonoran Desert Bottomland and Swale Grassland,Warm Desert
+1377,North American Warm Desert Sparsely Vegetated Systems,Warm Desert
+1378,Madrean Lower Montane Pine-Oak Forest and Woodland,Warm Xeric Woodland
+1379,Madrean Pinyon-Juniper Woodland,Warm Xeric Woodland
+1380,Southern Rocky Mountain Ponderosa Pine Woodland,Temperate Pine Forest
+1381,Southern Rocky Mountain Pinyon-Juniper Woodland,Cool Xeric Woodland
+1382,Chihuahuan Creosotebush Desert Scrub,Warm Desert
+1383,Chihuahuan Mixed Salt Desert Scrub,Warm Desert
+1384,Chihuahuan Stabilized Coppice Dune and Sand Flat Scrub,Warm Desert
+1385,Chihuahuan Succulent Desert Scrub,Warm Desert
+1386,Rocky Mountain Lower Montane-Foothill Shrubland,Cool Xeric Woodland
+1387,Western Great Plains Sandhill Steppe,Temperate Grassland
+1388,Apacherian-Chihuahuan Mesquite Upland Scrub,Warm Desert
+1389,Chihuahuan Mixed Desert and Thorn Scrub,Warm Desert
+1390,Madrean Oriental Chaparral,Chaparral
+1391,Western Great Plains Mesquite Woodland and Shrubland,Temperate Grassland
+1392,Madrean Juniper Savanna,Warm Xeric Woodland
+1393,Southern Rocky Mountain Juniper Woodland and Savanna,Cool Xeric Woodland
+1394,Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,Warm Desert
+1395,Chihuahuan Gypsophilous Grassland and Steppe,Warm Desert
+1396,Southern Rocky Mountain Montane-Subalpine Grassland,Temperate Grassland
+1397,Western Great Plains Shortgrass Prairie,Temperate Grassland
+1398,North American Warm Desert Riparian Systems,Warm Swamp
+1399,Rocky Mountain Montane Riparian Systems,Cool Swamp
+1400,Edwards Plateau Limestone Shrubland,Temperate Grassland
+1401,Western Great Plains Depressional Wetland Systems - Playa,Salt Marsh
+1402,Chihuahuan Loamy Plains Desert Grassland,Warm Desert
+1403,Chihuahuan-Sonoran Desert Bottomland and Swale Grassland - Tobosa Grassland,Warm Desert
+1404,Chihuahuan-Sonoran Desert Bottomland and Swale Grassland - Alkali Sacaton,Warm Desert
+1405,Southern Rocky Mountain Ponderosa Pine Woodland,Temperate Pine Forest
+1406,Southern Rocky Mountain Pinyon-Juniper Woodland,Cool Xeric Woodland
+1407,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+1408,Inter-Mountain Basins Mixed Salt Desert Scrub,Salt Desert
+1409,Rocky Mountain Lower Montane-Foothill Shrubland,Cool Xeric Woodland
+1410,Western Great Plains Sandhill Steppe,Temperate Grassland
+1411,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Cool Xeric Woodland
+1412,Western Great Plains Mesquite Woodland and Shrubland,Temperate Grassland
+1413,Southern Rocky Mountain Ponderosa Pine Savanna,Temperate Pine Forest
+1414,Inter-Mountain Basins Montane Sagebrush Steppe,Cool Desert
+1415,Central Mixedgrass Prairie,Temperate Grassland
+1416,Western Great Plains Foothill and Piedmont Grassland,Temperate Grassland
+1417,Western Great Plains Shortgrass Prairie,Temperate Grassland
+1418,Rocky Mountain Montane Riparian Systems,Cool Swamp
+1419,Western Great Plains Floodplain Systems,Cool Swamp
+1420,Northwestern Great Plains Canyon,Cool Swamp
+1421,Western Great Plains Depressional Wetland Systems,Freshwater Marsh
+1423,Western Great Plains Sandhill Steppe,Temperate Grassland
+1424,Western Great Plains Mesquite Woodland and Shrubland,Temperate Grassland
+1425,Southern Rocky Mountain Juniper Woodland and Savanna,Cool Xeric Woodland
+1426,Central Mixedgrass Prairie,Temperate Grassland
+1427,Western Great Plains Sand Prairie,Temperate Grassland
+1428,Western Great Plains Shortgrass Prairie,Temperate Grassland
+1429,Western Great Plains Floodplain Systems,Cool Swamp
+1430,Edwards Plateau Limestone Shrubland,Temperate Grassland
+1431,Western Great Plains Depressional Wetland Systems - Playa,Salt Marsh
+1432,Western Great Plains Depressional Wetland Systems - Saline,Salt Marsh
+1433,Chihuahuan-Sonoran Desert Bottomland and Swale Grassland - Tobosa Grassland,Warm Desert
+1434,Chihuahuan-Sonoran Desert Bottomland and Swale Grassland - Alkali Sacaton,Warm Desert
+1435,West Gulf Coastal Plain Mesic Hardwood Forest,Temperate Deciduous Forest
+1436,West Gulf Coastal Plain Chenier and Upper Texas Coastal Fringe Forest and Woodland,Subtropical Mixed Forest
+1437,West Gulf Coastal Plain Upland Longleaf Pine Forest and Woodland,Tropical Pine Forest
+1438,West Gulf Coastal Plain Pine-Hardwood Forest,Temperate Pine Forest
+1439,West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,Temperate Pine Forest
+1440,Southern Blackland Tallgrass Prairie,Tallgrass Prairie
+1441,West Gulf Coastal Plain Northern Calcareous Prairie,Tallgrass Prairie
+1442,West Gulf Coastal Plain Southern Calcareous Prairie,Tallgrass Prairie
+1443,Texas-Louisiana Coastal Prairie,Tropical/Subtropical Savanna
+1444,West Gulf Coastal Plain Wet Longleaf Pine Savanna and Flatwoods,Tropical Pine Forest
+1445,West Gulf Coastal Plain Pine-Hardwood Flatwoods,Warm Swamp
+1446,Gulf and Atlantic Coastal Plain Floodplain Systems,Warm Swamp
+1447,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Warm Swamp
+1448,Gulf and Atlantic Coastal Plain Swamp Systems,Warm Swamp
+1449,Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Salt Marsh
+1450,West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods,Warm Swamp
+1451,East-Central Texas Plains Post Oak Savanna and Woodland,Cool Xeric Woodland
+1452,Atlantic Coastal Plain Dry and Dry-Mesic Oak Forest,Temperate Oak Forest
+1453,Atlantic Coastal Plain Mesic Hardwood Forest,Temperate Deciduous Forest
+1454,Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland,Tropical Pine Forest
+1455,Atlantic Coastal Plain Upland Longleaf Pine Woodland,Tropical Pine Forest
+1456,Southern Coastal Plain Mesic Slope Forest,Subtropical Mixed Forest
+1457,Central Atlantic Coastal Plain Maritime Forest,Subtropical Mixed Forest
+1458,Southern Atlantic Coastal Plain Maritime Forest,Subtropical Mixed Forest
+1459,Southern Atlantic Coastal Plain Dune and Maritime Grassland,Tallgrass Prairie
+1460,Central Atlantic Coastal Plain Wet Longleaf Pine Savanna and Flatwoods,Tropical Pine Forest
+1461,Southern Atlantic Coastal Plain Wet Pine Savanna and Flatwoods,Tropical Pine Forest
+1462,Atlantic Coastal Plain Peatland Pocosin and Canebrake,Freshwater Marsh
+1463,Atlantic Coastal Plain Clay-Based Carolina Bay Wetland,Warm Swamp
+1464,Atlantic Coastal Plain Streamhead Seepage Swamp-Pocosin-Baygall,Warm Swamp
+1465,Gulf and Atlantic Coastal Plain Floodplain Systems,Warm Swamp
+1466,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Warm Swamp
+1467,Gulf and Atlantic Coastal Plain Swamp Systems,Warm Swamp
+1468,Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Salt Marsh
+1469,Central Atlantic Coastal Plain Nonriverine Swamp and Wet Hardwood Forest,Warm Swamp
+1472,Rocky Mountain Aspen Forest and Woodland,Boreal/Subalpine Forest
+1473,Rocky Mountain Bigtooth Maple Ravine Woodland,Boreal/Subalpine Forest
+1474,Madrean Lower Montane Pine-Oak Forest and Woodland,Warm Xeric Woodland
+1475,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1476,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Temperate Coniferous Forest
+1477,Southern Rocky Mountain Ponderosa Pine Woodland - South,Temperate Pine Forest
+1478,Southern Rocky Mountain Ponderosa Pine Woodland - North,Temperate Pine Forest
+1479,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Boreal/Subalpine Forest
+1480,Southern Rocky Mountain Pinyon-Juniper Woodland,Cool Xeric Woodland
+1481,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Boreal/Subalpine Forest
+1482,Colorado Plateau Mixed Low Sagebrush Shrubland,Cool Desert
+1483,Inter-Mountain Basins Mixed Salt Desert Scrub - South,Salt Desert
+1484,Inter-Mountain Basins Mixed Salt Desert Scrub - North,Salt Desert
+1485,Rocky Mountain Lower Montane-Foothill Shrubland,Cool Xeric Woodland
+1486,Western Great Plains Sandhill Steppe,Temperate Grassland
+1487,Apacherian-Chihuahuan Mesquite Upland Scrub,Warm Desert
+1488,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Cool Xeric Woodland
+1489,Western Great Plains Mesquite Woodland and Shrubland,Temperate Grassland
+1490,Southern Rocky Mountain Ponderosa Pine Savanna - South,Temperate Pine Forest
+1491,Southern Rocky Mountain Ponderosa Pine Savanna - North,Temperate Pine Forest
+1492,Southern Rocky Mountain Juniper Woodland and Savanna,Cool Xeric Woodland
+1493,Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,Warm Desert
+1494,Chihuahuan Gypsophilous Grassland and Steppe,Warm Desert
+1495,Southern Rocky Mountain Montane-Subalpine Grassland,Temperate Grassland
+1496,Western Great Plains Foothill and Piedmont Grassland,Temperate Grassland
+1497,Western Great Plains Shortgrass Prairie,Temperate Grassland
+1498,Inter-Mountain Basins Greasewood Flat,Salt Marsh
+1499,Rocky Mountain Montane Riparian Systems,Cool Swamp
+1500,Western Great Plains Floodplain Systems,Cool Swamp
+1501,Western Great Plains Depressional Wetland Systems,Freshwater Marsh
+1502,Chihuahuan Loamy Plains Desert Grassland,Warm Desert
+1503,Chihuahuan-Sonoran Desert Bottomland and Swale Grassland,Warm Desert
+1504,West Gulf Coastal Plain Mesic Hardwood Forest - broadleaf evergreen,Subtropical Mixed Forest
+1505,West Gulf Coastal Plain Chenier and Upper Texas Coastal Fringe Forest and Woodland,Subtropical Mixed Forest
+1506,West Gulf Coastal Plain Upland Longleaf Pine Forest and Woodland,Tropical Pine Forest
+1507,West Gulf Coastal Plain Pine-Hardwood Forest,Temperate Pine Forest
+1508,Mississippi Delta Maritime Forest,Subtropical Mixed Forest
+1509,Texas-Louisiana Coastal Prairie,Tropical/Subtropical Savanna
+1510,West Gulf Coastal Plain Wet Longleaf Pine Savanna and Flatwoods,Tropical Pine Forest
+1511,West Gulf Coastal Plain Pine-Hardwood Flatwoods,Warm Swamp
+1512,Gulf and Atlantic Coastal Plain Floodplain Systems,Warm Swamp
+1513,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Warm Swamp
+1514,Gulf and Atlantic Coastal Plain Swamp Systems,Warm Swamp
+1515,Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Salt Marsh
+1517,Southern Crowley`s Ridge Mesic Loess Slope Forest,Temperate Deciduous Forest
+1518,West Gulf Coastal Plain Mesic Hardwood Forest,Temperate Deciduous Forest
+1519,East Gulf Coastal Plain Northern Loess Bluff Forest,Temperate Deciduous Forest
+1520,East Gulf Coastal Plain Southern Loess Bluff Forest,Subtropical Mixed Forest
+1521,West Gulf Coastal Plain Upland Longleaf Pine Forest and Woodland,Tropical Pine Forest
+1522,West Gulf Coastal Plain Pine-Hardwood Forest,Temperate Pine Forest
+1523,Lower Mississippi River Dune Woodland and Forest,Temperate Oak Forest
+1524,West Gulf Coastal Plain Southern Calcareous Prairie,Tallgrass Prairie
+1525,Lower Mississippi Alluvial Plain Grand Prairie,Tallgrass Prairie
+1526,West Gulf Coastal Plain Pine-Hardwood Flatwoods,Warm Swamp
+1527,Gulf and Atlantic Coastal Plain Floodplain Systems,Warm Swamp
+1528,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Warm Swamp
+1529,Gulf and Atlantic Coastal Plain Swamp Systems,Warm Swamp
+1530,Mississippi River Alluvial Plain Dry-Mesic Loess Slope Forest,Temperate Oak Forest
+1531,Northern Crowley`s Ridge Sand Forest,Temperate Oak Forest
+1532,Lower Mississippi River Flatwoods,Warm Swamp
+1561,Laurentian-Acadian Northern Hardwoods Forest,Temperate Mixed Forest
+1562,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,Temperate Mixed Forest
+1563,North-Central Interior Dry-Mesic Oak Forest and Woodland,Temperate Oak Forest
+1564,North-Central Interior Dry Oak Forest and Woodland,Temperate Oak Forest
+1565,North-Central Interior Beech-Maple Forest,Temperate Deciduous Forest
+1566,North-Central Interior Maple-Basswood Forest,Temperate Deciduous Forest
+1567,Laurentian-Acadian Northern Pine(-Oak) Forest,Temperate Pine Forest
+1568,Boreal White Spruce-Fir-Hardwood Forest - Inland,Boreal/Subalpine Forest
+1569,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Temperate Mixed Forest
+1570,North-Central Interior Oak Savanna,Temperate Oak Forest
+1571,North-Central Oak Barrens,Temperate Oak Forest
+1572,Laurentian Pine-Oak Barrens,Temperate Pine Forest
+1573,Laurentian-Acadian Jack Pine Barrens and Forest,Temperate Pine Forest
+1574,Great Lakes Alvar,Tallgrass Prairie
+1575,North-Central Interior Sand and Gravel Tallgrass Prairie,Tallgrass Prairie
+1576,Central Tallgrass Prairie,Tallgrass Prairie
+1577,Eastern Boreal Floodplain,Cool Swamp
+1578,Great Lakes Wooded Dune and Swale,Temperate Grassland
+1579,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+1580,Laurentian-Acadian Floodplain Systems,Cool Swamp
+1581,Boreal Acidic Peatland Systems,Cool Swamp
+1582,Central Interior and Appalachian Swamp Systems,Cool Swamp
+1583,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Cool Swamp
+1584,Great Lakes Coastal Marsh Systems,Freshwater Marsh
+1585,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Freshwater Marsh
+1586,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Freshwater Marsh
+1588,Laurentian-Acadian Northern Hardwoods Forest,Temperate Mixed Forest
+1589,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,Temperate Mixed Forest
+1590,North-Central Interior Dry-Mesic Oak Forest and Woodland,Temperate Oak Forest
+1591,North-Central Interior Maple-Basswood Forest,Temperate Deciduous Forest
+1592,Eastern Great Plains Tallgrass Aspen Parkland,Cool Xeric Woodland
+1593,Boreal Jack Pine-Black Spruce Forest,Boreal/Subalpine Forest
+1594,Laurentian-Acadian Northern Pine(-Oak) Forest,Temperate Pine Forest
+1595,Laurentian-Acadian Northern Pine Forest,Temperate Pine Forest
+1596,Boreal White Spruce-Fir-Hardwood Forest - Inland,Boreal/Subalpine Forest
+1597,Boreal White Spruce-Fir-Hardwood Forest - Coastal,Boreal/Subalpine Forest
+1598,Boreal White Spruce-Fir-Hardwood Forest - Aspen-Birch,Boreal/Subalpine Forest
+1599,North-Central Interior Oak Savanna,Temperate Oak Forest
+1600,North-Central Oak Barrens,Temperate Oak Forest
+1601,Laurentian Pine-Oak Barrens,Temperate Pine Forest
+1602,Laurentian-Acadian Jack Pine Barrens and Forest,Temperate Pine Forest
+1603,North-Central Interior Sand and Gravel Tallgrass Prairie,Tallgrass Prairie
+1604,Northern Tallgrass Prairie,Tallgrass Prairie
+1605,Eastern Boreal Floodplain,Cool Swamp
+1606,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+1607,Laurentian-Acadian Floodplain Systems,Cool Swamp
+1608,Boreal Acidic Peatland Systems,Cool Swamp
+1609,Central Interior and Appalachian Swamp Systems,Cool Swamp
+1610,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Cool Swamp
+1611,Great Lakes Coastal Marsh Systems,Freshwater Marsh
+1612,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Freshwater Marsh
+1613,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Freshwater Marsh
+1614,Laurentian-Acadian Northern Hardwoods Forest,Temperate Mixed Forest
+1615,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,Temperate Mixed Forest
+1616,Northern Sugar Maple-Basswood Forest,Temperate Mixed Forest
+1617,North-Central Interior Dry-Mesic Oak Forest and Woodland,Temperate Oak Forest
+1618,North-Central Interior Dry Oak Forest and Woodland,Temperate Oak Forest
+1619,North-Central Interior Beech-Maple Forest,Temperate Deciduous Forest
+1620,Great Lakes Pine Barrens,Temperate Pine Forest
+1621,Great Lakes Spruce-Fir,Boreal/Subalpine Forest
+1622,Laurentian-Acadian Northern Pine(-Oak) Forest,Temperate Pine Forest
+1623,Boreal White Spruce-Fir-Hardwood Forest - Inland,Boreal/Subalpine Forest
+1624,Boreal White Spruce-Fir-Hardwood Forest - Coastal,Boreal/Subalpine Forest
+1625,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Temperate Mixed Forest
+1626,North-Central Interior Oak Savanna,Temperate Oak Forest
+1627,North-Central Oak Barrens,Temperate Oak Forest
+1628,Laurentian Pine-Oak Barrens,Temperate Pine Forest
+1629,Laurentian-Acadian Jack Pine Barrens and Forest,Temperate Pine Forest
+1630,Great Lakes Wet-Mesic Lakeplain Prairie,Freshwater Marsh
+1631,North-Central Interior Sand and Gravel Tallgrass Prairie,Tallgrass Prairie
+1632,Central Tallgrass Prairie,Tallgrass Prairie
+1633,Eastern Boreal Floodplain,Cool Swamp
+1634,Great Lakes Wooded Dune and Swale,Temperate Grassland
+1635,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+1636,Laurentian-Acadian Floodplain Systems,Cool Swamp
+1637,Boreal Acid Peatland Systems,Cool Swamp
+1638,Central Interior and Appalachian Swamp Systems,Cool Swamp
+1639,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Cool Swamp
+1640,Great Lakes Coastal Marsh Systems,Freshwater Marsh
+1641,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Freshwater Marsh
+1642,Western Great Plains Dry Bur Oak Forest and Woodland,Temperate Oak Forest
+1643,Northwestern Great Plains Mixedgrass Prairie,Temperate Grassland
+1644,Western Great Plains Tallgrass Prairie,Temperate Grassland
+1645,Western Great Plains Floodplain Systems,Cool Swamp
+1646,Boreal Aspen-Birch Forest,Boreal/Subalpine Forest
+1647,Laurentian-Acadian Northern Hardwoods Forest,Temperate Mixed Forest
+1648,North-Central Interior Maple-Basswood Forest,Temperate Deciduous Forest
+1649,Eastern Great Plains Tallgrass Aspen Parkland,Cool Xeric Woodland
+1650,Boreal White Spruce-Fir-Hardwood Forest - Inland,Boreal/Subalpine Forest
+1651,Western Great Plains Wooded Draw and Ravine,Cool Swamp
+1652,North-Central Interior Oak Savanna,Temperate Oak Forest
+1653,North-Central Interior Sand and Gravel Tallgrass Prairie,Tallgrass Prairie
+1654,Northern Tallgrass Prairie,Tallgrass Prairie
+1655,Eastern Great Plains Floodplain Systems,Cool Swamp
+1656,Boreal Acidic Peatland Systems,Cool Swamp
+1657,Great Plains Prairie Pothole,Freshwater Marsh
+1658,Western Great Plains Depressional Wetland Systems,Freshwater Marsh
+1659,Western Great Plains Dry Bur Oak Forest and Woodland,Temperate Oak Forest
+1660,Northwestern Great Plains Mixedgrass Prairie,Temperate Grassland
+1661,Western Great Plains Tallgrass Prairie,Temperate Grassland
+1662,Western Great Plains Floodplain Systems,Cool Swamp
+1663,North-Central Interior Dry-Mesic Oak Forest and Woodland,Temperate Oak Forest
+1664,North-Central Interior Dry Oak Forest and Woodland,Temperate Oak Forest
+1665,North-Central Interior Maple-Basswood Forest,Temperate Deciduous Forest
+1666,Eastern Great Plains Tallgrass Aspen Parkland,Cool Xeric Woodland
+1667,Western Great Plains Wooded Draw and Ravine,Cool Swamp
+1668,North-Central Interior Oak Savanna,Temperate Oak Forest
+1669,North-Central Interior Sand and Gravel Tallgrass Prairie,Tallgrass Prairie
+1670,Northern Tallgrass Prairie,Tallgrass Prairie
+1671,Eastern Great Plains Floodplain Systems,Cool Swamp
+1672,Great Plains Prairie Pothole,Freshwater Marsh
+1673,Western Great Plains Depressional Wetland Systems,Freshwater Marsh
+1675,Western Great Plains Dry Bur Oak Forest and Woodland,Temperate Oak Forest
+1676,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Cool Xeric Woodland
+1677,Inter-Mountain Basins Big Sagebrush Shrubland,Cool Desert
+1678,Rocky Mountain Lower Montane-Foothill Shrubland,Cool Xeric Woodland
+1679,Western Great Plains Sandhill Steppe,Temperate Grassland
+1680,Inter-Mountain Basins Big Sagebrush Steppe,Cool Desert
+1681,Central Mixedgrass Prairie,Temperate Grassland
+1682,Northwestern Great Plains Mixedgrass Prairie,Temperate Grassland
+1683,Western Great Plains Sand Prairie,Temperate Grassland
+1684,Western Great Plains Shortgrass Prairie,Temperate Grassland
+1685,Western Great Plains Tallgrass Prairie,Temperate Grassland
+1686,Western Great Plains Floodplain Systems,Cool Swamp
+1687,Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna,Temperate Pine Forest
+1688,Western Great Plains Wooded Draw and Ravine,Cool Swamp
+1689,Central Tallgrass Prairie,Tallgrass Prairie
+1690,Eastern Great Plains Floodplain Systems,Cool Swamp
+1691,Western Great Plains Depressional Wetland Systems,Freshwater Marsh
+1692,Western Great Plains Sandhill Steppe,Temperate Grassland
+1693,Western Great Plains Mesquite Woodland and Shrubland,Temperate Grassland
+1694,Central Mixedgrass Prairie,Temperate Grassland
+1695,Western Great Plains Sand Prairie,Temperate Grassland
+1696,Western Great Plains Floodplain Systems,Cool Swamp
+1697,Ozark-Ouachita Dry-Mesic Oak Forest,Temperate Oak Forest
+1698,Crosstimbers Oak Forest and Woodland,Cool Xeric Woodland
+1699,West Gulf Coastal Plain Mesic Hardwood Forest,Temperate Deciduous Forest
+1700,Ozark-Ouachita Mesic Hardwood Forest,Temperate Deciduous Forest
+1701,Ozark-Ouachita Dry Oak Woodland,Temperate Oak Forest
+1702,Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,Temperate Pine Forest
+1703,West Gulf Coastal Plain Pine-Hardwood Forest,Temperate Pine Forest
+1704,Edwards Plateau Limestone Savanna and Woodland,Warm Xeric Woodland
+1705,Edwards Plateau Limestone Shrubland,Temperate Grassland
+1706,Southern Blackland Tallgrass Prairie,Tallgrass Prairie
+1707,Southeastern Great Plains Tallgrass Prairie,Tallgrass Prairie
+1708,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+1709,Central Interior and Appalachian Riparian Systems,Cool Swamp
+1710,Gulf and Atlantic Coastal Plain Floodplain Systems,Warm Swamp
+1711,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Warm Swamp
+1712,Chihuahuan-Sonoran Desert Bottomland and Swale Grassland,Warm Desert
+1713,East-Central Texas Plains Post Oak Savanna and Woodland,Cool Xeric Woodland
+1714,Edwards Plateau Dry-Mesic Slope Forest and Woodland,Warm Xeric Woodland
+1715,Western Great Plains Sandhill Steppe,Temperate Grassland
+1716,Apacherian-Chihuahuan Mesquite Upland Scrub,Warm Desert
+1717,Western Great Plains Mesquite Woodland and Shrubland,Temperate Grassland
+1718,Central Mixedgrass Prairie,Temperate Grassland
+1719,Western Great Plains Sand Prairie,Temperate Grassland
+1720,Western Great Plains Shortgrass Prairie,Temperate Grassland
+1721,North American Warm Desert Riparian Systems,Warm Swamp
+1722,Western Great Plains Floodplain Systems,Cool Swamp
+1723,Crosstimbers Oak Forest and Woodland,Cool Xeric Woodland
+1724,East-Central Texas Plains Southern Pine Forest and Woodland,Temperate Pine Forest
+1725,Edwards Plateau Limestone Savanna and Woodland,Warm Xeric Woodland
+1726,Tamaulipan Mixed Deciduous Thornscrub,Tropical/Subtropical Thornscrub
+1727,Tamaulipan Calcareous Thornscrub,Tropical/Subtropical Thornscrub
+1728,Edwards Plateau Limestone Shrubland,Temperate Grassland
+1729,Llano Uplift Acidic Forest-Woodland-Glade,Warm Xeric Woodland
+1730,Southern Blackland Tallgrass Prairie,Tallgrass Prairie
+1731,Southeastern Great Plains Tallgrass Prairie,Tallgrass Prairie
+1732,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+1733,Central Interior and Appalachian Riparian Systems,Cool Swamp
+1734,Western Great Plains Depressional Wetland Systems,Freshwater Marsh
+1735,Chihuahuan-Sonoran Desert Bottomland and Swale Grassland,Warm Desert
+1736,East-Central Texas Plains Post Oak Savanna and Woodland,Cool Xeric Woodland
+1737,Edwards Plateau Dry-Mesic Slope Forest and Woodland,Warm Xeric Woodland
+1738,Edwards Plateau Mesic Canyon,Warm Xeric Woodland
+1739,Edwards Plateau Riparian,Warm Swamp
+1740,West Gulf Coastal Plain Mesic Hardwood Forest,Temperate Deciduous Forest
+1741,Central and South Texas Coastal Fringe Forest and Woodland,Subtropical Mixed Forest
+1742,West Gulf Coastal Plain Chenier and Upper Texas Coastal Fringe Forest and Woodland,Subtropical Mixed Forest
+1743,East-Central Texas Plains Southern Pine Forest and Woodland,Temperate Pine Forest
+1744,West Gulf Coastal Plain Pine-Hardwood Forest,Temperate Pine Forest
+1745,Edwards Plateau Limestone Savanna and Woodland,Warm Xeric Woodland
+1746,Tamaulipan Mixed Deciduous Thornscrub,Tropical/Subtropical Thornscrub
+1747,Tamaulipan Calcareous Thornscrub,Tropical/Subtropical Thornscrub
+1748,Southern Blackland Tallgrass Prairie,Tallgrass Prairie
+1749,Texas-Louisiana Coastal Prairie,Tropical/Subtropical Savanna
+1750,Central and Upper Texas Coast Dune and Coastal Grassland,Tropical/Subtropical Savanna
+1751,Tamaulipan Savanna Grassland,Tropical/Subtropical Thornscrub
+1752,South Texas Lomas,Tropical/Subtropical Thornscrub
+1753,Tamaulipan Clay Grassland,Warm Desert
+1754,South Texas Sand Sheet Grassland,Warm Xeric Woodland
+1755,Tamaulipan Floodplain,Warm Swamp
+1756,Gulf and Atlantic Coastal Plain Floodplain Systems,Warm Swamp
+1757,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Warm Swamp
+1758,Tamaulipan Riparian Systems,Warm Swamp
+1759,Gulf and Atlantic Coastal Plain Swamp Systems,Warm Swamp
+1760,Texas-Louisiana Saline Coastal Prairie,Salt Marsh
+1761,Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Salt Marsh
+1762,Western Great Plains Depressional Wetland Systems,Freshwater Marsh
+1763,East-Central Texas Plains Post Oak Savanna and Woodland,Cool Xeric Woodland
+1764,East Gulf Coastal Plain Northern Dry Upland Hardwood Forest,Temperate Oak Forest
+1765,East Gulf Coastal Plain Northern Mesic Hardwood Slope Forest,Temperate Deciduous Forest
+1766,East Gulf Coastal Plain Northern Loess Bluff Forest,Temperate Deciduous Forest
+1767,East Gulf Coastal Plain Limestone Forest,Temperate Deciduous Forest
+1768,East Gulf Coastal Plain Southern Loess Bluff Forest,Subtropical Mixed Forest
+1769,Southern Coastal Plain Dry Upland Hardwood Forest - not broadleaf evergreen,Temperate Oak Forest
+1770,East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland,Tropical Pine Forest
+1771,Southern Appalachian Low-Elevation Pine Forest,Temperate Pine Forest
+1772,Southern Coastal Plain Mesic Slope Forest - not evergreen,Temperate Deciduous Forest
+1773,Southern Piedmont Dry Oak(-Pine) Forest,Temperate Oak Forest
+1774,East Gulf Coastal Plain Interior Shortleaf Pine-Oak Forest,Temperate Pine Forest
+1775,Southern Coastal Plain Blackland Prairie and Woodland,Tallgrass Prairie
+1776,East Gulf Coastal Plain Southern Loblolly-Hardwood Flatwoods,Warm Swamp
+1777,Southern Coastal Plain Seepage Swamp and Baygall,Warm Swamp
+1778,Atlantic Coastal Plain Streamhead Seepage Swamp-Pocosin-Baygall,Warm Swamp
+1779,Central Interior and Appalachian Riparian Systems,Cool Swamp
+1780,Gulf and Atlantic Coastal Plain Floodplain Systems,Warm Swamp
+1781,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Warm Swamp
+1782,Gulf and Atlantic Coastal Plain Swamp Systems,Warm Swamp
+1783,East Gulf Coastal Plain Limestone Forest,Temperate Deciduous Forest
+1784,East Gulf Coastal Plain Southern Loess Bluff Forest,Subtropical Mixed Forest
+1785,Southern Coastal Plain Dry Upland Hardwood Forest,Subtropical Mixed Forest
+1786,East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland,Tropical Pine Forest
+1787,Florida Longleaf Pine Sandhill,Tropical Pine Forest
+1788,Southern Coastal Plain Mesic Slope Forest,Subtropical Mixed Forest
+1789,East Gulf Coastal Plain Interior Shortleaf Pine-Oak Forest,Temperate Pine Forest
+1790,East Gulf Coastal Plain Maritime Forest,Subtropical Mixed Forest
+1791,East Gulf Coastal Plain Dune and Coastal Grassland,Tropical/Subtropical Savanna
+1792,East Gulf Coastal Plain Near-Coast Pine Flatwoods,Tropical Pine Forest
+1793,East Gulf Coastal Plain Southern Loblolly-Hardwood Flatwoods,Warm Swamp
+1794,Southern Coastal Plain Nonriverine Cypress Dome,Warm Swamp
+1795,Southern Coastal Plain Seepage Swamp and Baygall,Warm Swamp
+1796,Atlantic Coastal Plain Streamhead Seepage Swamp-Pocosin-Baygall,Warm Swamp
+1797,Gulf and Atlantic Coastal Plain Floodplain Systems,Warm Swamp
+1798,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Warm Swamp
+1799,Gulf and Atlantic Coastal Plain Swamp Systems,Warm Swamp
+1800,East Gulf Coastal Plain Savanna and Wet Prairie,Freshwater Marsh
+1801,Floridian Highlands Freshwater Marsh,Freshwater Marsh
+1802,Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Salt Marsh
+1804,Southern Appalachian Oak Forest,Temperate Oak Forest
+1805,Southern Piedmont Mesic Forest,Temperate Deciduous Forest
+1806,Southern and Central Appalachian Cove Forest,Temperate Deciduous Forest
+1807,Piedmont Hardpan Woodland and Forest,Temperate Oak Forest
+1808,Southeastern Interior Longleaf Pine Woodland,Tropical Pine Forest
+1809,Southern Appalachian Montane Pine Forest and Woodland,Temperate Pine Forest
+1810,Southern Appalachian Low-Elevation Pine Forest,Temperate Pine Forest
+1811,Southern Piedmont Dry Oak(-Pine) Forest,Temperate Oak Forest
+1812,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+1813,Central Interior and Appalachian Riparian Systems,Cool Swamp
+1814,Southern Appalachian Northern Hardwood Forest,Temperate Mixed Forest
+1815,Southern Appalachian Oak Forest,Temperate Oak Forest
+1816,Southern Piedmont Mesic Forest,Temperate Deciduous Forest
+1817,Allegheny-Cumberland Dry Oak Forest and Woodland,Temperate Oak Forest
+1818,Southern and Central Appalachian Cove Forest,Temperate Deciduous Forest
+1819,Central and Southern Appalachian Montane Oak Forest,Temperate Oak Forest
+1820,South-Central Interior Mesophytic Forest,Temperate Deciduous Forest
+1821,Central and Southern Appalachian Spruce-Fir Forest,Boreal/Subalpine Forest
+1822,Southern Appalachian Montane Pine Forest and Woodland,Temperate Pine Forest
+1823,Southern Appalachian Low-Elevation Pine Forest,Temperate Pine Forest
+1824,Southern Piedmont Dry Oak(-Pine) Forest,Temperate Oak Forest
+1825,Southern Ridge and Valley/Cumberland Dry Calcareous Forest,Temperate Oak Forest
+1826,Southern Appalachian Grass and Shrub Bald,Tallgrass Prairie
+1827,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+1828,Central Interior and Appalachian Riparian Systems,Cool Swamp
+1829,Southern Piedmont Mesic Forest,Temperate Deciduous Forest
+1830,Southern Coastal Plain Dry Upland Hardwood Forest - not broadleaf evergreen,Temperate Oak Forest
+1831,Atlantic Coastal Plain Mesic Hardwood Forest,Temperate Deciduous Forest
+1832,Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland,Tropical Pine Forest
+1833,East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland,Tropical Pine Forest
+1834,Southeastern Interior Longleaf Pine Woodland,Tropical Pine Forest
+1835,Southern Appalachian Montane Pine Forest and Woodland,Temperate Pine Forest
+1836,Southern Appalachian Low-Elevation Pine Forest,Temperate Pine Forest
+1837,Southern Piedmont Dry Oak(-Pine) Forest,Temperate Oak Forest
+1838,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+1839,Central Interior and Appalachian Riparian Systems,Cool Swamp
+1840,Northeastern Interior Dry-Mesic Oak Forest,Temperate Oak Forest
+1841,Southern Piedmont Mesic Forest,Temperate Deciduous Forest
+1842,Northern Atlantic Coastal Plain Hardwood Forest,Temperate Oak Forest
+1843,Atlantic Coastal Plain Dry and Dry-Mesic Oak Forest,Temperate Oak Forest
+1844,Atlantic Coastal Plain Mesic Hardwood Forest,Temperate Deciduous Forest
+1845,Atlantic Coastal Plain Upland Longleaf Pine Woodland,Tropical Pine Forest
+1846,Southern Appalachian Montane Pine Forest and Woodland,Temperate Pine Forest
+1847,Southern Appalachian Low-Elevation Pine Forest,Temperate Pine Forest
+1848,Northern Atlantic Coastal Plain Pitch Pine Barrens,Temperate Pine Forest
+1849,Central Atlantic Coastal Plain Maritime Forest,Subtropical Mixed Forest
+1850,Southern Piedmont Dry Oak(-Pine) Forest,Temperate Oak Forest
+1851,Central Appalachian Dry Oak-Pine Forest,Temperate Oak Forest
+1852,Appalachian (Hemlock-)Northern Hardwood Forest,Temperate Mixed Forest
+1853,Eastern Serpentine Woodland,Tallgrass Prairie
+1854,Central Appalachian Pine-Oak Rocky Woodland,Temperate Pine Forest
+1855,Northern Atlantic Coastal Plain Maritime Forest,Temperate Oak Forest
+1856,Central Appalachian Alkaline Glade and Woodland,Tallgrass Prairie
+1857,Northern Atlantic Coastal Plain Dune and Swale,Tallgrass Prairie
+1858,Central Atlantic Coastal Plain Wet Longleaf Pine Savanna and Flatwoods,Tropical Pine Forest
+1859,Atlantic Coastal Plain Peatland Pocosin and Canebrake,Freshwater Marsh
+1860,Atlantic Coastal Plain Streamhead Seepage Swamp-Pocosin-Baygall,Warm Swamp
+1861,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+1862,Central Interior and Appalachian Riparian Systems,Cool Swamp
+1863,Gulf and Atlantic Coastal Plain Floodplain Systems,Warm Swamp
+1864,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Warm Swamp
+1865,Central Interior and Appalachian Swamp Systems,Cool Swamp
+1866,Gulf and Atlantic Coastal Plain Swamp Systems,Warm Swamp
+1867,Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Salt Marsh
+1869,Central Atlantic Coastal Plain Nonriverine Swamp and Wet Hardwood Forest,Warm Swamp
+1870,Northeastern Interior Dry-Mesic Oak Forest,Temperate Oak Forest
+1871,Southern Appalachian Oak Forest,Temperate Oak Forest
+1872,Southern Piedmont Mesic Forest,Temperate Deciduous Forest
+1873,Allegheny-Cumberland Dry Oak Forest and Woodland,Temperate Oak Forest
+1874,Southern and Central Appalachian Cove Forest,Temperate Deciduous Forest
+1875,Central and Southern Appalachian Montane Oak Forest,Temperate Oak Forest
+1876,South-Central Interior Mesophytic Forest,Temperate Deciduous Forest
+1877,Appalachian Shale Barrens,Temperate Pine Forest
+1878,Central and Southern Appalachian Spruce-Fir Forest,Boreal/Subalpine Forest
+1879,Southern Appalachian Montane Pine Forest and Woodland,Temperate Pine Forest
+1880,Southern Appalachian Low-Elevation Pine Forest,Temperate Pine Forest
+1881,Southern Piedmont Dry Oak(-Pine) Forest,Temperate Oak Forest
+1882,Central Appalachian Dry Oak-Pine Forest,Temperate Oak Forest
+1883,Appalachian (Hemlock-)Northern Hardwood Forest,Temperate Mixed Forest
+1884,Southern Ridge and Valley/Cumberland Dry Calcareous Forest,Temperate Oak Forest
+1885,Central Appalachian Pine-Oak Rocky Woodland,Temperate Pine Forest
+1886,Central Appalachian Alkaline Glade and Woodland,Tallgrass Prairie
+1887,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+1888,Central Interior and Appalachian Riparian Systems,Cool Swamp
+1889,Central Interior and Appalachian Swamp Systems,Cool Swamp
+1890,Laurentian-Acadian Northern Hardwoods Forest,Temperate Mixed Forest
+1891,Northeastern Interior Dry-Mesic Oak Forest,Temperate Oak Forest
+1892,South-Central Interior Mesophytic Forest,Temperate Deciduous Forest
+1893,Laurentian-Acadian Northern Pine(-Oak) Forest,Temperate Pine Forest
+1894,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Temperate Mixed Forest
+1895,Central Appalachian Dry Oak-Pine Forest,Temperate Oak Forest
+1896,Appalachian (Hemlock-)Northern Hardwood Forest,Temperate Mixed Forest
+1897,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Boreal/Subalpine Forest
+1898,Central Appalachian Pine-Oak Rocky Woodland,Temperate Pine Forest
+1899,Central Appalachian Alkaline Glade and Woodland,Tallgrass Prairie
+1900,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+1901,Central Interior and Appalachian Riparian Systems,Cool Swamp
+1902,Laurentian-Acadian Floodplain Systems,Cool Swamp
+1903,Boreal Acidic Peatland Systems,Cool Swamp
+1904,Central Interior and Appalachian Swamp Systems,Cool Swamp
+1905,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Cool Swamp
+1906,Great Lakes Coastal Marsh Systems,Freshwater Marsh
+1907,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Freshwater Marsh
+1908,North-Central Interior Wet Flatwoods,Cool Swamp
+1909,Northeastern Interior Dry-Mesic Oak Forest,Temperate Oak Forest
+1910,North-Central Interior Dry-Mesic Oak Forest and Woodland,Temperate Oak Forest
+1911,North-Central Interior Beech-Maple Forest,Temperate Deciduous Forest
+1912,Allegheny-Cumberland Dry Oak Forest and Woodland,Temperate Oak Forest
+1913,South-Central Interior Mesophytic Forest,Temperate Deciduous Forest
+1914,Appalachian (Hemlock-)Northern Hardwood Forest,Temperate Mixed Forest
+1915,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+1916,Central Interior and Appalachian Riparian Systems,Cool Swamp
+1917,Central Interior and Appalachian Swamp Systems,Cool Swamp
+1918,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Freshwater Marsh
+1919,North-Central Interior Wet Flatwoods,Cool Swamp
+1920,Laurentian-Acadian Northern Hardwoods Forest,Temperate Mixed Forest
+1921,Northeastern Interior Dry-Mesic Oak Forest,Temperate Oak Forest
+1922,Northern Atlantic Coastal Plain Hardwood Forest,Temperate Oak Forest
+1923,Northern Atlantic Coastal Plain Pitch Pine Barrens,Temperate Pine Forest
+1924,Laurentian-Acadian Northern Pine(-Oak) Forest,Temperate Pine Forest
+1925,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Temperate Mixed Forest
+1926,Central Appalachian Dry Oak-Pine Forest,Temperate Oak Forest
+1927,Appalachian (Hemlock-)Northern Hardwood Forest,Temperate Mixed Forest
+1928,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Boreal/Subalpine Forest
+1929,Acadian-Appalachian Montane Spruce-Fir Forest,Boreal/Subalpine Forest
+1930,Central Appalachian Pine-Oak Rocky Woodland,Temperate Pine Forest
+1931,Northern Atlantic Coastal Plain Maritime Forest,Temperate Oak Forest
+1932,Northern Atlantic Coastal Plain Dune and Swale,Tallgrass Prairie
+1933,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+1934,Central Interior and Appalachian Riparian Systems,Cool Swamp
+1935,Laurentian-Acadian Floodplain Systems,Cool Swamp
+1936,Boreal Acidic Peatland Systems,Cool Swamp
+1937,Central Interior and Appalachian Swamp Systems,Cool Swamp
+1938,Gulf and Atlantic Coastal Plain Swamp Systems,Warm Swamp
+1939,Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Salt Marsh
+1940,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Freshwater Marsh
+1941,North-Central Interior Wet Flatwoods,Cool Swamp
+1942,Laurentian-Acadian Swamp Systems,Cool Swamp
+1943,Laurentian-Acadian Northern Hardwoods Forest,Temperate Mixed Forest
+1944,Northeastern Interior Dry-Mesic Oak Forest,Temperate Oak Forest
+1945,Northeastern Interior Pine Barrens,Temperate Pine Forest
+1946,Laurentian-Acadian Northern Pine(-Oak) Forest,Temperate Pine Forest
+1947,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Temperate Mixed Forest
+1948,Central Appalachian Dry Oak-Pine Forest,Temperate Oak Forest
+1949,Appalachian (Hemlock-)Northern Hardwood Forest,Temperate Mixed Forest
+1950,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Boreal/Subalpine Forest
+1951,Acadian-Appalachian Montane Spruce-Fir Forest,Boreal/Subalpine Forest
+1952,Central Appalachian Pine-Oak Rocky Woodland,Temperate Pine Forest
+1953,Acadian-Appalachian Subalpine Woodland and Heath-Krummholz,Tundra
+1954,Central Appalachian Alkaline Glade and Woodland,Tallgrass Prairie
+1955,Great Lakes Alvar,Tallgrass Prairie
+1956,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+1957,Central Interior and Appalachian Riparian Systems,Cool Swamp
+1958,Laurentian-Acadian Floodplain Systems,Cool Swamp
+1959,Boreal Acidic Peatland Systems,Cool Swamp
+1960,Central Interior and Appalachian Swamp Systems,Cool Swamp
+1961,Gulf and Atlantic Coastal Plain Swamp Systems,Warm Swamp
+1962,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Freshwater Marsh
+1963,North-Central Interior Wet Flatwoods,Cool Swamp
+1964,Laurentian-Acadian Swamp Systems,Cool Swamp
+1965,North-Central Interior Dry-Mesic Oak Forest and Woodland,Temperate Oak Forest
+1966,North-Central Interior Dry Oak Forest and Woodland,Temperate Oak Forest
+1967,North-Central Interior Beech-Maple Forest,Temperate Deciduous Forest
+1968,North-Central Interior Oak Savanna,Temperate Oak Forest
+1969,North-Central Oak Barrens,Temperate Oak Forest
+1970,Great Lakes Wet-Mesic Lakeplain Prairie,Freshwater Marsh
+1971,North-Central Interior Sand and Gravel Tallgrass Prairie,Tallgrass Prairie
+1972,Central Tallgrass Prairie,Tallgrass Prairie
+1973,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+1974,Central Interior and Appalachian Swamp Systems,Cool Swamp
+1975,Great Lakes Coastal Marsh Systems,Freshwater Marsh
+1976,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Freshwater Marsh
+1977,North-Central Interior Wet Flatwoods,Cool Swamp
+1978,Laurentian-Acadian Northern Hardwoods Forest,Temperate Mixed Forest
+1979,Northern Atlantic Coastal Plain Hardwood Forest,Temperate Oak Forest
+1980,Boreal Jack Pine-Black Spruce Forest,Boreal/Subalpine Forest
+1981,Northeastern Interior Pine Barrens,Temperate Pine Forest
+1982,Laurentian-Acadian Northern Pine(-Oak) Forest,Temperate Pine Forest
+1983,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Temperate Mixed Forest
+1984,Central Appalachian Dry Oak-Pine Forest,Temperate Oak Forest
+1985,Appalachian (Hemlock-)Northern Hardwood Forest,Temperate Mixed Forest
+1986,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Boreal/Subalpine Forest
+1987,Acadian-Appalachian Montane Spruce-Fir Forest,Boreal/Subalpine Forest
+1988,Central Appalachian Pine-Oak Rocky Woodland,Temperate Pine Forest
+1989,Acadian-Appalachian Alpine Tundra,Tundra
+1990,Acadian-Appalachian Subalpine Woodland and Heath-Krummholz,Tundra
+1991,Northern Atlantic Coastal Plain Dune and Swale,Tallgrass Prairie
+1992,Central Interior and Appalachian Riparian Systems,Cool Swamp
+1993,Laurentian-Acadian Floodplain Systems,Cool Swamp
+1994,Boreal Acidic Peatland Systems,Cool Swamp
+1995,Central Interior and Appalachian Swamp Systems,Cool Swamp
+1996,Gulf and Atlantic Coastal Plain Swamp Systems,Warm Swamp
+1997,Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Salt Marsh
+1998,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Freshwater Marsh
+1999,Laurentian-Acadian Swamp Systems,Cool Swamp
+2000,Southern Interior Low Plateau Dry-Mesic Oak Forest,Temperate Oak Forest
+2001,Southern Appalachian Northern Hardwood Forest,Temperate Mixed Forest
+2002,Southern Appalachian Oak Forest,Temperate Oak Forest
+2003,Allegheny-Cumberland Dry Oak Forest and Woodland,Temperate Oak Forest
+2004,Southern and Central Appalachian Cove Forest,Temperate Deciduous Forest
+2005,South-Central Interior Mesophytic Forest,Temperate Deciduous Forest
+2006,Southern Appalachian Montane Pine Forest and Woodland,Temperate Pine Forest
+2007,Southern Appalachian Low-Elevation Pine Forest,Temperate Pine Forest
+2008,Central Interior Highlands Dry Acidic Glade and Barrens,Tallgrass Prairie
+2009,Appalachian (Hemlock-)Northern Hardwood Forest,Temperate Mixed Forest
+2010,Southern Ridge and Valley/Cumberland Dry Calcareous Forest,Temperate Oak Forest
+2011,Central Interior Highlands Calcareous Glade and Barrens,Tallgrass Prairie
+2012,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+2013,Central Interior and Appalachian Riparian Systems,Cool Swamp
+2014,Central Interior and Appalachian Swamp Systems,Cool Swamp
+2015,Ozark-Ouachita Dry-Mesic Oak Forest,Temperate Oak Forest
+2016,Southern Interior Low Plateau Dry-Mesic Oak Forest,Temperate Oak Forest
+2017,North-Central Interior Dry-Mesic Oak Forest and Woodland,Temperate Oak Forest
+2018,North-Central Interior Dry Oak Forest and Woodland,Temperate Oak Forest
+2019,North-Central Interior Beech-Maple Forest,Temperate Deciduous Forest
+2020,Black oak barrens,Temperate Oak Forest
+2021,South-Central Interior Mesophytic Forest,Temperate Deciduous Forest
+2022,South-Central Interior/Upper Coastal Plain Flatwoods,Temperate Pine Forest
+2023,Ozark-Ouachita Dry Oak Woodland,Temperate Oak Forest
+2024,North-Central Interior Oak Savanna,Temperate Oak Forest
+2025,North-Central Oak Barrens,Temperate Oak Forest
+2026,Central Interior Highlands Calcareous Glade and Barrens,Tallgrass Prairie
+2027,Great Lakes Wet-Mesic Lakeplain Prairie,Freshwater Marsh
+2028,North-Central Interior Sand and Gravel Tallgrass Prairie,Tallgrass Prairie
+2029,Central Tallgrass Prairie,Tallgrass Prairie
+2030,South-Central Interior/Upper Coastal Plain Wet Flatwoods,Temperate Pine Forest
+2031,Great Lakes Wooded Dune and Swale,Temperate Grassland
+2032,Eastern Great Plains Floodplain Systems,Cool Swamp
+2033,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+2034,Central Interior and Appalachian Riparian Systems,Cool Swamp
+2036,North-Central Interior Wet Flatwoods,Cool Swamp
+2037,Ozark-Ouachita Dry-Mesic Oak Forest,Temperate Oak Forest
+2038,Crosstimbers Oak Forest and Woodland,Cool Xeric Woodland
+2039,North-Central Interior Dry-Mesic Oak Forest and Woodland,Temperate Oak Forest
+2040,North-Central Interior Dry Oak Forest and Woodland,Temperate Oak Forest
+2041,North-Central Interior Maple-Basswood Forest,Temperate Deciduous Forest
+2042,Ozark-Ouachita Mesic Hardwood Forest,Temperate Deciduous Forest
+2043,North-Central Oak Barrens,Temperate Oak Forest
+2044,Central Interior Highlands Calcareous Glade and Barrens,Tallgrass Prairie
+2045,North-Central Interior Sand and Gravel Tallgrass Prairie,Tallgrass Prairie
+2046,Central Tallgrass Prairie,Tallgrass Prairie
+2047,Southeastern Great Plains Tallgrass Prairie,Tallgrass Prairie
+2048,Eastern Great Plains Floodplain Systems,Cool Swamp
+2049,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+2050,Eastern Great Plains Wet Meadow-Prairie-Marsh,Freshwater Marsh
+2051,North-Central Interior Wet Flatwoods,Cool Swamp
+2052,Western Great Plains Dry Bur Oak Forest and Woodland,Temperate Oak Forest
+2053,Western Great Plains Sandhill Steppe,Temperate Grassland
+2054,Central Mixedgrass Prairie,Temperate Grassland
+2055,Western Great Plains Sand Prairie,Temperate Grassland
+2056,Western Great Plains Shortgrass Prairie,Temperate Grassland
+2057,Western Great Plains Tallgrass Prairie,Temperate Grassland
+2058,Western Great Plains Floodplain Systems,Cool Swamp
+2059,Crosstimbers Oak Forest and Woodland,Cool Xeric Woodland
+2060,North-Central Interior Dry-Mesic Oak Forest and Woodland,Temperate Oak Forest
+2061,North-Central Interior Maple-Basswood Forest,Temperate Deciduous Forest
+2062,Central Tallgrass Prairie,Tallgrass Prairie
+2063,Southeastern Great Plains Tallgrass Prairie,Tallgrass Prairie
+2064,Eastern Great Plains Floodplain Systems,Cool Swamp
+2065,Eastern Great Plains Wet Meadow-Prairie-Marsh,Freshwater Marsh
+2066,Western Great Plains Depressional Wetland Systems,Freshwater Marsh
+2067,Southern Interior Low Plateau Dry-Mesic Oak Forest,Temperate Oak Forest
+2068,East Gulf Coastal Plain Northern Loess Plain Oak-Hickory Upland,Temperate Oak Forest
+2069,East Gulf Coastal Plain Northern Dry Upland Hardwood Forest,Temperate Oak Forest
+2070,North-Central Interior Dry-Mesic Oak Forest and Woodland,Temperate Oak Forest
+2071,North-Central Interior Beech-Maple Forest,Temperate Deciduous Forest
+2072,South-Central Interior Mesophytic Forest,Temperate Deciduous Forest
+2073,East Gulf Coastal Plain Northern Mesic Hardwood Slope Forest,Temperate Deciduous Forest
+2074,South-Central Interior/Upper Coastal Plain Flatwoods,Temperate Pine Forest
+2075,East Gulf Coastal Plain Northern Loess Bluff Forest,Temperate Deciduous Forest
+2076,Southern Appalachian Low-Elevation Pine Forest,Temperate Pine Forest
+2077,Southern Coastal Plain Mesic Slope Forest - not evergreen,Temperate Deciduous Forest
+2078,Central Interior Highlands Dry Acidic Glade and Barrens,Tallgrass Prairie
+2079,Central Interior Highlands Calcareous Glade and Barrens,Tallgrass Prairie
+2080,Bluegrass Savanna and Woodland,Tallgrass Prairie
+2081,Pennyroyal Karst Plain Prairie and Barrens,Tallgrass Prairie
+2082,East Gulf Coastal Plain Jackson Plain Prairie and Barrens,Tallgrass Prairie
+2083,South-Central Interior/Upper Coastal Plain Wet Flatwoods,Temperate Pine Forest
+2084,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+2085,Central Interior and Appalachian Riparian Systems,Cool Swamp
+2086,Gulf and Atlantic Coastal Plain Floodplain Systems,Warm Swamp
+2087,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Warm Swamp
+2088,Central Interior and Appalachian Swamp Systems,Cool Swamp
+2089,Gulf and Atlantic Coastal Plain Swamp Systems,Warm Swamp
+2090,Mississippi River Alluvial Plain Dry-Mesic Loess Slope Forest,Temperate Oak Forest
+2091,North-Central Interior Wet Flatwoods,Cool Swamp
+2092,Southern Interior Low Plateau Dry-Mesic Oak Forest,Temperate Oak Forest
+2093,East Gulf Coastal Plain Northern Loess Plain Oak-Hickory Upland,Temperate Oak Forest
+2094,East Gulf Coastal Plain Northern Dry Upland Hardwood Forest,Temperate Oak Forest
+2095,Southern Appalachian Oak Forest,Temperate Oak Forest
+2096,Allegheny-Cumberland Dry Oak Forest and Woodland,Temperate Oak Forest
+2097,Southern and Central Appalachian Cove Forest,Temperate Deciduous Forest
+2098,Central and Southern Appalachian Montane Oak Forest,Temperate Oak Forest
+2099,South-Central Interior Mesophytic Forest,Temperate Deciduous Forest
+2100,East Gulf Coastal Plain Northern Mesic Hardwood Slope Forest,Temperate Deciduous Forest
+2101,Southern Coastal Plain Dry Upland Hardwood Forest,Subtropical Mixed Forest
+2102,East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland,Tropical Pine Forest
+2103,Southeastern Interior Longleaf Pine Woodland,Tropical Pine Forest
+2104,Southern Appalachian Low-Elevation Pine Forest,Temperate Pine Forest
+2105,Southern Piedmont Dry Oak(-Pine) Forest,Temperate Oak Forest
+2106,Southern Ridge and Valley/Cumberland Dry Calcareous Forest,Temperate Oak Forest
+2107,Nashville Basin Limestone Glade and Woodland,Tallgrass Prairie
+2108,Central Interior Highlands Calcareous Glade and Barrens,Tallgrass Prairie
+2109,Alabama Ketona Glade and Woodland,Tallgrass Prairie
+2110,Western Highland Rim Prairie and Barrens,Tallgrass Prairie
+2111,Eastern Highland Rim Prairie and Barrens,Tallgrass Prairie
+2112,South-Central Interior/Upper Coastal Plain Wet Flatwoods,Temperate Pine Forest
+2113,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+2114,Central Interior and Appalachian Riparian Systems,Cool Swamp
+2115,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Warm Swamp
+2116,Central Interior and Appalachian Swamp Systems,Cool Swamp
+2117,North-Central Interior Dry-Mesic Oak Forest and Woodland,Temperate Oak Forest
+2118,North-Central Interior Dry Oak Forest and Woodland,Temperate Oak Forest
+2119,North-Central Interior Maple-Basswood Forest,Temperate Deciduous Forest
+2120,Western Great Plains Wooded Draw and Ravine,Cool Swamp
+2121,North-Central Interior Oak Savanna,Temperate Oak Forest
+2122,North-Central Oak Barrens,Temperate Oak Forest
+2123,North-Central Interior Sand and Gravel Tallgrass Prairie,Tallgrass Prairie
+2124,Northern Tallgrass Prairie,Tallgrass Prairie
+2125,Central Tallgrass Prairie,Tallgrass Prairie
+2126,Eastern Great Plains Floodplain Systems,Cool Swamp
+2127,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+2128,Central Interior and Appalachian Swamp Systems,Cool Swamp
+2129,Eastern Great Plains Wet Meadow-Prairie-Marsh,Freshwater Marsh
+2130,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Freshwater Marsh
+2132,Ozark-Ouachita Dry-Mesic Oak Forest,Temperate Oak Forest
+2133,Crosstimbers Oak Forest and Woodland,Cool Xeric Woodland
+2134,North-Central Interior Dry-Mesic Oak Forest and Woodland,Temperate Oak Forest
+2135,North-Central Interior Dry Oak Forest and Woodland,Temperate Oak Forest
+2136,Ouachita Montane Oak Forest,Temperate Oak Forest
+2137,North-Central Interior Maple-Basswood Forest,Temperate Deciduous Forest
+2138,West Gulf Coastal Plain Mesic Hardwood Forest,Temperate Deciduous Forest
+2139,Ozark-Ouachita Mesic Hardwood Forest,Temperate Deciduous Forest
+2140,Ozark-Ouachita Dry Oak Woodland,Temperate Oak Forest
+2141,Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,Temperate Pine Forest
+2142,West Gulf Coastal Plain Pine-Hardwood Forest,Temperate Pine Forest
+2143,West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,Temperate Pine Forest
+2144,North-Central Interior Oak Savanna,Temperate Oak Forest
+2145,Central Interior Highlands Calcareous Glade and Barrens,Tallgrass Prairie
+2146,Arkansas Valley Prairie and Woodland - Prairie,Tallgrass Prairie
+2147,Arkansas Valley Prairie and Woodland - Woodland,Temperate Oak Forest
+2148,Central Tallgrass Prairie,Tallgrass Prairie
+2149,Southeastern Great Plains Tallgrass Prairie,Tallgrass Prairie
+2150,West Gulf Coastal Plain Northern Calcareous Prairie,Tallgrass Prairie
+2151,West Gulf Coastal Plain Pine-Hardwood Flatwoods,Warm Swamp
+2152,Central Interior and Appalachian Floodplain Systems,Cool Swamp
+2153,South-Central Interior Large Floodplain,Cool Swamp
+2154,Central Interior and Appalachian Riparian Systems,Cool Swamp
+2155,Gulf and Atlantic Coastal Plain Floodplain Systems,Warm Swamp
+2156,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Warm Swamp
+2157,Gulf and Atlantic Coastal Plain Swamp Systems,Warm Swamp
+2158,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Freshwater Marsh
+2159,West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods,Warm Swamp
+2160,Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,Temperate Pine Forest
