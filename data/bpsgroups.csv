@@ -1,0 +1,1738 @@
+VALUE,legend
+-9999,
+11,
+12,Rock and Ice
+31,
+381,Cool Desert
+383,
+384,Tundra
+385,Warm Desert
+386,Temperate Grassland
+387,Temperate Grassland
+388,Cool Desert
+389,Cool Desert
+390,Cool Desert
+391,Cool Xeric Woodland
+392,Warm Desert
+393,Warm Desert
+394,Cool Desert
+395,Cool Desert
+396,Temperate Grassland
+397,Chaparral
+398,Warm Desert
+399,Cool Desert
+400,Cool Desert
+401,Salt Desert
+402,Warm Desert
+403,Cool Desert
+404,Cool Desert
+405,Chaparral
+406,Cool Desert
+407,Warm Desert
+408,
+409,Tundra
+410,
+411,Tundra
+412,
+413,Tundra
+414,
+415,Tundra
+416,Boreal/Subalpine Forest
+417,Temperate Coniferous Forest
+418,Temperate Coniferous Forest
+419,Temperate Coniferous Forest
+420,Boreal/Subalpine Forest
+421,Temperate Coniferous Forest
+422,Temperate Coniferous Forest
+423,Temperate Pine Forest
+424,Boreal/Subalpine Forest
+425,Boreal/Subalpine Forest
+426,Cool Xeric Woodland
+427,Cool Desert
+428,Tundra
+429,Cool Desert
+430,Cool Desert
+431,Cool Xeric Woodland
+432,Cool Xeric Woodland
+433,Cool Desert
+434,Cool Desert
+435,Cool Desert
+436,Cool Desert
+437,Cool Desert
+438,Cool Desert
+439,Cool Desert
+440,Temperate Grassland
+441,Temperate Grassland
+442,Temperate Grassland
+443,Temperate Grassland
+444,Salt Marsh
+445,Cool Swamp
+446,Cool Swamp
+447,Cool Swamp
+448,Cool Swamp
+449,Temperate Coniferous Forest
+450,Temperate Pine Forest
+451,
+452,Tundra
+453,Cool Xeric Woodland
+454,Boreal/Subalpine Forest
+456,Temperate Coniferous Forest
+457,Temperate Coniferous Forest
+458,Temperate Coniferous Forest
+459,Boreal/Subalpine Forest
+460,Temperate Coniferous Forest
+461,Temperate Coniferous Forest
+462,Cool Xeric Woodland
+463,Temperate Pine Forest
+464,Boreal/Subalpine Forest
+465,Boreal/Subalpine Forest
+466,Cool Xeric Woodland
+467,Tundra
+468,Cool Desert
+469,Salt Desert
+470,Cool Xeric Woodland
+471,Cool Xeric Woodland
+472,Cool Desert
+473,Cool Desert
+474,Cool Desert
+475,Temperate Grassland
+476,Temperate Grassland
+477,Tundra
+478,Tundra
+479,Temperate Grassland
+480,Salt Marsh
+481,Cool Swamp
+482,Cool Swamp
+483,Cool Swamp
+484,Cool Swamp
+485,Temperate Coniferous Forest
+486,Temperate Coniferous Forest
+487,Temperate Pine Forest
+488,
+491,Cool Xeric Woodland
+492,Cool Xeric Woodland
+493,Boreal/Subalpine Forest
+494,Temperate Coniferous Forest
+495,Temperate Pine Forest
+496,Boreal/Subalpine Forest
+497,Cool Xeric Woodland
+498,Cool Desert
+499,Cool Desert
+500,Salt Desert
+501,Cool Desert
+502,Cool Xeric Woodland
+503,Warm Desert
+505,Warm Desert
+506,Cool Desert
+508,Chaparral
+510,Cool Xeric Woodland
+512,Warm Desert
+513,Cool Xeric Woodland
+516,Cool Desert
+517,Cool Desert
+518,Cool Desert
+519,Temperate Grassland
+520,Salt Marsh
+521,Cool Swamp
+522,Warm Swamp
+523,Warm Swamp
+525,Warm Desert
+526,Cool Xeric Woodland
+527,Cool Xeric Woodland
+528,Warm Xeric Woodland
+530,Warm Xeric Woodland
+531,Temperate Pine Forest
+532,Cool Desert
+533,Cool Desert
+534,Warm Desert
+535,Salt Desert
+536,Warm Desert
+537,Warm Desert
+538,Chaparral
+539,Chaparral
+540,Warm Desert
+541,Cool Xeric Woodland
+542,Warm Desert
+544,Cool Desert
+545,Warm Swamp
+546,Warm Swamp
+547,Temperate Oak Forest
+548,Temperate Coniferous Forest
+549,Temperate Coniferous Forest
+550,Temperate Coniferous Forest
+551,Temperate Coniferous Forest
+552,Temperate Coniferous Forest
+553,Warm Xeric Woodland
+554,Warm Xeric Woodland
+555,Temperate Pine Forest
+556,Boreal/Subalpine Forest
+557,Boreal/Subalpine Forest
+558,Temperate Coniferous Forest
+559,Warm Xeric Woodland
+560,Boreal/Subalpine Forest
+561,Chaparral
+562,Chaparral
+563,Chaparral
+564,Chaparral
+565,Chaparral
+566,Warm Xeric Woodland
+567,Warm Xeric Woodland
+568,Chaparral
+569,Temperate Grassland
+570,Temperate Grassland
+571,Temperate Grassland
+572,Temperate Grassland
+573,Cool Swamp
+574,Freshwater Marsh
+575,Chaparral
+576,Warm Xeric Woodland
+577,
+579,Boreal/Subalpine Forest
+580,Cool Xeric Woodland
+581,Cool Xeric Woodland
+582,Boreal/Subalpine Forest
+583,Temperate Coniferous Forest
+584,Temperate Coniferous Forest
+585,Temperate Coniferous Forest
+586,Warm Xeric Woodland
+587,Warm Xeric Woodland
+588,Temperate Pine Forest
+589,Boreal/Subalpine Forest
+590,Boreal/Subalpine Forest
+591,Boreal/Subalpine Forest
+592,Temperate Coniferous Forest
+593,Warm Xeric Woodland
+594,Boreal/Subalpine Forest
+595,Temperate Coniferous Forest
+596,Temperate Pine Forest
+597,Temperate Pine Forest
+598,Boreal/Subalpine Forest
+599,Cool Xeric Woodland
+600,Tundra
+601,Tundra
+602,Cool Desert
+603,Cool Desert
+604,Salt Desert
+605,Cool Desert
+606,Warm Desert
+607,Chaparral
+608,Chaparral
+609,Chaparral
+610,Chaparral
+611,Warm Xeric Woodland
+612,Cool Desert
+613,Cool Desert
+614,Tundra
+615,Temperate Grassland
+616,Temperate Grassland
+617,Cool Swamp
+618,Salt Marsh
+619,Cool Swamp
+620,
+621,Tundra
+622,Boreal/Subalpine Forest
+623,Cool Xeric Woodland
+624,Cool Xeric Woodland
+625,Boreal/Subalpine Forest
+626,Temperate Pine Forest
+627,Boreal/Subalpine Forest
+628,Temperate Coniferous Forest
+629,Temperate Pine Forest
+630,Temperate Pine Forest
+631,Boreal/Subalpine Forest
+632,Boreal/Subalpine Forest
+633,Boreal/Subalpine Forest
+634,Cool Xeric Woodland
+635,Cool Desert
+636,Cool Desert
+637,Cool Desert
+638,Salt Desert
+639,Cool Xeric Woodland
+640,Cool Desert
+641,Cool Desert
+642,Cool Desert
+643,Cool Desert
+644,Cool Desert
+645,Cool Desert
+646,Cool Desert
+647,Temperate Grassland
+648,Temperate Grassland
+649,Temperate Grassland
+650,Tundra
+651,Temperate Grassland
+652,Salt Marsh
+653,Cool Swamp
+654,Cool Swamp
+655,Cool Swamp
+656,Cool Swamp
+657,Temperate Pine Forest
+658,Temperate Coniferous Forest
+659,Temperate Pine Forest
+660,
+661,Cool Xeric Woodland
+662,Temperate Pine Forest
+663,Temperate Coniferous Forest
+664,Temperate Pine Forest
+665,Boreal/Subalpine Forest
+666,Boreal/Subalpine Forest
+667,Boreal/Subalpine Forest
+668,Cool Desert
+669,Cool Desert
+670,Salt Desert
+671,Cool Xeric Woodland
+672,Cool Desert
+673,Cool Desert
+674,Cool Desert
+675,Cool Desert
+676,Cool Desert
+677,Cool Desert
+678,Cool Desert
+679,Temperate Grassland
+680,Temperate Grassland
+681,Salt Marsh
+682,Cool Swamp
+683,Cool Swamp
+684,Cool Swamp
+685,Temperate Pine Forest
+686,Boreal/Subalpine Forest
+687,Boreal/Subalpine Forest
+688,Temperate Pine Forest
+689,Boreal/Subalpine Forest
+690,Cool Xeric Woodland
+691,Temperate Coniferous Forest
+692,Temperate Coniferous Forest
+693,Boreal/Subalpine Forest
+694,Boreal/Subalpine Forest
+695,Cool Xeric Woodland
+696,Tundra
+697,Cool Desert
+698,Cool Desert
+699,Salt Desert
+700,Cool Xeric Woodland
+701,Cool Xeric Woodland
+702,Cool Xeric Woodland
+703,Cool Desert
+704,Cool Desert
+705,Cool Desert
+706,Temperate Grassland
+707,Temperate Grassland
+708,Tundra
+709,Tundra
+710,Temperate Grassland
+711,Salt Marsh
+712,Cool Swamp
+713,Cool Swamp
+714,Cool Swamp
+715,Temperate Coniferous Forest
+716,Temperate Pine Forest
+717,
+718,
+719,Tundra
+720,Temperate Oak Forest
+721,Temperate Coniferous Forest
+722,Temperate Coniferous Forest
+723,Temperate Coniferous Forest
+724,Temperate Coniferous Forest
+725,Boreal/Subalpine Forest
+726,Temperate Coniferous Forest
+727,Boreal/Subalpine Forest
+728,Boreal/Subalpine Forest
+729,Temperate Coniferous Forest
+730,Temperate Pine Forest
+731,Boreal/Subalpine Forest
+732,Temperate Pine Forest
+733,Boreal/Subalpine Forest
+734,Boreal/Subalpine Forest
+735,Temperate Oak Forest
+736,Temperate Coniferous Forest
+737,Cool Desert
+738,Tundra
+739,Cool Desert
+740,Freshwater Marsh
+741,Cool Xeric Woodland
+742,Cool Xeric Woodland
+743,Temperate Grassland
+744,Cool Desert
+745,Cool Desert
+746,Cool Desert
+747,Cool Desert
+748,Temperate Grassland
+749,Cool Swamp
+750,Cool Swamp
+751,Cool Swamp
+752,Cool Swamp
+753,Cool Swamp
+754,Temperate Pine Forest
+755,Temperate Pine Forest
+756,Temperate Grassland
+757,Temperate Coniferous Forest
+758,Temperate Coniferous Forest
+759,Temperate Coniferous Forest
+760,Temperate Oak Forest
+761,Temperate Coniferous Forest
+762,Temperate Coniferous Forest
+763,Temperate Coniferous Forest
+764,Temperate Coniferous Forest
+765,Temperate Coniferous Forest
+766,Warm Xeric Woodland
+767,Warm Xeric Woodland
+768,Temperate Pine Forest
+769,Boreal/Subalpine Forest
+770,Temperate Coniferous Forest
+771,Temperate Coniferous Forest
+772,Temperate Coniferous Forest
+773,Temperate Coniferous Forest
+774,Warm Xeric Woodland
+775,Temperate Oak Forest
+776,Temperate Coniferous Forest
+777,Temperate Grassland
+778,Chaparral
+779,Temperate Grassland
+780,Cool Swamp
+781,Cool Swamp
+782,Cool Swamp
+783,Cool Swamp
+784,Cool Swamp
+785,Chaparral
+786,Temperate Coniferous Forest
+787,
+788,
+789,
+790,Temperate Oak Forest
+791,Boreal/Subalpine Forest
+792,Cool Xeric Woodland
+793,Temperate Coniferous Forest
+794,Cool Xeric Woodland
+795,Temperate Coniferous Forest
+796,Temperate Coniferous Forest
+797,Temperate Coniferous Forest
+798,Temperate Coniferous Forest
+799,Warm Xeric Woodland
+800,Warm Xeric Woodland
+801,Temperate Pine Forest
+802,Boreal/Subalpine Forest
+803,Boreal/Subalpine Forest
+804,Temperate Coniferous Forest
+805,Temperate Coniferous Forest
+806,Temperate Coniferous Forest
+807,Boreal/Subalpine Forest
+808,Temperate Coniferous Forest
+809,Boreal/Subalpine Forest
+810,Boreal/Subalpine Forest
+811,Temperate Coniferous Forest
+812,Warm Xeric Woodland
+813,Boreal/Subalpine Forest
+814,Temperate Pine Forest
+815,Boreal/Subalpine Forest
+816,Temperate Pine Forest
+817,Temperate Pine Forest
+818,Boreal/Subalpine Forest
+819,Boreal/Subalpine Forest
+820,Temperate Oak Forest
+821,Cool Xeric Woodland
+822,Temperate Coniferous Forest
+823,Tundra
+824,Cool Desert
+825,Salt Desert
+826,Chaparral
+827,Chaparral
+828,Chaparral
+829,Chaparral
+830,Warm Xeric Woodland
+831,Temperate Grassland
+832,Cool Desert
+833,Cool Desert
+834,Cool Desert
+835,Cool Desert
+836,Cool Desert
+837,Cool Desert
+838,Cool Swamp
+839,Salt Marsh
+840,Cool Swamp
+841,Cool Swamp
+842,Cool Swamp
+843,Cool Swamp
+844,Temperate Pine Forest
+845,Temperate Pine Forest
+846,Chaparral
+847,Temperate Grassland
+848,Temperate Coniferous Forest
+849,Temperate Coniferous Forest
+850,Temperate Coniferous Forest
+851,Temperate Coniferous Forest
+852,
+853,Boreal/Subalpine Forest
+854,Temperate Coniferous Forest
+855,Temperate Pine Forest
+856,Boreal/Subalpine Forest
+857,Cool Xeric Woodland
+858,Temperate Pine Forest
+859,Boreal/Subalpine Forest
+860,Boreal/Subalpine Forest
+861,Boreal/Subalpine Forest
+862,Temperate Grassland
+863,Cool Xeric Woodland
+864,Temperate Pine Forest
+865,Cool Desert
+866,Cool Desert
+867,Temperate Grassland
+868,Temperate Grassland
+869,Temperate Grassland
+870,Temperate Grassland
+871,Temperate Grassland
+872,Salt Marsh
+873,Cool Swamp
+874,Cool Swamp
+875,Cool Swamp
+876,Cool Swamp
+877,Freshwater Marsh
+878,
+879,Boreal/Subalpine Forest
+880,Cool Xeric Woodland
+881,Cool Xeric Woodland
+882,Temperate Pine Forest
+883,Temperate Coniferous Forest
+884,Temperate Pine Forest
+885,Boreal/Subalpine Forest
+886,Boreal/Subalpine Forest
+887,Boreal/Subalpine Forest
+888,Cool Xeric Woodland
+889,Salt Desert
+890,Cool Desert
+891,Cool Desert
+892,Cool Desert
+893,Salt Desert
+894,Cool Xeric Woodland
+895,Cool Xeric Woodland
+896,Cool Xeric Woodland
+897,Cool Xeric Woodland
+898,Cool Desert
+899,Cool Desert
+900,Cool Desert
+901,Temperate Grassland
+903,Temperate Grassland
+904,Salt Marsh
+905,Cool Swamp
+906,Cool Swamp
+907,Temperate Coniferous Forest
+908,
+909,
+910,Warm Xeric Woodland
+911,Temperate Coniferous Forest
+912,Warm Xeric Woodland
+913,Warm Xeric Woodland
+914,Temperate Pine Forest
+915,Warm Xeric Woodland
+916,Salt Desert
+917,Chaparral
+918,Chaparral
+919,Chaparral
+920,Warm Xeric Woodland
+921,Warm Xeric Woodland
+922,Temperate Grassland
+923,Temperate Grassland
+924,Warm Swamp
+925,Cool Swamp
+926,Freshwater Marsh
+927,Warm Desert
+928,Warm Xeric Woodland
+929,Temperate Coniferous Forest
+930,Cool Xeric Woodland
+931,Temperate Coniferous Forest
+932,Temperate Coniferous Forest
+933,Warm Xeric Woodland
+934,Warm Xeric Woodland
+935,Temperate Pine Forest
+936,Temperate Coniferous Forest
+937,Boreal/Subalpine Forest
+938,Cool Desert
+939,Warm Desert
+940,Salt Desert
+941,Chaparral
+942,Chaparral
+943,Chaparral
+944,Chaparral
+945,Chaparral
+946,Chaparral
+947,Chaparral
+948,Warm Desert
+949,Chaparral
+950,Warm Xeric Woodland
+951,Warm Xeric Woodland
+952,Warm Xeric Woodland
+953,Warm Xeric Woodland
+954,Chaparral
+955,Temperate Grassland
+956,Temperate Grassland
+957,Temperate Grassland
+958,Warm Swamp
+959,Cool Swamp
+960,Warm Swamp
+961,Freshwater Marsh
+962,Warm Xeric Woodland
+963,
+964,Tundra
+965,Boreal/Subalpine Forest
+966,Boreal/Subalpine Forest
+967,Cool Xeric Woodland
+968,Cool Xeric Woodland
+969,Cool Xeric Woodland
+970,Temperate Pine Forest
+971,Temperate Coniferous Forest
+972,Temperate Coniferous Forest
+973,Temperate Pine Forest
+974,Boreal/Subalpine Forest
+975,Boreal/Subalpine Forest
+976,Boreal/Subalpine Forest
+977,Temperate Coniferous Forest
+978,Temperate Coniferous Forest
+979,Cool Xeric Woodland
+980,Cool Desert
+981,Tundra
+982,Cool Desert
+983,Cool Desert
+984,Cool Desert
+985,Salt Desert
+986,Cool Xeric Woodland
+987,Cool Desert
+988,Cool Xeric Woodland
+989,Chaparral
+990,Cool Xeric Woodland
+991,Cool Xeric Woodland
+992,Cool Xeric Woodland
+993,Temperate Pine Forest
+994,Cool Desert
+995,Cool Desert
+996,Cool Desert
+997,Cool Desert
+998,Cool Desert
+999,Tundra
+1000,Temperate Grassland
+1001,Temperate Grassland
+1002,Salt Marsh
+1003,Cool Swamp
+1004,Cool Swamp
+1005,Cool Swamp
+1006,
+1007,Warm Desert
+1008,Tundra
+1009,Boreal/Subalpine Forest
+1010,Cool Xeric Woodland
+1011,Cool Xeric Woodland
+1012,Temperate Pine Forest
+1013,Temperate Coniferous Forest
+1014,Temperate Coniferous Forest
+1015,Temperate Pine Forest
+1016,Boreal/Subalpine Forest
+1017,Boreal/Subalpine Forest
+1018,Boreal/Subalpine Forest
+1019,Temperate Coniferous Forest
+1020,Temperate Coniferous Forest
+1021,Cool Xeric Woodland
+1022,Cool Desert
+1023,Salt Desert
+1024,Cool Desert
+1025,Cool Desert
+1026,Salt Desert
+1027,Cool Desert
+1028,Cool Xeric Woodland
+1029,Cool Desert
+1030,Cool Xeric Woodland
+1031,Chaparral
+1032,Chaparral
+1033,Cool Xeric Woodland
+1034,Cool Xeric Woodland
+1035,Temperate Pine Forest
+1036,Cool Desert
+1037,Cool Desert
+1038,Cool Desert
+1039,Cool Desert
+1040,Cool Desert
+1041,Temperate Grassland
+1042,Salt Marsh
+1043,Cool Swamp
+1044,Cool Swamp
+1045,
+1046,Warm Desert
+1047,Tundra
+1048,Boreal/Subalpine Forest
+1049,Cool Xeric Woodland
+1050,Cool Xeric Woodland
+1051,Boreal/Subalpine Forest
+1054,Temperate Pine Forest
+1055,Boreal/Subalpine Forest
+1056,Temperate Coniferous Forest
+1057,Boreal/Subalpine Forest
+1058,Boreal/Subalpine Forest
+1059,Cool Xeric Woodland
+1060,Cool Desert
+1061,Cool Desert
+1062,Salt Desert
+1063,Cool Desert
+1064,Warm Desert
+1065,Salt Desert
+1066,Chaparral
+1067,Cool Desert
+1068,Cool Desert
+1069,Cool Desert
+1070,Cool Desert
+1071,Cool Desert
+1072,Tundra
+1073,Salt Marsh
+1074,Cool Swamp
+1075,Cool Swamp
+1076,Cool Swamp
+1077,
+1078,Boreal/Subalpine Forest
+1079,Boreal/Subalpine Forest
+1080,Cool Xeric Woodland
+1081,Cool Xeric Woodland
+1082,Boreal/Subalpine Forest
+1083,Temperate Coniferous Forest
+1084,Temperate Coniferous Forest
+1085,Temperate Pine Forest
+1086,Boreal/Subalpine Forest
+1087,Boreal/Subalpine Forest
+1088,Cool Xeric Woodland
+1089,Cool Desert
+1090,Cool Desert
+1091,Cool Desert
+1092,Salt Desert
+1093,Cool Desert
+1094,Cool Xeric Woodland
+1095,Warm Desert
+1096,Chaparral
+1097,Chaparral
+1098,Cool Xeric Woodland
+1099,Chaparral
+1100,Cool Xeric Woodland
+1101,Cool Desert
+1102,Cool Desert
+1103,Cool Desert
+1104,Cool Desert
+1105,Cool Desert
+1106,Temperate Grassland
+1107,Salt Marsh
+1108,Cool Swamp
+1109,Cool Swamp
+1110,Cool Swamp
+1111,
+1112,Warm Desert
+1113,Boreal/Subalpine Forest
+1114,Cool Xeric Woodland
+1115,Warm Xeric Woodland
+1116,Warm Xeric Woodland
+1117,Warm Xeric Woodland
+1118,Temperate Coniferous Forest
+1119,Temperate Coniferous Forest
+1120,Temperate Pine Forest
+1121,Boreal/Subalpine Forest
+1122,Cool Xeric Woodland
+1123,Temperate Coniferous Forest
+1124,Cool Desert
+1125,Salt Desert
+1126,Cool Desert
+1127,Cool Desert
+1128,Salt Desert
+1129,Cool Desert
+1130,Cool Xeric Woodland
+1131,Chaparral
+1132,Cool Xeric Woodland
+1133,Cool Xeric Woodland
+1134,Warm Xeric Woodland
+1135,Temperate Pine Forest
+1136,Cool Xeric Woodland
+1137,Warm Desert
+1138,Cool Desert
+1139,Cool Desert
+1140,Cool Desert
+1141,Temperate Grassland
+1142,Salt Marsh
+1143,Cool Swamp
+1144,
+1145,Tundra
+1146,Boreal/Subalpine Forest
+1147,Cool Xeric Woodland
+1148,Cool Xeric Woodland
+1149,Temperate Pine Forest
+1150,Temperate Coniferous Forest
+1151,Temperate Coniferous Forest
+1152,Temperate Pine Forest
+1153,Boreal/Subalpine Forest
+1154,Boreal/Subalpine Forest
+1155,Boreal/Subalpine Forest
+1156,Cool Xeric Woodland
+1157,Boreal/Subalpine Forest
+1158,Cool Xeric Woodland
+1159,Cool Desert
+1160,Tundra
+1161,Cool Desert
+1162,Salt Desert
+1163,Cool Xeric Woodland
+1164,Cool Xeric Woodland
+1165,Cool Xeric Woodland
+1166,Cool Xeric Woodland
+1167,Temperate Pine Forest
+1168,Cool Xeric Woodland
+1169,Cool Desert
+1170,Cool Desert
+1171,Cool Desert
+1172,Cool Desert
+1173,Tundra
+1174,Tundra
+1175,Temperate Grassland
+1176,Temperate Grassland
+1177,Salt Marsh
+1178,Cool Swamp
+1179,Cool Swamp
+1180,Warm Desert
+1181,Boreal/Subalpine Forest
+1182,Cool Xeric Woodland
+1183,Cool Xeric Woodland
+1184,Warm Xeric Woodland
+1185,Warm Xeric Woodland
+1186,Warm Xeric Woodland
+1187,Warm Xeric Woodland
+1188,Temperate Coniferous Forest
+1189,Temperate Coniferous Forest
+1190,Temperate Pine Forest
+1191,Boreal/Subalpine Forest
+1192,Boreal/Subalpine Forest
+1193,Boreal/Subalpine Forest
+1194,Warm Desert
+1195,Cool Desert
+1196,Salt Desert
+1197,Cool Desert
+1198,Warm Desert
+1199,Warm Desert
+1200,Warm Desert
+1201,Cool Xeric Woodland
+1202,Chaparral
+1203,Cool Xeric Woodland
+1204,Warm Desert
+1205,Cool Xeric Woodland
+1206,Warm Xeric Woodland
+1207,Temperate Pine Forest
+1208,Warm Desert
+1209,Cool Desert
+1210,Cool Desert
+1211,Temperate Grassland
+1212,Warm Swamp
+1213,Warm Swamp
+1214,Cool Swamp
+1215,Cool Swamp
+1216,
+1217,Tundra
+1218,Boreal/Subalpine Forest
+1219,Boreal/Subalpine Forest
+1220,Cool Xeric Woodland
+1221,Cool Xeric Woodland
+1222,Boreal/Subalpine Forest
+1223,Temperate Pine Forest
+1224,Temperate Coniferous Forest
+1225,Temperate Coniferous Forest
+1226,Boreal/Subalpine Forest
+1227,Boreal/Subalpine Forest
+1228,Boreal/Subalpine Forest
+1229,Boreal/Subalpine Forest
+1230,Cool Xeric Woodland
+1231,Cool Desert
+1232,Cool Desert
+1233,Salt Desert
+1234,Cool Xeric Woodland
+1235,Cool Xeric Woodland
+1236,Cool Desert
+1237,Cool Desert
+1238,Cool Desert
+1239,Cool Desert
+1240,Cool Desert
+1241,Cool Desert
+1243,Salt Marsh
+1244,Cool Swamp
+1245,Cool Swamp
+1246,Cool Swamp
+1247,Tundra
+1248,
+1249,Boreal/Subalpine Forest
+1250,Temperate Coniferous Forest
+1251,Cool Xeric Woodland
+1252,Temperate Coniferous Forest
+1253,Temperate Pine Forest
+1254,Boreal/Subalpine Forest
+1255,Boreal/Subalpine Forest
+1256,Boreal/Subalpine Forest
+1257,Boreal/Subalpine Forest
+1258,Cool Xeric Woodland
+1259,Salt Desert
+1260,Cool Desert
+1261,Temperate Grassland
+1262,Cool Xeric Woodland
+1263,Cool Xeric Woodland
+1264,Temperate Pine Forest
+1265,Cool Desert
+1266,Cool Desert
+1267,Temperate Grassland
+1268,Temperate Grassland
+1269,Temperate Grassland
+1270,Temperate Grassland
+1271,Temperate Grassland
+1272,Temperate Grassland
+1273,Salt Marsh
+1274,Cool Swamp
+1275,Cool Swamp
+1276,Cool Swamp
+1277,Temperate Coniferous Forest
+1278,Temperate Pine Forest
+1279,Temperate Pine Forest
+1280,Cool Swamp
+1281,
+1282,Temperate Grassland
+1283,Cool Desert
+1284,Temperate Grassland
+1285,Temperate Grassland
+1286,Salt Marsh
+1287,Cool Swamp
+1288,Temperate Pine Forest
+1289,Temperate Pine Forest
+1290,Cool Swamp
+1291,Freshwater Marsh
+1292,Freshwater Marsh
+1293,Subtropical Mixed Forest
+1294,Temperate Oak Forest
+1295,Subtropical Mixed Forest
+1296,Warm Xeric Woodland
+1297,Warm Xeric Woodland
+1298,Warm Xeric Woodland
+1299,Warm Xeric Woodland
+1300,Subtropical Mixed Forest
+1301,Subtropical Mixed Forest
+1302,Subtropical Mixed Forest
+1303,Tropical/Subtropical Savanna
+1304,Warm Xeric Woodland
+1305,Warm Xeric Woodland
+1306,Warm Xeric Woodland
+1307,Warm Swamp
+1308,Warm Swamp
+1309,Warm Swamp
+1310,Warm Swamp
+1311,Warm Swamp
+1312,Warm Swamp
+1313,Freshwater Marsh
+1314,Freshwater Marsh
+1315,Salt Marsh
+1316,Subtropical Mixed Forest
+1317,Tropical Dry Forest
+1318,Tropical Dry Forest
+1319,Tropical Dry Forest
+1320,Warm Xeric Woodland
+1321,Tropical Pine Forest
+1322,Tropical/Subtropical Savanna
+1323,Tropical/Subtropical Savanna
+1324,Warm Swamp
+1325,Warm Xeric Woodland
+1326,Warm Swamp
+1327,Warm Xeric Woodland
+1328,Warm Xeric Woodland
+1329,Warm Swamp
+1330,Warm Swamp
+1331,Mangroves
+1332,Warm Swamp
+1333,Warm Swamp
+1334,Warm Swamp
+1335,Freshwater Marsh
+1336,Freshwater Marsh
+1337,Salt Marsh
+1338,Warm Desert
+1339,Cool Xeric Woodland
+1340,Warm Xeric Woodland
+1341,Warm Xeric Woodland
+1342,Warm Xeric Woodland
+1343,Temperate Coniferous Forest
+1344,Temperate Coniferous Forest
+1345,Temperate Pine Forest
+1346,Cool Xeric Woodland
+1347,Boreal/Subalpine Forest
+1348,Warm Desert
+1349,Warm Desert
+1350,Warm Desert
+1351,Cool Desert
+1352,Warm Desert
+1353,Salt Desert
+1354,Warm Desert
+1355,Temperate Grassland
+1356,Warm Desert
+1357,Warm Desert
+1358,Chaparral
+1359,Chaparral
+1360,Cool Xeric Woodland
+1361,Chaparral
+1362,Warm Desert
+1363,Warm Xeric Woodland
+1364,Cool Xeric Woodland
+1365,Warm Desert
+1366,Warm Desert
+1367,Cool Desert
+1368,Warm Desert
+1369,Cool Desert
+1370,Temperate Grassland
+1371,Temperate Grassland
+1372,Salt Marsh
+1373,Warm Swamp
+1374,Cool Swamp
+1375,Warm Desert
+1376,Warm Desert
+1377,Warm Desert
+1378,Warm Xeric Woodland
+1379,Warm Xeric Woodland
+1380,Temperate Pine Forest
+1381,Cool Xeric Woodland
+1382,Warm Desert
+1383,Warm Desert
+1384,Warm Desert
+1385,Warm Desert
+1386,Cool Xeric Woodland
+1387,Temperate Grassland
+1388,Warm Desert
+1389,Warm Desert
+1390,Chaparral
+1391,Temperate Grassland
+1392,Warm Xeric Woodland
+1393,Cool Xeric Woodland
+1394,Warm Desert
+1395,Warm Desert
+1396,Temperate Grassland
+1397,Temperate Grassland
+1398,Warm Swamp
+1399,Cool Swamp
+1400,Temperate Grassland
+1401,Salt Marsh
+1402,Warm Desert
+1403,Warm Desert
+1404,Warm Desert
+1405,Temperate Pine Forest
+1406,Cool Xeric Woodland
+1407,Cool Desert
+1408,Salt Desert
+1409,Cool Xeric Woodland
+1410,Temperate Grassland
+1411,Cool Xeric Woodland
+1412,Temperate Grassland
+1413,Temperate Pine Forest
+1414,Cool Desert
+1415,Temperate Grassland
+1416,Temperate Grassland
+1417,Temperate Grassland
+1418,Cool Swamp
+1419,Cool Swamp
+1420,Cool Swamp
+1421,Freshwater Marsh
+1422,
+1423,Temperate Grassland
+1424,Temperate Grassland
+1425,Cool Xeric Woodland
+1426,Temperate Grassland
+1427,Temperate Grassland
+1428,Temperate Grassland
+1429,Cool Swamp
+1430,Temperate Grassland
+1431,Salt Marsh
+1432,Salt Marsh
+1433,Warm Desert
+1434,Warm Desert
+1435,Subtropical Mixed Forest
+1436,Subtropical Mixed Forest
+1437,Warm Xeric Woodland
+1438,Temperate Pine Forest
+1439,Temperate Pine Forest
+1440,Tallgrass Prairie
+1441,Tropical/Subtropical Savanna
+1442,Tropical/Subtropical Savanna
+1443,Tallgrass Prairie
+1444,Warm Xeric Woodland
+1445,Warm Swamp
+1446,Warm Swamp
+1447,Warm Swamp
+1448,Warm Swamp
+1449,Salt Marsh
+1450,Warm Swamp
+1451,Cool Xeric Woodland
+1452,Temperate Oak Forest
+1453,Subtropical Mixed Forest
+1454,Warm Xeric Woodland
+1455,Warm Xeric Woodland
+1456,Subtropical Mixed Forest
+1457,Subtropical Mixed Forest
+1458,Subtropical Mixed Forest
+1459,Tallgrass Prairie
+1460,Warm Xeric Woodland
+1461,Warm Xeric Woodland
+1462,Freshwater Marsh
+1463,Warm Swamp
+1464,Warm Swamp
+1465,Warm Swamp
+1466,Warm Swamp
+1467,Warm Swamp
+1468,Salt Marsh
+1469,Warm Swamp
+1470,
+1471,
+1472,Boreal/Subalpine Forest
+1473,Boreal/Subalpine Forest
+1474,Warm Xeric Woodland
+1475,Temperate Coniferous Forest
+1476,Temperate Coniferous Forest
+1477,Temperate Pine Forest
+1478,Temperate Pine Forest
+1479,Boreal/Subalpine Forest
+1480,Cool Xeric Woodland
+1481,Boreal/Subalpine Forest
+1482,Cool Desert
+1483,Salt Desert
+1484,Salt Desert
+1485,Cool Xeric Woodland
+1486,Temperate Grassland
+1487,Warm Desert
+1488,Cool Xeric Woodland
+1489,Temperate Grassland
+1490,Temperate Pine Forest
+1491,Temperate Pine Forest
+1492,Cool Xeric Woodland
+1493,Warm Desert
+1494,Warm Desert
+1495,Temperate Grassland
+1496,Temperate Grassland
+1497,Temperate Grassland
+1498,Salt Marsh
+1499,Cool Swamp
+1500,Cool Swamp
+1501,Freshwater Marsh
+1502,Warm Desert
+1503,Warm Desert
+1504,Subtropical Mixed Forest
+1505,Subtropical Mixed Forest
+1506,Warm Xeric Woodland
+1507,Temperate Pine Forest
+1508,Subtropical Mixed Forest
+1509,Tallgrass Prairie
+1510,Warm Xeric Woodland
+1511,Warm Swamp
+1512,Warm Swamp
+1513,Warm Swamp
+1514,Warm Swamp
+1515,Salt Marsh
+1517,Temperate Deciduous Forest
+1518,Subtropical Mixed Forest
+1519,Subtropical Mixed Forest
+1520,Subtropical Mixed Forest
+1521,Warm Xeric Woodland
+1522,Temperate Pine Forest
+1523,Temperate Oak Forest
+1524,Tropical/Subtropical Savanna
+1525,Tallgrass Prairie
+1526,Warm Swamp
+1527,Warm Swamp
+1528,Warm Swamp
+1529,Warm Swamp
+1530,Temperate Oak Forest
+1531,Temperate Oak Forest
+1532,Warm Swamp
+1561,Temperate Pine Forest
+1562,Temperate Mixed Forest
+1563,Temperate Oak Forest
+1564,Temperate Oak Forest
+1565,Temperate Deciduous Forest
+1566,Temperate Deciduous Forest
+1567,Temperate Pine Forest
+1568,Temperate Mixed Forest
+1569,Temperate Mixed Forest
+1570,Temperate Oak Forest
+1571,Temperate Oak Forest
+1572,Temperate Pine Forest
+1573,Temperate Pine Forest
+1574,Tallgrass Prairie
+1575,Tallgrass Prairie
+1576,Tallgrass Prairie
+1577,Cool Swamp
+1578,Temperate Grassland
+1579,Cool Swamp
+1580,Cool Swamp
+1581,Cool Swamp
+1582,Cool Swamp
+1583,Cool Swamp
+1584,Freshwater Marsh
+1585,Freshwater Marsh
+1586,Freshwater Marsh
+1587,
+1588,Temperate Pine Forest
+1589,Temperate Mixed Forest
+1590,Temperate Oak Forest
+1591,Temperate Deciduous Forest
+1592,Cool Xeric Woodland
+1593,Boreal/Subalpine Forest
+1594,Temperate Pine Forest
+1595,Temperate Pine Forest
+1596,Temperate Mixed Forest
+1597,Temperate Mixed Forest
+1598,Temperate Mixed Forest
+1599,Temperate Oak Forest
+1600,Temperate Oak Forest
+1601,Temperate Pine Forest
+1602,Temperate Pine Forest
+1603,Tallgrass Prairie
+1604,Tallgrass Prairie
+1605,Cool Swamp
+1606,Cool Swamp
+1607,Cool Swamp
+1608,Cool Swamp
+1609,Cool Swamp
+1610,Cool Swamp
+1611,Freshwater Marsh
+1612,Freshwater Marsh
+1613,Freshwater Marsh
+1614,Temperate Pine Forest
+1615,Temperate Mixed Forest
+1616,Temperate Deciduous Forest
+1617,Temperate Oak Forest
+1618,Temperate Oak Forest
+1619,Temperate Deciduous Forest
+1620,Temperate Pine Forest
+1621,Boreal/Subalpine Forest
+1622,Temperate Pine Forest
+1623,Temperate Mixed Forest
+1624,Temperate Mixed Forest
+1625,Temperate Mixed Forest
+1626,Temperate Oak Forest
+1627,Temperate Oak Forest
+1628,Temperate Pine Forest
+1629,Temperate Pine Forest
+1630,Freshwater Marsh
+1631,Tallgrass Prairie
+1632,Tallgrass Prairie
+1633,Cool Swamp
+1634,Temperate Grassland
+1635,Cool Swamp
+1636,Cool Swamp
+1637,Cool Swamp
+1638,Cool Swamp
+1639,Cool Swamp
+1640,Freshwater Marsh
+1641,Freshwater Marsh
+1642,Temperate Oak Forest
+1643,Temperate Grassland
+1644,Temperate Grassland
+1645,Cool Swamp
+1646,Temperate Mixed Forest
+1647,Temperate Pine Forest
+1648,Temperate Deciduous Forest
+1649,Cool Xeric Woodland
+1650,Temperate Mixed Forest
+1651,Cool Swamp
+1652,Temperate Oak Forest
+1653,Tallgrass Prairie
+1654,Tallgrass Prairie
+1655,Cool Swamp
+1656,Cool Swamp
+1657,Freshwater Marsh
+1658,Freshwater Marsh
+1659,Temperate Oak Forest
+1660,Temperate Grassland
+1661,Temperate Grassland
+1662,Cool Swamp
+1663,Temperate Oak Forest
+1664,Temperate Oak Forest
+1665,Temperate Deciduous Forest
+1666,Cool Xeric Woodland
+1667,Cool Swamp
+1668,Temperate Oak Forest
+1669,Tallgrass Prairie
+1670,Tallgrass Prairie
+1671,Cool Swamp
+1672,Freshwater Marsh
+1673,Freshwater Marsh
+1674,
+1675,Temperate Oak Forest
+1676,Cool Xeric Woodland
+1677,Cool Desert
+1678,Cool Xeric Woodland
+1679,Temperate Grassland
+1680,Cool Desert
+1681,Temperate Grassland
+1682,Temperate Grassland
+1683,Temperate Grassland
+1684,Temperate Grassland
+1685,Temperate Grassland
+1686,Cool Swamp
+1687,Temperate Pine Forest
+1688,Cool Swamp
+1689,Tallgrass Prairie
+1690,Cool Swamp
+1691,Freshwater Marsh
+1692,Temperate Grassland
+1693,Temperate Grassland
+1694,Temperate Grassland
+1695,Temperate Grassland
+1696,Cool Swamp
+1697,Temperate Oak Forest
+1698,Cool Xeric Woodland
+1699,Subtropical Mixed Forest
+1700,Temperate Deciduous Forest
+1701,Temperate Oak Forest
+1702,Temperate Pine Forest
+1703,Temperate Pine Forest
+1704,Warm Xeric Woodland
+1705,Temperate Grassland
+1706,Tallgrass Prairie
+1707,Tallgrass Prairie
+1708,Cool Swamp
+1709,Cool Swamp
+1710,Warm Swamp
+1711,Warm Swamp
+1712,Warm Desert
+1713,Cool Xeric Woodland
+1714,Warm Xeric Woodland
+1715,Temperate Grassland
+1716,Warm Desert
+1717,Temperate Grassland
+1718,Temperate Grassland
+1719,Temperate Grassland
+1720,Temperate Grassland
+1721,Warm Swamp
+1722,Cool Swamp
+1723,Cool Xeric Woodland
+1724,Temperate Pine Forest
+1725,Warm Xeric Woodland
+1726,Tropical/Subtropical Thornscrub
+1727,Tropical/Subtropical Thornscrub
+1728,Temperate Grassland
+1729,Warm Xeric Woodland
+1730,Tallgrass Prairie
+1731,Tallgrass Prairie
+1732,Cool Swamp
+1733,Cool Swamp
+1734,Freshwater Marsh
+1735,Warm Desert
+1736,Cool Xeric Woodland
+1737,Warm Xeric Woodland
+1738,Warm Xeric Woodland
+1739,Warm Swamp
+1740,Subtropical Mixed Forest
+1741,Subtropical Mixed Forest
+1742,Subtropical Mixed Forest
+1743,Temperate Pine Forest
+1744,Temperate Pine Forest
+1745,Warm Xeric Woodland
+1746,Tropical/Subtropical Thornscrub
+1747,Tropical/Subtropical Thornscrub
+1748,Tallgrass Prairie
+1749,Tallgrass Prairie
+1750,Tropical/Subtropical Savanna
+1751,Tropical/Subtropical Thornscrub
+1752,Tropical/Subtropical Thornscrub
+1753,Warm Desert
+1754,Warm Desert
+1755,Warm Swamp
+1756,Warm Swamp
+1757,Warm Swamp
+1758,Warm Swamp
+1759,Warm Swamp
+1760,Salt Marsh
+1761,Salt Marsh
+1762,Freshwater Marsh
+1763,Cool Xeric Woodland
+1764,Temperate Oak Forest
+1765,Subtropical Mixed Forest
+1766,Subtropical Mixed Forest
+1767,Subtropical Mixed Forest
+1768,Subtropical Mixed Forest
+1769,Subtropical Mixed Forest
+1770,Warm Xeric Woodland
+1771,Temperate Pine Forest
+1772,Subtropical Mixed Forest
+1773,Temperate Oak Forest
+1774,Temperate Pine Forest
+1775,Tropical/Subtropical Savanna
+1776,Warm Swamp
+1777,Warm Swamp
+1778,Warm Swamp
+1779,Cool Swamp
+1780,Warm Swamp
+1781,Warm Swamp
+1782,Warm Swamp
+1783,Subtropical Mixed Forest
+1784,Subtropical Mixed Forest
+1785,Subtropical Mixed Forest
+1786,Warm Xeric Woodland
+1787,Warm Xeric Woodland
+1788,Subtropical Mixed Forest
+1789,Temperate Pine Forest
+1790,Subtropical Mixed Forest
+1791,Tropical/Subtropical Savanna
+1792,Warm Xeric Woodland
+1793,Warm Swamp
+1794,Warm Swamp
+1795,Warm Swamp
+1796,Warm Swamp
+1797,Warm Swamp
+1798,Warm Swamp
+1799,Warm Swamp
+1800,Freshwater Marsh
+1801,Freshwater Marsh
+1802,Salt Marsh
+1803,
+1804,Temperate Oak Forest
+1805,Temperate Deciduous Forest
+1806,Temperate Deciduous Forest
+1807,Temperate Oak Forest
+1808,Temperate Pine Forest
+1809,Temperate Pine Forest
+1810,Temperate Pine Forest
+1811,Temperate Oak Forest
+1812,Cool Swamp
+1813,Cool Swamp
+1814,Temperate Mixed Forest
+1815,Temperate Oak Forest
+1816,Temperate Deciduous Forest
+1817,Temperate Oak Forest
+1818,Temperate Deciduous Forest
+1819,Temperate Oak Forest
+1820,Temperate Deciduous Forest
+1821,Boreal/Subalpine Forest
+1822,Temperate Pine Forest
+1823,Temperate Pine Forest
+1824,Temperate Oak Forest
+1825,Temperate Oak Forest
+1826,Tallgrass Prairie
+1827,Cool Swamp
+1828,Cool Swamp
+1829,Temperate Deciduous Forest
+1830,Subtropical Mixed Forest
+1831,Subtropical Mixed Forest
+1832,Warm Xeric Woodland
+1833,Warm Xeric Woodland
+1834,Temperate Pine Forest
+1835,Temperate Pine Forest
+1836,Temperate Pine Forest
+1837,Temperate Oak Forest
+1838,Cool Swamp
+1839,Cool Swamp
+1840,Temperate Oak Forest
+1841,Temperate Deciduous Forest
+1842,Temperate Oak Forest
+1843,Temperate Oak Forest
+1844,Subtropical Mixed Forest
+1845,Warm Xeric Woodland
+1846,Temperate Pine Forest
+1847,Temperate Pine Forest
+1848,Temperate Pine Forest
+1849,Subtropical Mixed Forest
+1850,Temperate Oak Forest
+1851,Temperate Oak Forest
+1852,Temperate Mixed Forest
+1853,Tallgrass Prairie
+1854,Temperate Pine Forest
+1855,Temperate Oak Forest
+1856,Tallgrass Prairie
+1857,Tallgrass Prairie
+1858,Warm Xeric Woodland
+1859,Freshwater Marsh
+1860,Warm Swamp
+1861,Cool Swamp
+1862,Cool Swamp
+1863,Warm Swamp
+1864,Warm Swamp
+1865,Cool Swamp
+1866,Warm Swamp
+1867,Salt Marsh
+1868,
+1869,Warm Swamp
+1870,Temperate Oak Forest
+1871,Temperate Oak Forest
+1872,Temperate Deciduous Forest
+1873,Temperate Oak Forest
+1874,Temperate Deciduous Forest
+1875,Temperate Oak Forest
+1876,Temperate Deciduous Forest
+1877,Temperate Pine Forest
+1878,Boreal/Subalpine Forest
+1879,Temperate Pine Forest
+1880,Temperate Pine Forest
+1881,Temperate Oak Forest
+1882,Temperate Oak Forest
+1883,Temperate Mixed Forest
+1884,Temperate Oak Forest
+1885,Temperate Pine Forest
+1886,Tallgrass Prairie
+1887,Cool Swamp
+1888,Cool Swamp
+1889,Cool Swamp
+1890,Temperate Pine Forest
+1891,Temperate Oak Forest
+1892,Temperate Deciduous Forest
+1893,Temperate Pine Forest
+1894,Temperate Mixed Forest
+1895,Temperate Oak Forest
+1896,Temperate Mixed Forest
+1897,Boreal/Subalpine Forest
+1898,Temperate Pine Forest
+1899,Tallgrass Prairie
+1900,Cool Swamp
+1901,Cool Swamp
+1902,Cool Swamp
+1903,Cool Swamp
+1904,Cool Swamp
+1905,Cool Swamp
+1906,Freshwater Marsh
+1907,Freshwater Marsh
+1908,Cool Swamp
+1909,Temperate Oak Forest
+1910,Temperate Oak Forest
+1911,Temperate Deciduous Forest
+1912,Temperate Oak Forest
+1913,Temperate Deciduous Forest
+1914,Temperate Mixed Forest
+1915,Cool Swamp
+1916,Cool Swamp
+1917,Cool Swamp
+1918,Freshwater Marsh
+1919,Cool Swamp
+1920,Temperate Pine Forest
+1921,Temperate Oak Forest
+1922,Temperate Oak Forest
+1923,Temperate Pine Forest
+1924,Temperate Pine Forest
+1925,Temperate Mixed Forest
+1926,Temperate Oak Forest
+1927,Temperate Mixed Forest
+1928,Boreal/Subalpine Forest
+1929,Boreal/Subalpine Forest
+1930,Temperate Pine Forest
+1931,Temperate Oak Forest
+1932,Tallgrass Prairie
+1933,Cool Swamp
+1934,Cool Swamp
+1935,Cool Swamp
+1936,Cool Swamp
+1937,Cool Swamp
+1938,Warm Swamp
+1939,Salt Marsh
+1940,Freshwater Marsh
+1941,Cool Swamp
+1942,Cool Swamp
+1943,Temperate Pine Forest
+1944,Temperate Oak Forest
+1945,Temperate Pine Forest
+1946,Temperate Pine Forest
+1947,Temperate Mixed Forest
+1948,Temperate Oak Forest
+1949,Temperate Mixed Forest
+1950,Boreal/Subalpine Forest
+1951,Boreal/Subalpine Forest
+1952,Temperate Pine Forest
+1953,Tundra
+1954,Tallgrass Prairie
+1955,Tallgrass Prairie
+1956,Cool Swamp
+1957,Cool Swamp
+1958,Cool Swamp
+1959,Cool Swamp
+1960,Cool Swamp
+1961,Warm Swamp
+1962,Freshwater Marsh
+1963,Cool Swamp
+1964,Cool Swamp
+1965,Temperate Oak Forest
+1966,Temperate Oak Forest
+1967,Temperate Deciduous Forest
+1968,Temperate Oak Forest
+1969,Temperate Oak Forest
+1970,Freshwater Marsh
+1971,Tallgrass Prairie
+1972,Tallgrass Prairie
+1973,Cool Swamp
+1974,Cool Swamp
+1975,Freshwater Marsh
+1976,Freshwater Marsh
+1977,Cool Swamp
+1978,Temperate Pine Forest
+1979,Temperate Oak Forest
+1980,Boreal/Subalpine Forest
+1981,Temperate Pine Forest
+1982,Temperate Pine Forest
+1983,Temperate Mixed Forest
+1984,Temperate Oak Forest
+1985,Temperate Mixed Forest
+1986,Boreal/Subalpine Forest
+1987,Boreal/Subalpine Forest
+1988,Temperate Pine Forest
+1989,Tundra
+1990,Tundra
+1991,Tallgrass Prairie
+1992,Cool Swamp
+1993,Cool Swamp
+1994,Cool Swamp
+1995,Cool Swamp
+1996,Warm Swamp
+1997,Salt Marsh
+1998,Freshwater Marsh
+1999,Cool Swamp
+2000,Temperate Oak Forest
+2001,Temperate Mixed Forest
+2002,Temperate Oak Forest
+2003,Temperate Oak Forest
+2004,Temperate Deciduous Forest
+2005,Temperate Deciduous Forest
+2006,Temperate Pine Forest
+2007,Temperate Pine Forest
+2008,Tallgrass Prairie
+2009,Temperate Mixed Forest
+2010,Temperate Oak Forest
+2011,Tallgrass Prairie
+2012,Cool Swamp
+2013,Cool Swamp
+2014,Cool Swamp
+2015,Temperate Oak Forest
+2016,Temperate Oak Forest
+2017,Temperate Oak Forest
+2018,Temperate Oak Forest
+2019,Temperate Deciduous Forest
+2020,Temperate Deciduous Forest
+2021,Temperate Deciduous Forest
+2022,Warm Xeric Woodland
+2023,Temperate Oak Forest
+2024,Temperate Oak Forest
+2025,Temperate Oak Forest
+2026,Tallgrass Prairie
+2027,Freshwater Marsh
+2028,Tallgrass Prairie
+2029,Tallgrass Prairie
+2030,Warm Xeric Woodland
+2031,Temperate Grassland
+2032,Cool Swamp
+2033,Cool Swamp
+2034,Cool Swamp
+2035,
+2036,Cool Swamp
+2037,Temperate Oak Forest
+2038,Cool Xeric Woodland
+2039,Temperate Oak Forest
+2040,Temperate Oak Forest
+2041,Temperate Deciduous Forest
+2042,Temperate Deciduous Forest
+2043,Temperate Oak Forest
+2044,Tallgrass Prairie
+2045,Tallgrass Prairie
+2046,Tallgrass Prairie
+2047,Tallgrass Prairie
+2048,Cool Swamp
+2049,Cool Swamp
+2050,Freshwater Marsh
+2051,Cool Swamp
+2052,Temperate Oak Forest
+2053,Temperate Grassland
+2054,Temperate Grassland
+2055,Temperate Grassland
+2056,Temperate Grassland
+2057,Temperate Grassland
+2058,Cool Swamp
+2059,Cool Xeric Woodland
+2060,Temperate Oak Forest
+2061,Temperate Deciduous Forest
+2062,Tallgrass Prairie
+2063,Tallgrass Prairie
+2064,Cool Swamp
+2065,Freshwater Marsh
+2066,Freshwater Marsh
+2067,Temperate Oak Forest
+2068,Temperate Oak Forest
+2069,Temperate Oak Forest
+2070,Temperate Oak Forest
+2071,Temperate Deciduous Forest
+2072,Temperate Deciduous Forest
+2073,Subtropical Mixed Forest
+2074,Warm Xeric Woodland
+2075,Subtropical Mixed Forest
+2076,Temperate Pine Forest
+2077,Subtropical Mixed Forest
+2078,Tallgrass Prairie
+2079,Tallgrass Prairie
+2080,Tallgrass Prairie
+2081,Tallgrass Prairie
+2082,Tallgrass Prairie
+2083,Warm Xeric Woodland
+2084,Cool Swamp
+2085,Cool Swamp
+2086,Warm Swamp
+2087,Warm Swamp
+2088,Cool Swamp
+2089,Warm Swamp
+2090,Temperate Oak Forest
+2091,Cool Swamp
+2092,Temperate Oak Forest
+2093,Temperate Oak Forest
+2094,Temperate Oak Forest
+2095,Temperate Oak Forest
+2096,Temperate Oak Forest
+2097,Temperate Deciduous Forest
+2098,Temperate Oak Forest
+2099,Temperate Deciduous Forest
+2100,Subtropical Mixed Forest
+2101,Subtropical Mixed Forest
+2102,Warm Xeric Woodland
+2103,Temperate Pine Forest
+2104,Temperate Pine Forest
+2105,Temperate Oak Forest
+2106,Temperate Oak Forest
+2107,Tallgrass Prairie
+2108,Tallgrass Prairie
+2109,Tallgrass Prairie
+2110,Tallgrass Prairie
+2111,Tallgrass Prairie
+2112,Warm Xeric Woodland
+2113,Cool Swamp
+2114,Cool Swamp
+2115,Warm Swamp
+2116,Cool Swamp
+2117,Temperate Oak Forest
+2118,Temperate Oak Forest
+2119,Temperate Deciduous Forest
+2120,Cool Swamp
+2121,Temperate Oak Forest
+2122,Temperate Oak Forest
+2123,Tallgrass Prairie
+2124,Tallgrass Prairie
+2125,Tallgrass Prairie
+2126,Cool Swamp
+2127,Cool Swamp
+2128,Cool Swamp
+2129,Freshwater Marsh
+2130,Freshwater Marsh
+2131,
+2132,Temperate Oak Forest
+2133,Cool Xeric Woodland
+2134,Temperate Oak Forest
+2135,Temperate Oak Forest
+2136,Temperate Oak Forest
+2137,Temperate Deciduous Forest
+2138,Subtropical Mixed Forest
+2139,Temperate Deciduous Forest
+2140,Temperate Oak Forest
+2141,Temperate Pine Forest
+2142,Temperate Pine Forest
+2143,Temperate Pine Forest
+2144,Temperate Oak Forest
+2145,Tallgrass Prairie
+2146,Tallgrass Prairie
+2147,Temperate Oak Forest
+2148,Tallgrass Prairie
+2149,Tallgrass Prairie
+2150,Tropical/Subtropical Savanna
+2151,Warm Swamp
+2152,Cool Swamp
+2153,Cool Swamp
+2154,Cool Swamp
+2155,Warm Swamp
+2156,Warm Swamp
+2157,Warm Swamp
+2158,Freshwater Marsh
+2159,Warm Swamp
+2160,Temperate Pine Forest

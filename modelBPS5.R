@@ -16,6 +16,8 @@ altveg <- read_sf('data/biotic_comm_la.shp')
 biomlist <- read.csv('data/biomlist.csv')
 biomsort <- read.csv('data/biomsort.csv')
 biomlist$synbiome2 <- biomlist$synbiome
+BPS <- raster(paste0(path, 'BPS.tif'))
+bpsgroups <- read.csv('data/bpsgroups.csv')
 
 Tw <- raster(paste0(path, 'Tw.tif'))
 Twh <- raster(paste0(path, 'Twh.tif'))
@@ -36,9 +38,10 @@ water100k <- raster(paste0(path, 'water100k.tif'))
 sealevel <- raster(paste0(path, 'sealevel.tif'))
 gdem <- raster(paste0(path, 'gdem.tif'))
 bedrock <- raster(paste0(path, 'bedrock.tif'))
+clay <- raster(paste0(path, 'clay.tif'))
 
 
-rasters<-stack(Tw,Twh,Tgs,Tc,Tclx,M,Surplus,Deficit,pAET,slope,sand,SoilpH,hydric,salids,sealevel,bedrock)
+rasters<-stack(Tw,Twh,Tgs,Tc,Tclx,M,Surplus,Deficit,pAET,slope,sand,SoilpH,hydric,salids,sealevel,bedrock,clay)
 
 altveg <- st_transform(altveg, st_crs(SoilpH))
 biomemap <- st_transform(biomemap, st_crs(SoilpH))
@@ -67,31 +70,46 @@ kuchsample <- st_sf(kuchsample)
 kuchjoin <- st_join(st_sf(kuchsample),biomemapmerge[,c('synbiome')])
 kuchjoin <- st_join(st_sf(kuchjoin),altveg[,c('biome')])
 kuchjoin$synbiome2 <- as.character(kuchjoin$synbiome)
-kuchjoin[kuchjoin$biome %in% c('subalpine forest'),]$synbiome2 <- 'Boreal/Subalpine Forest' #,'taiga'
-kuchjoin[kuchjoin$biome %in% c('tundra'),]$synbiome2 <- 'Tundra'
+kuchjoin[kuchjoin$biome %in% c('subalpine forest','taiga') &
+           kuchjoin$synbiome %in% c('Temperate Coniferous Forest','Temperate Mixed Forest','Temperate Deciduous Forest'),]$synbiome2 <- 'Boreal/Subalpine Forest'
+kuchjoin[kuchjoin$biome %in% c('tundra')&
+           kuchjoin$synbiome %in% c('Temperate Coniferous Forest','Temperate Mixed Forest'),]$synbiome2 <- 'Tundra'
 kuchjoin[kuchjoin$biome %in% c('ice'),]$synbiome2 <- 'Rock and Ice'
 kuchjoin[kuchjoin$biome %in% c('paramo'),]$synbiome2 <- 'Montane Grassland'
 kuchjoin[kuchjoin$biome %in% c('cloud forest'),]$synbiome2 <- 'Tropical Montane Forest'
-kuchjoin[kuchjoin$biome %in% c('semi-evergreen forest','semi-deciduous forest','dry deciduous forest') &
-           kuchjoin$synbiome %in% c('Tropical Moist Forest'),]$synbiome2 <- 'Tropical Semi-evergreen Forest'
-kuchjoin[kuchjoin$biome %in% c('semidesert grassland','shortgrass prairie') &
-           kuchjoin$synbiome %in% c('Warm Desert'),]$synbiome2 <- 'Semidesert Grassland'
+kuchjoin[kuchjoin$biome %in% c('thornscrub', 'semi-evergreen forest','semi-deciduous forest','dry deciduous forest') &
+           kuchjoin$synbiome %in% c('Tropical Moist Forest'),]$synbiome2 <- 'Tropical Dry Forest'
+#kuchjoin[kuchjoin$biome %in% c('semidesert grassland','shortgrass prairie') &
+#           kuchjoin$synbiome %in% c('Warm Desert'),]$synbiome2 <- 'Semidesert Grassland'
 kuchjoin[kuchjoin$biome %in% c('evergreen woodland','conifer woodland') &
            kuchjoin$synbiome %in% c('Warm Desert'),]$synbiome2 <- 'Warm Xeric Woodland'
-kuchjoin[kuchjoin$biome %in% c('thornscrub'),]$synbiome2 <- 'Tropical/Subtropical Thornscrub'
+kuchjoin[kuchjoin$biome %in% c('thornscrub') &
+           kuchjoin$synbiome %in% c('Warm Desert','Tropical Dry Forest','Tropical/Subtropical Savanna'),]$synbiome2 <- 'Tropical/Subtropical Thornscrub'
 kuchjoin[kuchjoin$biome %in% c('dry deciduous forest')&
            kuchjoin$synbiome %in% c('Warm Desert'),]$synbiome2 <- 'Tropical/Subtropical Thornscrub'
 kuchjoin[kuchjoin$biome %in% c('chaparral','coastal scrub'),]$synbiome2 <- 'Chaparral'
 kuchjoin[kuchjoin$biome %in% c('warm swamp'),]$synbiome2 <- 'Warm Swamp'
 kuchjoin[kuchjoin$synbiome %in% c('Warm Xeric Woodland') &
-           kuchjoin$biome %in% c('montane conifer forest'),]$synbiome2 <- 'Subtropical Mixed Forest'
+           kuchjoin$biome %in% c('montane conifer forest'),]$synbiome2 <- 'Temperate Coniferous Forest'
 kuchjoin[kuchjoin$synbiome %in% c('Subtropical Mixed Forest') &
            kuchjoin$biome %in% c('shortgrass prairie', 'semidesert grassland','desertscrub','evergreen woodland','dry deciduous forest')
          ,]$synbiome2 <- 'Warm Xeric Woodland'
 kuchjoin$synbiome <- kuchjoin$synbiome2
 kuchjoin <- merge(kuchjoin,biomsort[,c('sort','synbiome')], by='synbiome')
 rasterjoin <- raster::extract(rasters, kuchjoin)
-kuchsample <- cbind(kuchjoin, rasterjoin)
+bpsval <- (raster::extract(BPS, kuchjoin))
+kuchsample1 <- cbind(kuchjoin, bpsval)
+biomsort2 <- biomsort
+colnames(biomsort2)[1] <- 'sort2'
+kuchsample1 <- merge(kuchsample1, bpsgroups, by.x = 'bpsval', by.y = 'VALUE', all.x=TRUE)
+kuchsample1 <- merge(kuchsample1, biomsort2, by.x = 'legend', by.y = 'synbiome', all.x=TRUE)
+kuchsample1[!is.na(kuchsample1$sort2),]$sort <- kuchsample1[!is.na(kuchsample1$sort2),]$sort2
+kuchsample1$legend <- as.character(kuchsample1$legend)
+kuchsample1[!is.na(kuchsample1$sort2),]$synbiome <- kuchsample1[!is.na(kuchsample1$sort2),]$legend
+
+kuchsample <- cbind(kuchsample1, rasterjoin)
+
+
 #plot(gdem, axes=FALSE, legend=FALSE, main='Random Sampling with NA Removal')
 #plot(st_geometry(mlrasample), add=T)
 
@@ -101,32 +119,33 @@ library(rpart)
 library(rpart.plot)
 
 #randomforest
+selectBiome<-subset(kuchsample, synbiome !='' & !is.na(sand) & !is.na(M) &!is.na(salids) &!is.na(slope) 
+                    &(synbiome %in% c('Rock and Ice') | Tgs > 0) 
+                    &(!synbiome %in% c('Rock and Ice', 'Tundra') | Tgs < 9) 
+                    #&(!synbiome %in% c('Warm Xeric Woodland','Mediterranean Scrub') | M < 1.41) 
+                    #&(!synbiome %in% c('Subtropical Mixed Forest') | M > 0.71) 
+                    &(synbiome %in% c('Cool Swamp','Warm Swamp','Freshwater Marsh','Salt Marsh','Tundra') | hydric < 67) 
+                    &(!synbiome %in% c('Cool Swamp','Warm Swamp','Freshwater Marsh','Salt Marsh') | hydric > 15) 
+                    & (synbiome %in% c('Rock and Ice', 'Tundra', 'Montane Grassland') | Tgs > 3) 
+                    & (synbiome %in% c('Rock and Ice', 'Tundra', 'Montane Grassland', 'Boreal/Subalpine Forest') | Tgs > 9|Tc > 0))
 #selectBiome<-subset(kuchsample, synbiome !='' & !is.na(sand) & !is.na(M) &!is.na(salids) &!is.na(slope) 
-#                    &(synbiome %in% c('Rock and Ice') | Tgs > 0) 
-#                    &(!synbiome %in% c('Rock and Ice', 'Tundra') | Tgs < 9) 
-#                    &(!synbiome %in% c('Warm Xeric Woodland','Mediterranean Scrub') | M < 1.41) 
-#                    &(!synbiome %in% c('Subtropical Mixed Forest') | M > 0.71) 
 #                    &(synbiome %in% c('Cool Swamp','Warm Swamp','Freshwater Marsh','Salt Marsh','Tundra') | hydric < 67) 
 #                    &(!synbiome %in% c('Cool Swamp','Warm Swamp','Freshwater Marsh','Salt Marsh') | hydric > 5) 
-#                    & (synbiome %in% c('Rock and Ice', 'Tundra', 'Montane Grassland') | Tgs > 3) 
-#                    & (synbiome %in% c('Rock and Ice', 'Tundra', 'Montane Grassland', 'Boreal/Subalpine Forest') | Tgs > 9|Tc > 0))
-selectBiome<-subset(kuchsample, synbiome !='' & !is.na(sand) & !is.na(M) &!is.na(salids) &!is.na(slope) 
-                    &(synbiome %in% c('Cool Swamp','Warm Swamp','Freshwater Marsh','Salt Marsh','Tundra') | hydric < 67) 
-                    &(!synbiome %in% c('Cool Swamp','Warm Swamp','Freshwater Marsh','Salt Marsh') | hydric > 5) 
-)
+#)
 
 #saveRDS(selectBiome, 'data/selectBiome.RDS')
 Spwts<-aggregate(x=selectBiome$synbiome, by=list(selectBiome$sort, selectBiome$synbiome), FUN=length)
 names(Spwts)<-c('sort','synbiome','x')
 Spwts$myweights<- (10000/(Spwts$x/1+1000))/10
 selectBiome<-merge(selectBiome,Spwts,by=c('sort','synbiome'))
-rf <- randomForest(as.factor(sort) ~  Tw+Twh+Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+hydric+salids+sealevel+bedrock, 
+rf <- randomForest(as.factor(sort) ~  Tw+Twh+Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+slope+sand+SoilpH+
+                     hydric+salids+sealevel+bedrock+clay, 
                    data=selectBiome, importance=TRUE, ntree=200,na.action=na.omit)
 # Make plot  other params to try: maxnodes=512,mtry=10, classwt=Spwts$myweights, ,
 #statistical summary
 varImpPlot(rf)
 
-vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="output/synbiomeshrubsteppe.tif") 
+vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="output/synbiomeBPS.tif") 
 
 plot(vegmaprf)   
 #rpart
