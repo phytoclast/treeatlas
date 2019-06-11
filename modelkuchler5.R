@@ -88,7 +88,7 @@ kuchjoin[kuchjoin$biome %in% c('dry deciduous forest')&
 kuchjoin[kuchjoin$biome %in% c('chaparral','coastal scrub'),]$synbiome2 <- 'Chaparral'
 kuchjoin[kuchjoin$biome %in% c('warm swamp'),]$synbiome2 <- 'Warm Swamp'
 kuchjoin[kuchjoin$synbiome %in% c('Warm Xeric Woodland') &
-           kuchjoin$biome %in% c('montane conifer forest'),]$synbiome2 <- 'Temperate Coniferous Forest'
+           kuchjoin$biome %in% c('montane conifer forest'),]$synbiome2 <- 'Subtropical Mixed Forest'
 kuchjoin[kuchjoin$synbiome %in% c('Subtropical Mixed Forest') &
            kuchjoin$biome %in% c('shortgrass prairie', 'semidesert grassland','desertscrub','evergreen woodland','dry deciduous forest')
          ,]$synbiome2 <- 'Warm Xeric Woodland'
@@ -131,9 +131,29 @@ rf <- randomForest(as.factor(sort) ~  Tw+Twh+Tgs+Tc+Tclx+M+Surplus+Deficit+pAET+
 #statistical summary
 varImpPlot(rf)
 
-vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="output/synbiomeclay.tif") 
+vegmaprf<-predict(rasters,rf,progress="window",overwrite=TRUE, filename="output/synbiomeclay2.tif") 
 
-plot(vegmaprf)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+######################
+ 
 #rpart
 selectBiome<-subset(kuchsample, synbiome !='' & !is.na(sand) & !is.na(M) &!is.na(salids) &!is.na(slope) 
                       )

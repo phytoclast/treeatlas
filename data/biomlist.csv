@@ -53,40 +53,40 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 12,"Mediterranean Forests, Woodlands, and Scrub",California interior chaparral and woodlands,29,Chaparral,16,Chaparral,Chaparral
 12,"Mediterranean Forests, Woodlands, and Scrub",California interior chaparral and woodlands,30,Coastal sagebrush,3,Chaparral,Coastal sagebrush
 12,"Mediterranean Forests, Woodlands, and Scrub",California montane chaparral and woodlands,29,Chaparral,14,Chaparral,Chaparral
-12,"Mediterranean Forests, Woodlands, and Scrub",California montane chaparral and woodlands,0,unk,2,Chaparral,Chaparral
 12,"Mediterranean Forests, Woodlands, and Scrub",California montane chaparral and woodlands,30,Coastal sagebrush,3,Chaparral,Coastal sagebrush
+12,"Mediterranean Forests, Woodlands, and Scrub",California montane chaparral and woodlands,0,unk,2,Chaparral,Chaparral
 5,Temperate Coniferous Forests,Klamath-Siskiyou forests,29,Chaparral,4,Chaparral,Chaparral
 5,Temperate Coniferous Forests,Northern California coastal forests,30,Coastal sagebrush,1,Chaparral,Coastal sagebrush
 5,Temperate Coniferous Forests,Sierra Nevada forests,29,Chaparral,2,Chaparral,Chaparral
 13,Deserts and Xeric Shrublands,Colorado Plateau shrublands,33,Blackbrush,20,Cool Desert,Blackbrush
-13,Deserts and Xeric Shrublands,Colorado Plateau shrublands,32,Great Basin sagebrush,46,Cool Desert,Great Basin sagebrush
-13,Deserts and Xeric Shrublands,Great Basin shrub steppe,32,Great Basin sagebrush,125,Cool Desert,Great Basin sagebrush
-13,Deserts and Xeric Shrublands,Snake-Columbia shrub steppe,32,Great Basin sagebrush,1,Cool Desert,Great Basin sagebrush
-5,Temperate Coniferous Forests,Colorado Rockies forests,32,Great Basin sagebrush,6,Cool Desert,Great Basin sagebrush
-5,Temperate Coniferous Forests,Eastern Cascades forests,32,Great Basin sagebrush,1,Cool Desert,Great Basin sagebrush
-5,Temperate Coniferous Forests,Wasatch and Uinta montane forests,32,Great Basin sagebrush,2,Cool Desert,Great Basin sagebrush
 13,Deserts and Xeric Shrublands,Colorado Plateau shrublands,51,Galleta-three awn shrubsteppe,2,Cool Desert,Galleta-three awn shrubsteppe
 13,Deserts and Xeric Shrublands,Colorado Plateau shrublands,47,Grama-galleta steppe,74,Cool Desert,Grama-galleta steppe
-5,Temperate Coniferous Forests,Arizona Mountains forests,47,Grama-galleta steppe,1,Cool Desert,Grama-galleta steppe
-5,Temperate Coniferous Forests,Colorado Rockies forests,47,Grama-galleta steppe,1,Cool Desert,Grama-galleta steppe
-8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,47,Grama-galleta steppe,1,Cool Desert,Grama-galleta steppe
+13,Deserts and Xeric Shrublands,Colorado Plateau shrublands,32,Great Basin sagebrush,46,Cool Desert,Great Basin sagebrush
 13,Deserts and Xeric Shrublands,Colorado Plateau shrublands,49,Sagebrush steppe,3,Cool Desert,Sagebrush steppe
+13,Deserts and Xeric Shrublands,Great Basin shrub steppe,32,Great Basin sagebrush,125,Cool Desert,Great Basin sagebrush
 13,Deserts and Xeric Shrublands,Great Basin shrub steppe,49,Sagebrush steppe,56,Cool Desert,Sagebrush steppe
+13,Deserts and Xeric Shrublands,Snake-Columbia shrub steppe,32,Great Basin sagebrush,1,Cool Desert,Great Basin sagebrush
 13,Deserts and Xeric Shrublands,Snake-Columbia shrub steppe,49,Sagebrush steppe,246,Cool Desert,Sagebrush steppe
 13,Deserts and Xeric Shrublands,Wyoming Basin shrub steppe,49,Sagebrush steppe,84,Cool Desert,Sagebrush steppe
+13,Deserts and Xeric Shrublands,Wyoming Basin shrub steppe,50,Wheatgrass-needlegrass shrubsteppe,37,Cool Desert,Wheatgrass-needlegrass shrubsteppe
+5,Temperate Coniferous Forests,Arizona Mountains forests,47,Grama-galleta steppe,1,Cool Desert,Grama-galleta steppe
 5,Temperate Coniferous Forests,Blue Mountains forests,49,Sagebrush steppe,25,Cool Desert,Sagebrush steppe
+5,Temperate Coniferous Forests,Colorado Rockies forests,47,Grama-galleta steppe,1,Cool Desert,Grama-galleta steppe
+5,Temperate Coniferous Forests,Colorado Rockies forests,32,Great Basin sagebrush,6,Cool Desert,Great Basin sagebrush
 5,Temperate Coniferous Forests,Colorado Rockies forests,49,Sagebrush steppe,10,Cool Desert,Sagebrush steppe
+5,Temperate Coniferous Forests,Eastern Cascades forests,32,Great Basin sagebrush,1,Cool Desert,Great Basin sagebrush
 5,Temperate Coniferous Forests,Eastern Cascades forests,49,Sagebrush steppe,25,Cool Desert,Sagebrush steppe
 5,Temperate Coniferous Forests,Great Basin montane forests,49,Sagebrush steppe,1,Cool Desert,Sagebrush steppe
 5,Temperate Coniferous Forests,Sierra Nevada forests,49,Sagebrush steppe,2,Cool Desert,Sagebrush steppe
 5,Temperate Coniferous Forests,South Central Rockies forests,49,Sagebrush steppe,20,Cool Desert,Sagebrush steppe
+5,Temperate Coniferous Forests,South Central Rockies forests,50,Wheatgrass-needlegrass shrubsteppe,3,Cool Desert,Wheatgrass-needlegrass shrubsteppe
+5,Temperate Coniferous Forests,Wasatch and Uinta montane forests,32,Great Basin sagebrush,2,Cool Desert,Great Basin sagebrush
 5,Temperate Coniferous Forests,Wasatch and Uinta montane forests,49,Sagebrush steppe,1,Cool Desert,Sagebrush steppe
 8,"Temperate Grasslands, Savannas, and Shrublands",Montana Valley and Foothill grasslands,49,Sagebrush steppe,8,Cool Desert,Sagebrush steppe
 8,"Temperate Grasslands, Savannas, and Shrublands",Northern short grasslands,49,Sagebrush steppe,3,Cool Desert,Sagebrush steppe
-8,"Temperate Grasslands, Savannas, and Shrublands",Palouse grasslands,49,Sagebrush steppe,1,Cool Desert,Sagebrush steppe
-13,Deserts and Xeric Shrublands,Wyoming Basin shrub steppe,50,Wheatgrass-needlegrass shrubsteppe,37,Cool Desert,Wheatgrass-needlegrass shrubsteppe
-5,Temperate Coniferous Forests,South Central Rockies forests,50,Wheatgrass-needlegrass shrubsteppe,3,Cool Desert,Wheatgrass-needlegrass shrubsteppe
 8,"Temperate Grasslands, Savannas, and Shrublands",Northern short grasslands,50,Wheatgrass-needlegrass shrubsteppe,1,Cool Desert,Wheatgrass-needlegrass shrubsteppe
+8,"Temperate Grasslands, Savannas, and Shrublands",Palouse grasslands,49,Sagebrush steppe,1,Cool Desert,Sagebrush steppe
+8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,47,Grama-galleta steppe,1,Cool Desert,Grama-galleta steppe
 4,Temperate Broadleaf and Mixed Forests,Southern Great Lakes forests,92,Elm-ash forest,40,Cool Swamp,Elm-ash forest
 4,Temperate Broadleaf and Mixed Forests,Upper Midwest forest-savanna transition,85,Conifer bog,1,Cool Swamp,Conifer bog
 4,Temperate Broadleaf and Mixed Forests,Upper Midwest forest-savanna transition,89,Northern floodplain forest,16,Cool Swamp,Northern floodplain forest
@@ -111,6 +111,7 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 13,Deserts and Xeric Shrublands,Wyoming Basin shrub steppe,21,Juniper-pinyon woodland,5,Cool Xeric Woodland,Juniper-pinyon woodland
 13,Deserts and Xeric Shrublands,Wyoming Basin shrub steppe,31,Mountain mahogany-oak scrub,3,Cool Xeric Woodland,Mountain mahogany-oak scrub
 12,"Mediterranean Forests, Woodlands, and Scrub",California montane chaparral and woodlands,21,Juniper-pinyon woodland,1,Cool Xeric Woodland,Juniper-pinyon woodland
+4,Temperate Broadleaf and Mixed Forests,Ozark Mountain forests,75,Cross timbers,4,Cool Xeric Woodland,Cross timbers
 5,Temperate Coniferous Forests,Arizona Mountains forests,21,Juniper-pinyon woodland,55,Cool Xeric Woodland,Juniper-pinyon woodland
 5,Temperate Coniferous Forests,Arizona Mountains forests,28,Transition between 27 and 31,20,Cool Xeric Woodland,Mountain mahogany-oak scrub
 5,Temperate Coniferous Forests,Colorado Rockies forests,21,Juniper-pinyon woodland,8,Cool Xeric Woodland,Juniper-pinyon woodland
@@ -119,6 +120,10 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 5,Temperate Coniferous Forests,Sierra Nevada forests,21,Juniper-pinyon woodland,1,Cool Xeric Woodland,Juniper-pinyon woodland
 5,Temperate Coniferous Forests,Wasatch and Uinta montane forests,21,Juniper-pinyon woodland,15,Cool Xeric Woodland,Juniper-pinyon woodland
 5,Temperate Coniferous Forests,Wasatch and Uinta montane forests,31,Mountain mahogany-oak scrub,21,Cool Xeric Woodland,Mountain mahogany-oak scrub
+8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,75,Cross timbers,12,Cool Xeric Woodland,Cross timbers
+8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,75,Cross timbers,94,Cool Xeric Woodland,Cross timbers
+8,"Temperate Grasslands, Savannas, and Shrublands",Flint Hills tall grasslands,75,Cross timbers,4,Cool Xeric Woodland,Cross timbers
+8,"Temperate Grasslands, Savannas, and Shrublands",Texas blackland prairies,75,Cross timbers,7,Cool Xeric Woodland,Cross timbers
 8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,21,Juniper-pinyon woodland,6,Cool Xeric Woodland,Juniper-pinyon woodland
 1,Tropical and Subtropical Moist Broadleaf Forests,South Florida rocklands,83,Everglades,3,Freshwater Marsh,Everglades
 9,Wetlands,Cuban wetlands,0,unk,12,Freshwater Marsh,Cuban wetlands
@@ -157,16 +162,9 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 5,Temperate Coniferous Forests,Atlantic coastal pine barrens,65,Northern cordgrass prairie,2,Salt Marsh,Northern cordgrass prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",California Central Valley grasslands,42,Tule marshes,8,Salt Marsh,Tule marshes
 7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,70,Southern cordgrass prairie,21,Salt Marsh,Southern cordgrass prairie
-13,Deserts and Xeric Shrublands,Chihuahuan desert,27,Oak-juniper woodland,13,Subtropical Mixed Forest,Sierra Madre Oriental pine-oak forests
-13,Deserts and Xeric Shrublands,Sonoran desert,27,Oak-juniper woodland,1,Subtropical Mixed Forest,Sierra Madre Occidental pine-oak forests
-4,Temperate Broadleaf and Mixed Forests,Appalachian mixed mesophytic forests,102,Southern mixed forest,1,Subtropical Mixed Forest,Southern mixed forest
-4,Temperate Broadleaf and Mixed Forests,Mississippi lowland forests,102,Southern mixed forest,3,Subtropical Mixed Forest,Southern mixed forest
-4,Temperate Broadleaf and Mixed Forests,Southeastern mixed forests,102,Southern mixed forest,1,Subtropical Mixed Forest,Southern mixed forest
-5,Temperate Coniferous Forests,Arizona Mountains forests,27,Oak-juniper woodland,1,Subtropical Mixed Forest,Sierra Madre Occidental pine-oak forests
 5,Temperate Coniferous Forests,Middle Atlantic coastal forests,81,Live oak-sea oats,7,Subtropical Mixed Forest,Live oak-sea oats
-5,Temperate Coniferous Forests,Middle Atlantic coastal forests,102,Southern mixed forest,19,Subtropical Mixed Forest,Southern mixed forest
-5,Temperate Coniferous Forests,Piney Woods forests,102,Southern mixed forest,16,Subtropical Mixed Forest,Southern mixed forest
-5,Temperate Coniferous Forests,Southeastern conifer forests,102,Southern mixed forest,278,Subtropical Mixed Forest,Southern mixed forest
+5,Temperate Coniferous Forests,Northern California coastal forests,6,Redwood forest,13,Subtropical Mixed Forest,Redwood forest
+5,Temperate Coniferous Forests,Northern California coastal forests,0,unk,10,Subtropical Mixed Forest,Redwood forest
 3,Tropical and Subtropical Coniferous Forests,Central American pine-oak forests,0,unk,65,Subtropical Mixed Forest,Central American pine-oak forests
 3,Tropical and Subtropical Coniferous Forests,Sierra de la Laguna pine-oak forests,0,unk,9,Subtropical Mixed Forest,Sierra de la Laguna pine-oak forests
 3,Tropical and Subtropical Coniferous Forests,Sierra Madre de Oaxaca pine-oak forests,0,unk,17,Subtropical Mixed Forest,Sierra Madre de Oaxaca pine-oak forests
@@ -176,46 +174,39 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 3,Tropical and Subtropical Coniferous Forests,Sierra Madre Oriental pine-oak forests,27,Oak-juniper woodland,2,Subtropical Mixed Forest,Sierra Madre Oriental pine-oak forests
 3,Tropical and Subtropical Coniferous Forests,Sierra Madre Oriental pine-oak forests,0,unk,41,Subtropical Mixed Forest,Sierra Madre Oriental pine-oak forests
 3,Tropical and Subtropical Coniferous Forests,Trans-Mexican Volcanic Belt pine-oak forests,0,unk,56,Subtropical Mixed Forest,Trans-Mexican Volcanic Belt pine-oak forests
-7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,102,Southern mixed forest,3,Subtropical Mixed Forest,Southern mixed forest
-9,Wetlands,Everglades,102,Southern mixed forest,9,Subtropical Mixed Forest,Southern mixed forest
-4,Temperate Broadleaf and Mixed Forests,Central U.S. hardwood forests,73,Mosaic of numbers 66 and 91,14,Tallgrass Prairie,Bluestem prairie
 4,Temperate Broadleaf and Mixed Forests,Central U.S. hardwood forests,74,Cedar glades,20,Tallgrass Prairie,Cedar glades
-4,Temperate Broadleaf and Mixed Forests,East Central Texas forests,69,Bluestem-sacahuista prairie,2,Tallgrass Prairie,Bluestem-sacahuista prairie
-4,Temperate Broadleaf and Mixed Forests,East Central Texas forests,79,Fayette prairie,1,Tallgrass Prairie,Fayette prairie
-4,Temperate Broadleaf and Mixed Forests,Mississippi lowland forests,69,Bluestem-sacahuista prairie,5,Tallgrass Prairie,Bluestem-sacahuista prairie
+4,Temperate Broadleaf and Mixed Forests,Central U.S. hardwood forests,73,Mosaic of numbers 66 and 91,14,Tallgrass Prairie,Bluestem prairie
 4,Temperate Broadleaf and Mixed Forests,Ozark Mountain forests,73,Mosaic of numbers 66 and 91,1,Tallgrass Prairie,Bluestem prairie
-4,Temperate Broadleaf and Mixed Forests,Ozark Mountain forests,75,Cross timbers,4,Cool Xeric Woodland,Cross timbers
-4,Temperate Broadleaf and Mixed Forests,Southeastern mixed forests,80,Blackbelt,22,Tallgrass Prairie,Blackbelt
+4,Temperate Broadleaf and Mixed Forests,East Central Texas forests,79,Fayette prairie,1,Tallgrass Prairie,Fayette prairie
 4,Temperate Broadleaf and Mixed Forests,Southern Great Lakes forests,73,Mosaic of numbers 66 and 91,13,Tallgrass Prairie,Bluestem prairie
 4,Temperate Broadleaf and Mixed Forests,Upper Midwest forest-savanna transition,66,Bluestem prairie,17,Tallgrass Prairie,Bluestem prairie
+4,Temperate Broadleaf and Mixed Forests,Southeastern mixed forests,80,Blackbelt,22,Tallgrass Prairie,Blackbelt
+8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,66,Bluestem prairie,45,Tallgrass Prairie,Bluestem prairie
+8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,66,Bluestem prairie,8,Tallgrass Prairie,Bluestem prairie
 4,Temperate Broadleaf and Mixed Forests,Upper Midwest forest-savanna transition,72,Oak savanna,97,Tallgrass Prairie,Oak savanna
 4,Temperate Broadleaf and Mixed Forests,Upper Midwest forest-savanna transition,0,unk,6,Tallgrass Prairie,Oak savanna
 8,"Temperate Grasslands, Savannas, and Shrublands",Canadian Aspen forests and parklands,72,Oak savanna,1,Tallgrass Prairie,Oak savanna
 8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,68,Blackland prairie,3,Tallgrass Prairie,Blackland prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,66,Bluestem prairie,45,Tallgrass Prairie,Bluestem prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,62,Bluestem-grama prairie,145,Tallgrass Prairie,Bluestem-grama prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,75,Cross timbers,12,Cool Xeric Woodland,Cross timbers
-8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,68,Blackland prairie,25,Tallgrass Prairie,Blackland prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,66,Bluestem prairie,8,Tallgrass Prairie,Bluestem prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,73,Mosaic of numbers 66 and 91,255,Tallgrass Prairie,Bluestem prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,62,Bluestem-grama prairie,1,Tallgrass Prairie,Bluestem-grama prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,75,Cross timbers,94,Cool Xeric Woodland,Cross timbers
-8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,72,Oak savanna,3,Tallgrass Prairie,Oak savanna
 8,"Temperate Grasslands, Savannas, and Shrublands",Central tall grasslands,66,Bluestem prairie,228,Tallgrass Prairie,Bluestem prairie
+8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,68,Blackland prairie,25,Tallgrass Prairie,Blackland prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Central tall grasslands,73,Mosaic of numbers 66 and 91,43,Tallgrass Prairie,Bluestem prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Central tall grasslands,72,Oak savanna,4,Tallgrass Prairie,Oak savanna
-8,"Temperate Grasslands, Savannas, and Shrublands",Edwards Plateau savanna,68,Blackland prairie,1,Tallgrass Prairie,Blackland prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Flint Hills tall grasslands,66,Bluestem prairie,33,Tallgrass Prairie,Bluestem prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Flint Hills tall grasslands,75,Cross timbers,4,Cool Xeric Woodland,Cross timbers
 8,"Temperate Grasslands, Savannas, and Shrublands",Northern mixed grasslands,66,Bluestem prairie,8,Tallgrass Prairie,Bluestem prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Northern mixed grasslands,72,Oak savanna,2,Tallgrass Prairie,Oak savanna
+8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,72,Oak savanna,3,Tallgrass Prairie,Oak savanna
 8,"Temperate Grasslands, Savannas, and Shrublands",Northern tall grasslands,66,Bluestem prairie,38,Tallgrass Prairie,Bluestem prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Northern tall grasslands,0,unk,18,Tallgrass Prairie,Bluestem prairie
+8,"Temperate Grasslands, Savannas, and Shrublands",Central tall grasslands,72,Oak savanna,4,Tallgrass Prairie,Oak savanna
+8,"Temperate Grasslands, Savannas, and Shrublands",Edwards Plateau savanna,68,Blackland prairie,1,Tallgrass Prairie,Blackland prairie
+8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,62,Bluestem-grama prairie,145,Temperate Grassland,Bluestem-grama prairie
+8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,62,Bluestem-grama prairie,1,Temperate Grassland,Bluestem-grama prairie
+8,"Temperate Grasslands, Savannas, and Shrublands",Northern mixed grasslands,72,Oak savanna,2,Tallgrass Prairie,Oak savanna
+8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,62,Bluestem-grama prairie,13,Temperate Grassland,Bluestem-grama prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Northern tall grasslands,72,Oak savanna,3,Tallgrass Prairie,Oak savanna
+4,Temperate Broadleaf and Mixed Forests,East Central Texas forests,69,Bluestem-sacahuista prairie,2,Tropical/Subtropical Savanna,Bluestem-sacahuista prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Texas blackland prairies,68,Blackland prairie,52,Tallgrass Prairie,Blackland prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Texas blackland prairies,75,Cross timbers,7,Cool Xeric Woodland,Cross timbers
 8,"Temperate Grasslands, Savannas, and Shrublands",Texas blackland prairies,79,Fayette prairie,15,Tallgrass Prairie,Fayette prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,62,Bluestem-grama prairie,13,Tallgrass Prairie,Bluestem-grama prairie
+4,Temperate Broadleaf and Mixed Forests,Mississippi lowland forests,69,Bluestem-sacahuista prairie,5,Tropical/Subtropical Savanna,Bluestem-sacahuista prairie
 13,Deserts and Xeric Shrublands,Great Basin shrub steppe,11,Douglas fir forest,2,Temperate Coniferous Forest,Douglas fir forest
 13,Deserts and Xeric Shrublands,Great Basin shrub steppe,5,Mixed conifer forest,1,Temperate Coniferous Forest,Mixed conifer forest
 13,Deserts and Xeric Shrublands,Great Basin shrub steppe,19,Spruce-fir-Douglas fir forest,2,Temperate Coniferous Forest,Spruce-fir-Douglas fir forest
@@ -231,8 +222,8 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 5,Temperate Coniferous Forests,British Columbia mainland coastal forests,3,Silver fir-Douglas fir forest,4,Temperate Coniferous Forest,Silver fir-Douglas fir forest
 5,Temperate Coniferous Forests,British Columbia mainland coastal forests,0,unk,73,Temperate Coniferous Forest,Silver fir-Douglas fir forest
 5,Temperate Coniferous Forests,Cascade Mountains leeward forests,11,Douglas fir forest,6,Temperate Coniferous Forest,Douglas fir forest
-5,Temperate Coniferous Forests,Cascade Mountains leeward forests,0,unk,24,Temperate Coniferous Forest,Douglas fir forest
 5,Temperate Coniferous Forests,Cascade Mountains leeward forests,3,Silver fir-Douglas fir forest,2,Temperate Coniferous Forest,Silver fir-Douglas fir forest
+5,Temperate Coniferous Forests,Cascade Mountains leeward forests,0,unk,24,Temperate Coniferous Forest,Douglas fir forest
 5,Temperate Coniferous Forests,Central and Southern Cascades forests,2,Cedar-hemlock-Douglas fir forest,12,Temperate Coniferous Forest,Cedar-hemlock-Douglas fir forest
 5,Temperate Coniferous Forests,Central and Southern Cascades forests,3,Silver fir-Douglas fir forest,35,Temperate Coniferous Forest,Silver fir-Douglas fir forest
 5,Temperate Coniferous Forests,Central British Columbia Mountain forests,0,unk,46,Temperate Coniferous Forest,Central British Columbia Mountain forests
@@ -250,12 +241,10 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 5,Temperate Coniferous Forests,Klamath-Siskiyou forests,3,Silver fir-Douglas fir forest,2,Temperate Coniferous Forest,Silver fir-Douglas fir forest
 5,Temperate Coniferous Forests,North Central Rockies forests,12,Ceder-hemlock-pine forest,20,Temperate Coniferous Forest,Ceder-hemlock-pine forest
 5,Temperate Coniferous Forests,North Central Rockies forests,11,Douglas fir forest,32,Temperate Coniferous Forest,Douglas fir forest
-5,Temperate Coniferous Forests,North Central Rockies forests,0,unk,79,Temperate Coniferous Forest,Douglas fir forest
 5,Temperate Coniferous Forests,North Central Rockies forests,13,Grand fir-Douglas fir forest,12,Temperate Coniferous Forest,Grand fir-Douglas fir forest
+5,Temperate Coniferous Forests,North Central Rockies forests,0,unk,79,Temperate Coniferous Forest,Douglas fir forest
 5,Temperate Coniferous Forests,Northern California coastal forests,25,California mixed evergreen forest,11,Temperate Coniferous Forest,California mixed evergreen forest
 5,Temperate Coniferous Forests,Northern California coastal forests,2,Cedar-hemlock-Douglas fir forest,1,Temperate Coniferous Forest,Cedar-hemlock-Douglas fir forest
-5,Temperate Coniferous Forests,Northern California coastal forests,6,Redwood forest,13,Temperate Coniferous Forest,Redwood forest
-5,Temperate Coniferous Forests,Northern California coastal forests,0,unk,10,Temperate Coniferous Forest,Redwood forest
 5,Temperate Coniferous Forests,Northern California coastal forests,1,Spruce-cedar-hemlock forest,1,Temperate Coniferous Forest,Spruce-cedar-hemlock forest
 5,Temperate Coniferous Forests,Northern Pacific coastal forests,0,unk,67,Temperate Coniferous Forest,Northern Pacific coastal forests
 5,Temperate Coniferous Forests,Okanagan dry forests,11,Douglas fir forest,11,Temperate Coniferous Forest,Douglas fir forest
@@ -289,8 +278,8 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 4,Temperate Broadleaf and Mixed Forests,Southeastern mixed forests,95,Appalachian oak forest,9,Temperate Deciduous Forest,Appalachian oak forest
 4,Temperate Broadleaf and Mixed Forests,Southern Great Lakes forests,95,Appalachian oak forest,8,Temperate Deciduous Forest,Appalachian oak forest
 4,Temperate Broadleaf and Mixed Forests,Southern Great Lakes forests,93,Beech-maple forest,178,Temperate Deciduous Forest,Beech-maple forest
-4,Temperate Broadleaf and Mixed Forests,Southern Great Lakes forests,0,unk,25,Temperate Deciduous Forest,Beech-maple forest
 4,Temperate Broadleaf and Mixed Forests,Southern Great Lakes forests,94,Mixed mesophytic forest,2,Temperate Deciduous Forest,Mixed mesophytic forest
+4,Temperate Broadleaf and Mixed Forests,Southern Great Lakes forests,0,unk,25,Temperate Deciduous Forest,Beech-maple forest
 4,Temperate Broadleaf and Mixed Forests,Upper Midwest forest-savanna transition,90,Maple-basswood forest,90,Temperate Deciduous Forest,Maple-basswood forest
 4,Temperate Broadleaf and Mixed Forests,Western Great Lakes forests,90,Maple-basswood forest,7,Temperate Deciduous Forest,Maple-basswood forest
 5,Temperate Coniferous Forests,Atlantic coastal pine barrens,95,Appalachian oak forest,1,Temperate Deciduous Forest,Appalachian oak forest
@@ -317,58 +306,58 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 5,Temperate Coniferous Forests,South Central Rockies forests,57,Grama-needlegrass-wheatgrass,1,Temperate Grassland,Grama-needlegrass-wheatgrass
 5,Temperate Coniferous Forests,South Central Rockies forests,59,Wheatgrass-needlegrass,1,Temperate Grassland,Wheatgrass-needlegrass
 8,"Temperate Grasslands, Savannas, and Shrublands",California Central Valley grasslands,41,California steppe,66,Temperate Grassland,California steppe
-8,"Temperate Grasslands, Savannas, and Shrublands",Canadian Aspen forests and parklands,0,unk,206,Temperate Grassland,Wheatgrass-bluestem-needlegrass
-8,"Temperate Grasslands, Savannas, and Shrublands",Canadian Aspen forests and parklands,60,Wheatgrass-bluestem-needlegrass,5,Temperate Grassland,Wheatgrass-bluestem-needlegrass
+7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,69,Bluestem-sacahuista prairie,63,Tropical/Subtropical Savanna,Bluestem-sacahuista prairie
+8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,63,Sandsage-bluestem prairie,4,Temperate Grassland,Sandsage-bluestem prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,58,Grama-buffalo grass,8,Temperate Grassland,Grama-buffalo grass
 8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,76,Mesquite-buffalo grass,63,Temperate Grassland,Mesquite-buffalo grass
 8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,67,Sandhills prairie,19,Temperate Grassland,Sandhills prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,63,Sandsage-bluestem prairie,4,Temperate Grassland,Sandsage-bluestem prairie
+8,"Temperate Grasslands, Savannas, and Shrublands",Nebraska Sand Hills mixed grasslands,63,Sandsage-bluestem prairie,2,Temperate Grassland,Sandsage-bluestem prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,64,Shinnery,4,Temperate Grassland,Shinnery
-8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,60,Wheatgrass-bluestem-needlegrass,37,Temperate Grassland,Wheatgrass-bluestem-needlegrass
+8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,63,Sandsage-bluestem prairie,24,Temperate Grassland,Sandsage-bluestem prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,76,Mesquite-buffalo grass,1,Temperate Grassland,Mesquite-buffalo grass
 8,"Temperate Grasslands, Savannas, and Shrublands",Central tall grasslands,67,Sandhills prairie,1,Temperate Grassland,Sandhills prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Edwards Plateau savanna,76,Mesquite-buffalo grass,1,Temperate Grassland,Mesquite-buffalo grass
 8,"Temperate Grasslands, Savannas, and Shrublands",Faroe Islands boreal grasslands,0,unk,9,Temperate Grassland,
 8,"Temperate Grasslands, Savannas, and Shrublands",Montana Valley and Foothill grasslands,56,Foothills prairie,53,Temperate Grassland,Foothills prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Montana Valley and Foothill grasslands,0,unk,7,Temperate Grassland,Foothills prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Montana Valley and Foothill grasslands,57,Grama-needlegrass-wheatgrass,9,Temperate Grassland,Grama-needlegrass-wheatgrass
+8,"Temperate Grasslands, Savannas, and Shrublands",Montana Valley and Foothill grasslands,0,unk,7,Temperate Grassland,Foothills prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Nebraska Sand Hills mixed grasslands,67,Sandhills prairie,57,Temperate Grassland,Sandhills prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Nebraska Sand Hills mixed grasslands,63,Sandsage-bluestem prairie,2,Temperate Grassland,Sandsage-bluestem prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Nebraska Sand Hills mixed grasslands,60,Wheatgrass-bluestem-needlegrass,11,Temperate Grassland,Wheatgrass-bluestem-needlegrass
+8,"Temperate Grasslands, Savannas, and Shrublands",Canadian Aspen forests and parklands,0,unk,206,Temperate Grassland,Wheatgrass-bluestem-needlegrass
+8,"Temperate Grasslands, Savannas, and Shrublands",Canadian Aspen forests and parklands,60,Wheatgrass-bluestem-needlegrass,5,Temperate Grassland,Wheatgrass-bluestem-needlegrass
 8,"Temperate Grasslands, Savannas, and Shrublands",Nebraska Sand Hills mixed grasslands,59,Wheatgrass-needlegrass,1,Temperate Grassland,Wheatgrass-needlegrass
 8,"Temperate Grasslands, Savannas, and Shrublands",Northern mixed grasslands,67,Sandhills prairie,3,Temperate Grassland,Sandhills prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Northern mixed grasslands,0,unk,63,Temperate Grassland,Wheatgrass-bluestem-needlegrass
-8,"Temperate Grasslands, Savannas, and Shrublands",Northern mixed grasslands,60,Wheatgrass-bluestem-needlegrass,91,Temperate Grassland,Wheatgrass-bluestem-needlegrass
+8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,60,Wheatgrass-bluestem-needlegrass,37,Temperate Grassland,Wheatgrass-bluestem-needlegrass
+8,"Temperate Grasslands, Savannas, and Shrublands",Nebraska Sand Hills mixed grasslands,60,Wheatgrass-bluestem-needlegrass,11,Temperate Grassland,Wheatgrass-bluestem-needlegrass
 8,"Temperate Grasslands, Savannas, and Shrublands",Northern mixed grasslands,59,Wheatgrass-needlegrass,5,Temperate Grassland,Wheatgrass-needlegrass
 8,"Temperate Grasslands, Savannas, and Shrublands",Northern short grasslands,56,Foothills prairie,2,Temperate Grassland,Foothills prairie
 8,"Temperate Grasslands, Savannas, and Shrublands",Northern short grasslands,58,Grama-buffalo grass,2,Temperate Grassland,Grama-buffalo grass
 8,"Temperate Grasslands, Savannas, and Shrublands",Northern short grasslands,57,Grama-needlegrass-wheatgrass,188,Temperate Grassland,Grama-needlegrass-wheatgrass
 8,"Temperate Grasslands, Savannas, and Shrublands",Northern short grasslands,67,Sandhills prairie,1,Temperate Grassland,Sandhills prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Northern short grasslands,60,Wheatgrass-bluestem-needlegrass,11,Temperate Grassland,Wheatgrass-bluestem-needlegrass
 8,"Temperate Grasslands, Savannas, and Shrublands",Northern short grasslands,0,unk,89,Temperate Grassland,Wheatgrass-needlegrass
+8,"Temperate Grasslands, Savannas, and Shrublands",Northern mixed grasslands,0,unk,63,Temperate Grassland,Wheatgrass-bluestem-needlegrass
 8,"Temperate Grasslands, Savannas, and Shrublands",Northern short grasslands,59,Wheatgrass-needlegrass,281,Temperate Grassland,Wheatgrass-needlegrass
 8,"Temperate Grasslands, Savannas, and Shrublands",Palouse grasslands,43,Fescue-wheatgrass,31,Temperate Grassland,Fescue-wheatgrass
 8,"Temperate Grasslands, Savannas, and Shrublands",Palouse grasslands,44,Wheatgrass-bluegrass,35,Temperate Grassland,Wheatgrass-bluegrass
 8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,58,Grama-buffalo grass,401,Temperate Grassland,Grama-buffalo grass
 8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,57,Grama-needlegrass-wheatgrass,2,Temperate Grassland,Grama-needlegrass-wheatgrass
 8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,76,Mesquite-buffalo grass,27,Temperate Grassland,Mesquite-buffalo grass
-8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,63,Sandsage-bluestem prairie,24,Temperate Grassland,Sandsage-bluestem prairie
+8,"Temperate Grasslands, Savannas, and Shrublands",Northern mixed grasslands,60,Wheatgrass-bluestem-needlegrass,91,Temperate Grassland,Wheatgrass-bluestem-needlegrass
 8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,64,Shinnery,22,Temperate Grassland,Shinnery
-8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,60,Wheatgrass-bluestem-needlegrass,5,Temperate Grassland,Wheatgrass-bluestem-needlegrass
+8,"Temperate Grasslands, Savannas, and Shrublands",Northern short grasslands,60,Wheatgrass-bluestem-needlegrass,11,Temperate Grassland,Wheatgrass-bluestem-needlegrass
 8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,59,Wheatgrass-needlegrass,6,Temperate Grassland,Wheatgrass-needlegrass
 4,Temperate Broadleaf and Mixed Forests,Allegheny Highlands forests,99,Northern hardwods-spruce forest,1,Temperate Mixed Forest,Northern hardwods-spruce forest
 4,Temperate Broadleaf and Mixed Forests,Allegheny Highlands forests,97,Northern hardwoods,112,Temperate Mixed Forest,Northern hardwoods
 4,Temperate Broadleaf and Mixed Forests,Appalachian mixed mesophytic forests,97,Northern hardwoods,21,Temperate Mixed Forest,Northern hardwoods
 4,Temperate Broadleaf and Mixed Forests,Appalachian-Blue Ridge forests,97,Northern hardwoods,26,Temperate Mixed Forest,Northern hardwoods
 4,Temperate Broadleaf and Mixed Forests,Eastern forest-boreal transition,99,Northern hardwods-spruce forest,15,Temperate Mixed Forest,Northern hardwods-spruce forest
-4,Temperate Broadleaf and Mixed Forests,Eastern forest-boreal transition,0,unk,173,Temperate Mixed Forest,Northern hardwods-spruce forest
 4,Temperate Broadleaf and Mixed Forests,Eastern forest-boreal transition,97,Northern hardwoods,14,Temperate Mixed Forest,Northern hardwoods
+4,Temperate Broadleaf and Mixed Forests,Eastern forest-boreal transition,0,unk,173,Temperate Mixed Forest,Northern hardwods-spruce forest
 4,Temperate Broadleaf and Mixed Forests,Eastern Great Lakes lowland forests,97,Northern hardwoods,35,Temperate Mixed Forest,Northern hardwoods
 4,Temperate Broadleaf and Mixed Forests,Eastern Great Lakes lowland forests,0,unk,53,Temperate Mixed Forest,Northern hardwoods
 4,Temperate Broadleaf and Mixed Forests,Gulf of St. Lawrence lowland forests,0,unk,29,Temperate Mixed Forest,Gulf of St. Lawrence lowland forests
 4,Temperate Broadleaf and Mixed Forests,New England-Acadian forests,99,Northern hardwods-spruce forest,74,Temperate Mixed Forest,Northern hardwods-spruce forest
-4,Temperate Broadleaf and Mixed Forests,New England-Acadian forests,0,unk,67,Temperate Mixed Forest,Northern hardwods-spruce forest
 4,Temperate Broadleaf and Mixed Forests,New England-Acadian forests,97,Northern hardwoods,113,Temperate Mixed Forest,Northern hardwoods
+4,Temperate Broadleaf and Mixed Forests,New England-Acadian forests,0,unk,67,Temperate Mixed Forest,Northern hardwods-spruce forest
 4,Temperate Broadleaf and Mixed Forests,Northeastern coastal forests,99,Northern hardwods-spruce forest,11,Temperate Mixed Forest,Northern hardwods-spruce forest
 4,Temperate Broadleaf and Mixed Forests,Northeastern coastal forests,97,Northern hardwoods,66,Temperate Mixed Forest,Northern hardwoods
 4,Temperate Broadleaf and Mixed Forests,Southern Great Lakes forests,97,Northern hardwoods,27,Temperate Mixed Forest,Northern hardwoods
@@ -425,7 +414,7 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 5,Temperate Coniferous Forests,Eastern Cascades forests,10,Western ponderosa forest,24,Temperate Pine Forest,Western ponderosa forest
 5,Temperate Coniferous Forests,Great Basin montane forests,10,Western ponderosa forest,5,Temperate Pine Forest,Western ponderosa forest
 5,Temperate Coniferous Forests,Middle Atlantic coastal forests,101,Oak-hickory-pine forest,163,Temperate Pine Forest,Oak-hickory-pine forest
-5,Temperate Coniferous Forests,Middle Atlantic coastal forests,0,unk,14,Temperate Pine Forest,
+5,Temperate Coniferous Forests,Middle Atlantic coastal forests,104,Pocosin,11,Warm Swamp,Pocosin
 5,Temperate Coniferous Forests,North Central Rockies forests,10,Western ponderosa forest,34,Temperate Pine Forest,Western ponderosa forest
 5,Temperate Coniferous Forests,Okanagan dry forests,0,unk,28,Temperate Pine Forest,Western ponderosa forest
 5,Temperate Coniferous Forests,Okanagan dry forests,10,Western ponderosa forest,1,Temperate Pine Forest,Western ponderosa forest
@@ -435,7 +424,7 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 5,Temperate Coniferous Forests,South Central Rockies forests,16,Black Hills pine forest,15,Temperate Pine Forest,Black Hills pine forest
 5,Temperate Coniferous Forests,South Central Rockies forests,10,Western ponderosa forest,11,Temperate Pine Forest,Western ponderosa forest
 5,Temperate Coniferous Forests,Southeastern conifer forests,101,Oak-hickory-pine forest,3,Temperate Pine Forest,Oak-hickory-pine forest
-5,Temperate Coniferous Forests,Southeastern conifer forests,0,unk,13,Temperate Pine Forest,
+5,Temperate Coniferous Forests,Southeastern conifer forests,0,unk,13,Tropical Pine Forest,
 5,Temperate Coniferous Forests,Wasatch and Uinta montane forests,18,Arizona pine forest,2,Temperate Pine Forest,Arizona pine forest
 8,"Temperate Grasslands, Savannas, and Shrublands",Central forest-grasslands transition,101,Oak-hickory-pine forest,5,Temperate Pine Forest,Oak-hickory-pine forest
 8,"Temperate Grasslands, Savannas, and Shrublands",Montana Valley and Foothill grasslands,15,Eastern ponderosa forest,1,Temperate Pine Forest,Eastern ponderosa forest
@@ -511,13 +500,22 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 1,Tropical and Subtropical Moist Broadleaf Forests,Talamancan montane forests,0,unk,18,Tropical Montane Forest,Talamancan montane forests
 1,Tropical and Subtropical Moist Broadleaf Forests,Venezuelan Andes montane forests,0,unk,24,Tropical Montane Forest,Venezuelan Andes montane forests
 1,Tropical and Subtropical Moist Broadleaf Forests,Veracruz montane forests,0,unk,12,Tropical Montane Forest,Veracruz montane forests
+4,Temperate Broadleaf and Mixed Forests,Appalachian mixed mesophytic forests,102,Southern mixed forest,1,Tropical Pine Forest,Southern mixed forest
+4,Temperate Broadleaf and Mixed Forests,Mississippi lowland forests,102,Southern mixed forest,3,Tropical Pine Forest,Southern mixed forest
+4,Temperate Broadleaf and Mixed Forests,Southeastern mixed forests,102,Southern mixed forest,1,Tropical Pine Forest,Southern mixed forest
+5,Temperate Coniferous Forests,Florida sand pine scrub,102,Southern mixed forest,9,Tropical Pine Forest,Southern mixed forest
+5,Temperate Coniferous Forests,Middle Atlantic coastal forests,103,Southern floodplain forest,16,Warm Swamp,Southern floodplain forest
+5,Temperate Coniferous Forests,Piney Woods forests,102,Southern mixed forest,16,Tropical Pine Forest,Southern mixed forest
+5,Temperate Coniferous Forests,Southeastern conifer forests,102,Southern mixed forest,278,Tropical Pine Forest,Southern mixed forest
 3,Tropical and Subtropical Coniferous Forests,Bahamian pine mosaic,0,unk,13,Tropical Pine Forest,Bahamian pine mosaic
 3,Tropical and Subtropical Coniferous Forests,Belizian pine forests,0,unk,11,Tropical Pine Forest,Belizian pine forests
 3,Tropical and Subtropical Coniferous Forests,Cuban pine forests,0,unk,13,Tropical Pine Forest,Cuban pine forests
 3,Tropical and Subtropical Coniferous Forests,Hispaniolan pine forests,0,unk,15,Tropical Pine Forest,Hispaniolan pine forests
 3,Tropical and Subtropical Coniferous Forests,Miskito pine forests,0,unk,19,Tropical Pine Forest,Miskito pine forests
+7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,102,Southern mixed forest,3,Tropical Pine Forest,Southern mixed forest
 1,Tropical and Subtropical Moist Broadleaf Forests,South Florida rocklands,106,Sub-tropical pine forest,15,Tropical Pine Forest,South Florida rocklands
 1,Tropical and Subtropical Moist Broadleaf Forests,South Florida rocklands,0,unk,10,Tropical Pine Forest,South Florida rocklands
+9,Wetlands,Everglades,102,Southern mixed forest,9,Tropical Pine Forest,Southern mixed forest
 9,Wetlands,Everglades,106,Sub-tropical pine forest,4,Tropical Pine Forest,South Florida rocklands
 4,Temperate Broadleaf and Mixed Forests,East Central Texas forests,54,Mesquite-acacia-savanna,11,Tropical/Subtropical Savanna,Mesquite-acacia-savanna
 5,Temperate Coniferous Forests,Florida sand pine scrub,71,Palmetto prairie,3,Tropical/Subtropical Savanna,Palmetto prairie
@@ -529,7 +527,7 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 7,"Tropical and subtropical grasslands, savannas, and shrublands",Guianan savanna,0,unk,14,Tropical/Subtropical Savanna,Guianan savanna
 7,"Tropical and subtropical grasslands, savannas, and shrublands",Hawaii tropical low shrublands,0,unk,22,Tropical/Subtropical Savanna,Hawaii tropical low shrublands
 7,"Tropical and subtropical grasslands, savannas, and shrublands",Llanos,0,unk,184,Tropical/Subtropical Savanna,Llanos
-7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,69,Bluestem-sacahuista prairie,63,Tropical/Subtropical Savanna,Bluestem-sacahuista prairie
+8,"Temperate Grasslands, Savannas, and Shrublands",Western short grasslands,60,Wheatgrass-bluestem-needlegrass,5,Temperate Grassland,Wheatgrass-bluestem-needlegrass
 7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,54,Mesquite-acacia-savanna,9,Tropical/Subtropical Savanna,Mesquite-acacia-savanna
 7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,0,unk,13,Tropical/Subtropical Savanna,
 9,Wetlands,Everglades,71,Palmetto prairie,2,Tropical/Subtropical Savanna,Palmetto prairie
@@ -545,11 +543,11 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 13,Deserts and Xeric Shrublands,Tamaulipan mezquital,38,Ceniza shrub,9,Tropical/Subtropical Thornscrub,Ceniza shrub
 13,Deserts and Xeric Shrublands,Tamaulipan mezquital,38,Ceniza shrub,9,Tropical/Subtropical Thornscrub,Ceniza shrub
 13,Deserts and Xeric Shrublands,Tamaulipan mezquital,54,Mesquite-acacia-savanna,59,Tropical/Subtropical Thornscrub,Mesquite-acacia-savanna
-13,Deserts and Xeric Shrublands,Tamaulipan mezquital,0,unk,44,Tropical/Subtropical Thornscrub,Mesquite-acacia-savanna
 13,Deserts and Xeric Shrublands,Tamaulipan mezquital,54,Mesquite-acacia-savanna,59,Tropical/Subtropical Thornscrub,Mesquite-acacia-savanna
-13,Deserts and Xeric Shrublands,Tamaulipan mezquital,0,unk,44,Tropical/Subtropical Thornscrub,Mesquite-acacia-savanna
 13,Deserts and Xeric Shrublands,Tamaulipan mezquital,55,Mesquite-live oak savanna,3,Tropical/Subtropical Thornscrub,Mesquite-live oak savanna
 13,Deserts and Xeric Shrublands,Tamaulipan mezquital,53,Trans-Pecos shrub savanna,3,Tropical/Subtropical Thornscrub,Trans-Pecos shrub savanna
+13,Deserts and Xeric Shrublands,Tamaulipan mezquital,0,unk,44,Tropical/Subtropical Thornscrub,Mesquite-acacia-savanna
+13,Deserts and Xeric Shrublands,Tamaulipan mezquital,0,unk,44,Tropical/Subtropical Thornscrub,Mesquite-acacia-savanna
 2,Tropical and Subtropical Dry Broadleaf Forests,Sonoran-Sinaloan transition subtropical dry forest,0,unk,35,Tropical/Subtropical Thornscrub,Sonoran-Sinaloan transition subtropical dry forest
 5,Temperate Coniferous Forests,British Columbia mainland coastal forests,45,Alpine meadows and barren,1,Tundra,Alpine meadows and barren
 5,Temperate Coniferous Forests,Cascade Mountains leeward forests,45,Alpine meadows and barren,3,Tundra,Alpine meadows and barren
@@ -595,10 +593,10 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 13,Deserts and Xeric Shrublands,Mojave desert,35,Creosote bush,101,Warm Desert,Creosote bush
 13,Deserts and Xeric Shrublands,Mojave desert,52,Grama-tobosa shrubsteppe,2,Warm Desert,Grama-tobosa shrubsteppe
 13,Deserts and Xeric Shrublands,Sonoran desert,36,Creosote bush-bur sage,105,Warm Desert,Creosote bush-bur sage
-13,Deserts and Xeric Shrublands,Sonoran desert,0,unk,56,Warm Desert,Creosote bush-bur sage
 13,Deserts and Xeric Shrublands,Sonoran desert,52,Grama-tobosa shrubsteppe,7,Warm Desert,Grama-tobosa shrubsteppe
 13,Deserts and Xeric Shrublands,Sonoran desert,23,Mesquite bosques,2,Warm Desert,Mesquite bosques
 13,Deserts and Xeric Shrublands,Sonoran desert,37,Palo verde-cactus shrub,24,Warm Desert,Palo verde-cactus shrub
+13,Deserts and Xeric Shrublands,Sonoran desert,0,unk,56,Warm Desert,Creosote bush-bur sage
 13,Deserts and Xeric Shrublands,Tehuacán Valley matorral,0,unk,14,Warm Desert,Tehuacán Valley matorral
 12,"Mediterranean Forests, Woodlands, and Scrub",California coastal sage and chaparral,36,Creosote bush-bur sage,1,Warm Desert,Creosote bush-bur sage
 5,Temperate Coniferous Forests,Arizona Mountains forests,36,Creosote bush-bur sage,4,Warm Desert,Creosote bush-bur sage
@@ -612,8 +610,8 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 4,Temperate Broadleaf and Mixed Forests,Mississippi lowland forests,103,Southern floodplain forest,143,Warm Swamp,Southern floodplain forest
 4,Temperate Broadleaf and Mixed Forests,Ozark Mountain forests,103,Southern floodplain forest,4,Warm Swamp,Southern floodplain forest
 4,Temperate Broadleaf and Mixed Forests,Southeastern mixed forests,103,Southern floodplain forest,8,Warm Swamp,Southern floodplain forest
-5,Temperate Coniferous Forests,Middle Atlantic coastal forests,104,Pocosin,11,Warm Swamp,Pocosin
-5,Temperate Coniferous Forests,Middle Atlantic coastal forests,103,Southern floodplain forest,16,Warm Swamp,Southern floodplain forest
+5,Temperate Coniferous Forests,Middle Atlantic coastal forests,102,Southern mixed forest,19,Tropical Pine Forest,Southern mixed forest
+5,Temperate Coniferous Forests,Middle Atlantic coastal forests,0,unk,14,Temperate Pine Forest,
 5,Temperate Coniferous Forests,Piney Woods forests,103,Southern floodplain forest,38,Warm Swamp,Southern floodplain forest
 5,Temperate Coniferous Forests,Southeastern conifer forests,82,Cypress savanna,1,Warm Swamp,Cypress savanna
 5,Temperate Coniferous Forests,Southeastern conifer forests,103,Southern floodplain forest,20,Warm Swamp,Southern floodplain forest
@@ -647,14 +645,3 @@ BIOME,biomname,ECO_NAME,CODE,TYPE,count,synbiome,synth
 3,Tropical and Subtropical Coniferous Forests,Sierra Madre Oriental pine-oak forests,0,unk,41,Warm Xeric Woodland,Sierra Madre Oriental pine-oak forests
 3,Tropical and Subtropical Coniferous Forests,Trans-Mexican Volcanic Belt pine-oak forests,0,unk,56,Warm Xeric Woodland,Trans-Mexican Volcanic Belt pine-oak forests
 7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,55,Mesquite-live oak savanna,7,Warm Xeric Woodland,Mesquite-live oak savanna
-4,Temperate Broadleaf and Mixed Forests,East Central Texas forests,54,Mesquite-acacia-savanna,11,,Mesquite-acacia-savanna
-5,Temperate Coniferous Forests,Florida sand pine scrub,102,Southern mixed forest,9,,Southern mixed forest
-8,"Temperate Grasslands, Savannas, and Shrublands",Canadian Aspen forests and parklands,0,unk,206,,Wheatgrass-bluestem-needlegrass
-8,"Temperate Grasslands, Savannas, and Shrublands",Central and Southern mixed grasslands,67,Sandhills prairie,19,,Sandhills prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Central tall grasslands,67,Sandhills prairie,1,,Sandhills prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Edwards Plateau savanna,54,Mesquite-acacia-savanna,8,,Mesquite-acacia-savanna
-8,"Temperate Grasslands, Savannas, and Shrublands",Nebraska Sand Hills mixed grasslands,67,Sandhills prairie,57,,Sandhills prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Northern mixed grasslands,67,Sandhills prairie,3,,Sandhills prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Northern short grasslands,67,Sandhills prairie,1,,Sandhills prairie
-8,"Temperate Grasslands, Savannas, and Shrublands",Texas blackland prairies,54,Mesquite-acacia-savanna,5,,Mesquite-acacia-savanna
-7,"Tropical and subtropical grasslands, savannas, and shrublands",Western Gulf coastal grasslands,54,Mesquite-acacia-savanna,9,,Mesquite-acacia-savanna
